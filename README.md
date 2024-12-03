@@ -44,10 +44,25 @@ I'm a **Data Scientist** with a passion for **machine learning** 🤖 and **arti
 
 ---
 
-## 🌟 Fun Facts  
-- 🎶 I thrive on problem-solving while listening to my favorite tunes.  
+## 🌟 Fun Facts    
 - 🌍 I love exploring **emerging AI tools** and applying them to real-world issues.  
-- ✏️ Sharing knowledge and mentoring has been a journey of mutual discovery and growth.  
+- ✏️ Sharing knowledge and mentoring has been a journey of mutual discovery and growth.
+- - 🎶 I thrive on problem-solving while listening to my favorite tunes.
+
+  # 🎧 Music I Love 🎧
+
+When I’m not immersed in data science, I enjoy relaxing with violin covers by **Daniel Jang**. 🎻✨  
+
+- **YouTube**: [Daniel Jang's Channel](https://www.youtube.com/channel/UCWGjVNMtUEF_S-J91m_imlw)  
+- **Spotify**: [Daniel Jang on Spotify](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN?autoplay=true)  
+
+### 🎧 Stream Daniel Jang's Music via Command Line
+Want to enjoy Daniel Jang's playlist directly from your terminal? Here’s how:  
+
+1. Install **mpv** and **yt-dlp** (see the instructions [here](https://mpv.io/installation/)).  
+2. Stream the playlist with this command:  
+   ```bash
+   mpv --no-video https://www.youtube.com/playlist?list=PLk5dxSBqUW1-2PBtFJAZtbLV9NkAgmNry
 
 ---
 
