@@ -55,6 +55,14 @@ When I’m not immersed in data, I enjoy the soothing violin melodies of **Danie
 
 ---
 
+### 🏆 Achievements & Tags
+**Tags**: #DataScience #MachineLearning #AI #Visualization #PredictiveModeling
+🌟 Achievements:
+🥇 Increased operational efficiency by 20% through optimized workflows.
+📊 Developed predictive models to forecast key business trends.
+🎓 Mentored 50+ students in STEM, fostering success in advanced topics.
+
+---
 ### 📬 **Let’s Connect**  
 💻 **Portfolio**: [My Projects](#)  
 📧 **Email**: [becaziam@gmail.com](mailto:becaziam@gmail.com)  
@@ -73,5 +81,43 @@ Here are some exciting projects I’ve worked on:
    [GitHub Repo](#)
 
 ---
+Here’s an updated and personalized section for your README to highlight your development environment, tailored to your experience with macOS and your preferred tools:
+
+---
+
+### ⚙️ **My Development Environment**
+
+I’ve grown up using **macOS**, which has become my ultimate go-to operating system for development. Its seamless user experience and Unix-based foundation allow me to explore the best of both worlds: efficiency and flexibility. My workflow is powered by a suite of tools and configurations that streamline my productivity and enable me to tackle even the most complex data science challenges.
+
+#### 🖥️ **macOS Power User**  
+I maximize my productivity on macOS by using tools and configurations that make development efficient and enjoyable. Here’s what my setup looks like:  
+
+| **Category**         | **Tools & Configurations**                                                                                                                                  |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Terminal Tools**    | - macOS Terminal with **zsh** and **Oh My Zsh**<br>- **iTerm2**: Customizable and visually appealing terminal experience                                    |
+| **Key Tools**         | - **Anaconda**: Python environment and data science library management<br>- **PyCharm**: IDE for Python development 🛠️<br>- **R**: Statistical analysis 📊 |
+| **Editors**           | - **Atom**<br>- **Visual Studio Code**: Quick scripting and lightweight coding                                                                            |
+| **Development Stack** | - **Homebrew**: Package manager for macOS<br>- **Git**: Version control<br>- **Docker**: Containerized development and deployment 🐳<br>- **VS Code Extensions**: Python, Jupyter, Markdown Preview Enhanced |
+
+---
+
+#### 🐧 **Unix Enthusiast on macOS**
+| **Focus Area**         | **Details**                                                                                          |
+|-------------------------|------------------------------------------------------------------------------------------------------|
+| **Scripting**           | **bash/zsh** scripting for automation and workflow customization.                                   |
+| **Remote Work**         | Leveraging **SSH** to connect to Linux servers and deploy machine learning models.                  |
+| **Python Ecosystem**    | Tools like **Jupyter Notebooks**, **pandas**, and **scikit-learn** for advanced data analysis.       |
+
+---
+### 🛠️ **macOS Apps I Rely On**
+
+| **App**          | **Purpose**                                         |
+|-------------------|-----------------------------------------------------|
+| **Alfred**        | Productivity booster with customizable workflows.   |
+| **Notion**        | Organizing projects, notes, and ideas.              |
+| **Postman**       | API testing and development.                        |
+| **Slack**         | Collaboration and team communication.               |
+| **Obsidian**      | Knowledge management and project organization.      |
+| **Sublime Text**  | Quick and efficient text editing.                   |
 
 
