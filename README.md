@@ -63,17 +63,6 @@ When I’m not immersed in data, I enjoy the soothing violin melodies of **Danie
 
 ---
 
-### ✨ **Aesthetic Details**
-To ensure a minimalist and professional design:
-- Use a light background with simple black text for **Markdown styling**.
-- Add subtle **horizontal lines** (`---`) to separate sections.  
-- Include clean **tables** for organized presentation.  
-- Opt for **lighter emojis** to keep it fun without overwhelming.  
-
-
-
----
-
 ## 🏆 Featured Projects  
 Here are some exciting projects I’ve worked on:  
 1. **Cat vs Dog Classifier** 🐱🐶: A CNN model to classify images with 95% accuracy.  
