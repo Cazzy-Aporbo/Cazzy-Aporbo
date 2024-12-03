@@ -1,76 +1,76 @@
 # Hi there, I'm Cazzy! 👋✨
 
-## 🚀 About Me  
-I'm a **Data Scientist** with a passion for **machine learning** 🤖 and **artificial intelligence** 🌐. My mission is to **leverage data to build impactful solutions**, blending cutting-edge technologies with creativity to solve complex problems.
+---
 
-- 🔭 **Currently Working On**: Finding trends in **stock market data** 📈 and performing **time series analysis** ⏳.  
-- 🌱 **Learning & Growing**: Mastering **end-to-end machine learning model deployment** 🚀 with a focus on **data visualization** 📊 and **predictive modeling**.  
-- 👩‍🏫 **STEM Tutor**: I love mentoring students in **advanced math**, **data science**, and **statistics**, transforming challenges into opportunities for growth and discovery. 💡  
+### 🖤 **About Me**
+I’m a **Data Scientist** with a passsion for turning data into actionable insights. My journey is fueled by a blend of curiosity and commitment to growth, exploring **machine learning**, **data visualization**, and **predictive modeling**.  
+
+- 🔭 **Current Projects**:  
+  - Analyzing trends in **stock market data** 📈.  
+  - Conducting **time series analysis** to predict future trends ⏳.  
+- 🌱 **Focus Areas**:  
+  - End-to-end **machine learning model deployment** 🚀.  
+  - Advanced **data visualization** 📊.  
+- 👩‍🏫 **Mentor & Tutor**: Sharing knowledge and inspiring growth in **STEM subjects**, including **advanced math** and **advance statistics**.  
 
 ---
 
-## 🏢 **Professional Experience**
-
-### **Data Scientist | A Better Life Appliance Repair** 🛠️  
-**Aug 2023 - Present** (1 yr 5 mos)  
-- Designed and implemented dashboards for **budget forecasting** 💰 and **operation optimization** ⚙️.  
-- Developed a system to **organize parts**, streamline **employee scheduling**, and efficiently **manage customer data**.  
-- Enhanced database functionality for **secure data storage** 🔐 and faster **data retrieval** 📂.  
-- Leveraged **predictive modeling** and **visualization tools** to deliver actionable insights that improved operational efficiency by over 20%.  
-- Utilized **advanced Python packages** for analytics, driving **strategic planning** and improved decision-making.  
+### ✨ **Relevent Professional Experience**  
+#### **Data Scientist | A Better Life Appliance Repair** 🛠️  
+**Aug 2023 - Present**  
+- Designed intuitive dashboards for **budget forecasting** and **operations optimization**.  
+- Streamlined workflows by developing systems for **part organization** and **employee scheduling**.  
+- Enhanced database performance, improving **data retrieval** and **security**.  
+- Delivered **actionable insights** using predictive modeling and advanced visualization techniques.  
 
 ---
 
-## 🛠️ Skills & Tools  
+### 🌟 **Skills & Tools**  
 
-### **Data Science & Machine Learning**:
-- **Languages**: Python 🐍 | R 📊 | SQL 🛢️  
-- **ML Libraries**: Scikit-learn 🤖 | TensorFlow 🧠 | Keras | PyTorch 🔥  
-- **Visualization**: Matplotlib 📈 | Seaborn 🌊 | Plotly 📊 | Tableau 🎨  
+| **Data Science**   | **Development Tools** | **Cloud Platforms**   |  
+| :-----------------: | :-------------------: | :-------------------: |  
+| Python 🐍           | Jupyter Notebooks 📓  | AWS ☁️               |  
+| R 📊               | PyCharm 🛠️          | Google Cloud 🌍       |  
+| SQL 🛢️            | Git & GitHub 🗂️      | Azure 🔵              |  
+| TensorFlow 🤖       | Docker 🐳            | Heroku 🚀             |  
+| Tableau 🎨         | Flask 🌟             | —                     |  
 
-### 🌐 **End-to-End ML Development**:
-- **Data Preprocessing**: Pandas 🐼 | NumPy 🔢  
-- **Deployment**: Docker 🐳 | Flask 🌟 | Streamlit 🚪
-### **Development Tools & IDEs**:
-- **Data Science Tools**: Jupyter Notebooks 📓 | Google Colab 💻 | PyCharm 🛠️
-- **Version Control**: Git & GitHub 🗂️
-- **Deployment & Automation**: Docker 🐳 | Flask 🌟 | Streamlit 🚪  
-- **Cloud Platforms**: AWS ☁️ | Google Cloud Platform 🌍 | Azure  
-
-### 📚 **Additional Skills**:
-- **Statistics**: Hypothesis testing, regression analysis, and Bayesian methods 📉  
-- **Data Engineering**: ETL pipelines, data cleaning, and data warehousing 🛠️  
-- **Soft Skills**: Problem-solving 🧩 | Communication 🗣️ | Teamwork 🤝  
 
 ---
 
-## 🌟 Fun Facts    
-- 🌍 I love exploring **emerging AI tools** and applying them to real-world issues.  
-- ✏️ Sharing knowledge and mentoring has been a journey of mutual discovery and growth.
-- - 🎶 I thrive on problem-solving while listening to my favorite tunes.
-
-  # 🎧 Music I Love 🎧
-
-When I’m not immersed in data science, I enjoy relaxing with violin covers by **Daniel Jang**. 🎻✨  
-
+### 🎵 **Music I Love**  
+When I’m not immersed in data, I enjoy the soothing violin melodies of **Daniel Jang** 🎻.  
 - **YouTube**: [Daniel Jang's Channel](https://www.youtube.com/channel/UCWGjVNMtUEF_S-J91m_imlw)  
 - **Spotify**: [Daniel Jang on Spotify](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN?autoplay=true)  
 
-### 🎧 Stream Daniel Jang's Music via Command Line
-Want to enjoy Daniel Jang's playlist directly from your terminal? Here’s how:  
+---
 
-1. Install **mpv** and **yt-dlp** (see the instructions [here](https://mpv.io/installation/)).  
-2. Stream the playlist with this command:  
-   ```bash
-   mpv --no-video https://www.youtube.com/playlist?list=PLk5dxSBqUW1-2PBtFJAZtbLV9NkAgmNry
+### 🏆 **Featured Projects**  
+- **Cat vs Dog Classifier** 🐱🐶: A CNN model achieving 95% accuracy.  
+  [View Project](#)  
+- **Stock Market Trend Prediction** 📈: Time series forecasting using ARIMA and LSTM.  
+  [View Project](#)  
+- **Earthquake Prediction** 🌍: Seismic activity analysis for disaster readiness.  
+  [View Project](#)  
 
 ---
 
-## 📬 Let's Connect  
-💻 **Portfolio**: [Check out my projects!](#)  
+### 📬 **Let’s Connect**  
+💻 **Portfolio**: [My Projects](#)  
 📧 **Email**: [becaziam@gmail.com](mailto:becaziam@gmail.com)  
 📱 **LinkedIn**: [linkedin.com/in/cazandra-aporbo](https://www.linkedin.com/in/cazandra-aporbo)  
 🖥️ **GitHub**: [Cazzy-Aporbo](https://github.com/Cazzy-Aporbo)  
+
+---
+
+### ✨ **Aesthetic Details**
+To ensure a minimalist and professional design:
+- Use a light background with simple black text for **Markdown styling**.
+- Add subtle **horizontal lines** (`---`) to separate sections.  
+- Include clean **tables** for organized presentation.  
+- Opt for **lighter emojis** to keep it fun without overwhelming.  
+
+
 
 ---
 
