@@ -81,9 +81,6 @@ Here are some exciting projects I’ve worked on:
    [GitHub Repo](#)
 
 ---
-Here’s an updated and personalized section for your README to highlight your development environment, tailored to your experience with macOS and your preferred tools:
-
----
 
 ### ⚙️ **My Development Environment**
 
