@@ -1,22 +1,22 @@
-# Hi there, I'm Cazzy! 👋✨
+# Hi there, I'm Cazzy! 
 
 ---
 
 ### 🖤 **About Me**
 I’m a **Data Scientist** with a passsion for turning data into actionable insights. My journey is fueled by a blend of curiosity and commitment to growth, exploring **machine learning**, **data visualization**, and **predictive modeling**.  
 
-- 🔭 **Current Projects**:  
-  - Analyzing trends in **stock market data** 📈.  
-  - Conducting **time series analysis** to predict future trends ⏳.  
-- 🌱 **Focus Areas**:  
-  - End-to-end **machine learning model deployment** 🚀.  
-  - Advanced **data visualization** 📊.  
-- 👩‍🏫 **Mentor & Tutor**: Sharing knowledge and inspiring growth in **STEM subjects**, including **advanced math** and **advance statistics**.  
+-  **Current Projects**:  
+  - Analyzing trends in **stock market data**.  
+  - Conducting **time series analysis** to predict future trends.  
+-  **Focus Areas**:  
+  - End-to-end **machine learning model deployment**.  
+  - Advanced **data visualization**.  
+-  **Mentor & Tutor**: Sharing knowledge and inspiring growth in **STEM subjects**, including **advanced math** and **advance statistics**.  
 
 ---
 
-### ✨ **Relevent Professional Experience**  
-#### **Data Scientist | A Better Life Appliance Repair** 🛠️  
+###  **Relevent Professional Experience**  
+#### **Data Scientist | A Better Life Appliance Repair** 🛠  
 **Aug 2023 - Present**  
 - Designed intuitive dashboards for **budget forecasting** and **operations optimization**.  
 - Streamlined workflows by developing systems for **part organization** and **employee scheduling**.  
@@ -25,42 +25,42 @@ I’m a **Data Scientist** with a passsion for turning data into actionable insi
 
 ---
 
-### 🌟 **Skills & Tools**  
+###  **Skills & Tools**  
 
 | **Data Science**   | **Development Tools** | **Cloud Platforms**   |  
 | :-----------------: | :-------------------: | :-------------------: |  
-| Python 🐍           | Jupyter Notebooks 📓  | AWS ☁️               |  
-| R 📊               | PyCharm 🛠️          | Google Cloud 🌍       |  
-| SQL 🛢️            | Git & GitHub 🗂️      | Azure 🔵              |  
-| TensorFlow 🤖       | Docker 🐳            | Heroku 🚀             |  
-| Tableau 🎨         | Flask 🌟             | —                     |  
+| Python            | Jupyter Notebooks   | AWS                |  
+| R                | PyCharm           | Google Cloud        |  
+| SQL             | Git & GitHub       | Azure               |  
+| TensorFlow        | Docker             | Heroku              |  
+| Tableau          | Flask              | —                     |  
 
 
 ---
 
-### 🎵 **Music I Love**  
-When I’m not immersed in data, I enjoy the soothing violin melodies of **Daniel Jang** 🎻.  
+### � **Music I Love**  
+When I’m not immersed in data, I enjoy the soothing violin melodies of **Daniel Jang** .  
 - **YouTube**: [Daniel Jang's Channel](https://www.youtube.com/channel/UCWGjVNMtUEF_S-J91m_imlw)  
 - **Spotify**: [Daniel Jang on Spotify](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN?autoplay=true)  
 
 ---
 
-### 🏆 **Featured Projects**  
-- **Cat vs Dog Classifier** 🐱🐶: A CNN model achieving 95% accuracy.  
+###  **Featured Projects**  
+- **Cat vs Dog Classifier** : A CNN model achieving 95% accuracy.  
   [View Project](#)  
-- **Stock Market Trend Prediction** 📈: Time series forecasting using ARIMA and LSTM.  
+- **Stock Market Trend Prediction** : Time series forecasting using ARIMA and LSTM.  
   [View Project](#)  
-- **Earthquake Prediction** 🌍: Seismic activity analysis for disaster readiness.  
+- **Earthquake Prediction** : Seismic activity analysis for disaster readiness.  
   [View Project](#)  
 
 ---
 
-### 🏆 Achievements & Tags
+###  Achievements & Tags
 **Tags**: #DataScience #MachineLearning #AI #Visualization #PredictiveModeling
-🌟 Achievements:
-🥇 Increased operational efficiency by 20% through optimized workflows.
-📊 Developed predictive models to forecast key business trends.
-🎓 Mentored 50+ students in STEM, fostering success in advanced topics.
+ Achievements:
+ Increased operational efficiency by 20% through optimized workflows.
+ Developed predictive models to forecast key business trends.
+ Mentored 50+ students in STEM, fostering success in advanced topics.
 
 ---
 ### 📬 **Let’s Connect**  
@@ -71,18 +71,18 @@ When I’m not immersed in data, I enjoy the soothing violin melodies of **Danie
 
 ---
 
-## 🏆 Featured Projects  
+##  Featured Projects  
 Here are some exciting projects I’ve worked on:  
-1. **Cat vs Dog Classifier** 🐱🐶: A CNN model to classify images with 95% accuracy.  
+1. **Cat vs Dog Classifier** : A CNN model to classify images with 95% accuracy.  
    [GitHub Repo](#)  
-2. **Stock Market Trend Prediction** 📈: Time series forecasting using ARIMA and LSTM.  
+2. **Stock Market Trend Prediction** : Time series forecasting using ARIMA and LSTM.  
    [GitHub Repo](#)  
-3. **Earthquake Prediction** 🌍: A predictive model analyzing seismic activity for disaster readiness.  
+3. **Earthquake Prediction** : A predictive model analyzing seismic activity for disaster readiness.  
    [GitHub Repo](#)
 
 ---
 
-### ⚙️ **My Development Environment**
+### ⚙ **My Development Environment**
 
 I’ve grown up using **macOS**, which has become my ultimate go-to operating system for development. Its seamless user experience and Unix-based foundation allow me to explore the best of both worlds: efficiency and flexibility. My workflow is powered by a suite of tools and configurations that streamline my productivity and enable me to tackle even the most complex data science challenges.
 
@@ -98,7 +98,7 @@ I maximize my productivity on macOS by using tools and configurations that make 
 
 ---
 
-#### 🐧 **Unix Enthusiast on macOS**
+####  **Unix Enthusiast on macOS**
 | **Focus Area**         | **Details**                                                                                          |
 |-------------------------|------------------------------------------------------------------------------------------------------|
 | **Scripting**           | **bash/zsh** scripting for automation and workflow customization.                                   |
@@ -106,7 +106,7 @@ I maximize my productivity on macOS by using tools and configurations that make 
 | **Python Ecosystem**    | Tools like **Jupyter Notebooks**, **pandas**, and **scikit-learn** for advanced data analysis.       |
 
 ---
-### 🛠️ **macOS Apps I Rely On**
+###  **macOS Apps I Rely On**
 
 | **App**          | **Purpose**                                         |
 |-------------------|-----------------------------------------------------|
