@@ -1,64 +1,73 @@
-## **Hi, I'm Cazzy**  
+# Hi, I'm Cazzy
 
-### **Bridging Data, AI, and Real-World Impact**  
- 
-I specialize in designing **intelligent, scalable data solutions** that transform raw data into **actionable insights** while maintaining efficiency, accuracy, and interpretability. My work encompasses **end-to-end machine learning pipelines, predictive modeling, and advanced data engineering**, ensuring that AI models are **optimized, explainable, and adaptable to evolving datasets**.  
+**Head of Data at [FoXX Health](https://www.foxxhealth.com)**
+M.S. in Data Science, University of Denver
+Certificate in AI in Healthcare from Johns Hopkins 2025
 
-While my education is in data science, I focus on **automating data workflows, developing feature-rich architectures, and integrating AI-driven solutions into production environments**. By leveraging **cloud computing, distributed processing, and real-time analytics**, I ensure that data-driven systems are not only efficient but also **dynamic, resilient, and scalable**.  
-
-I like to think I take a methodical yet creative approach to problem-solving by bridging **data science, machine learning, and business intelligence**, ensuring that data is not just structured and accessible but also **transforms decision-making at every level**. 
+With a strong academic foundation in data science and advanced training in AI in Healthcare from Johns Hopkins, I bridge technical rigor with applied innovation in healthcare AI. I design systems that are intelligent, transparent, and aligned with healthcare compliance. My work spans machine learning engineering, LLM research, and building whole-body digital twins to close the gender gap in health data.
 
 ---
 
-### **Current Focus**  
+## Current Focus
 
-| **Area** | **Description** | **Impact** |
-|----------|---------------|-----------|
-| **Machine Learning Engineering** | Building scalable AI models, fine-tuning deep learning architectures, and deploying models efficiently. | Ensures reliability and real-world applicability of AI solutions. |
-| **Data Infrastructure & Automation** | Optimizing databases, implementing cloud solutions, and refining ETL/ELT processes. | Reduces latency, increases efficiency, and enhances data integrity. |
-| **Business Intelligence & Decision Science** | Developing visualizations, forecasting trends, and delivering analytical insights. | Supports data-driven strategies and measurable business outcomes. |
-
----
-
-### **Selected Projects**  
-
-| **Project** | **Technology** | **Key Contribution** | **Outcome** |
-|------------|--------------|---------------------|-----------|
-| **High-Accuracy CNN Classifier** | TensorFlow, Keras, OpenCV | Designed a deep learning model for image classification. | Achieved 95% accuracy and optimized real-time inference. |
-| **Stock Market Trend Prediction** | ARIMA, LSTM, Pandas, Scikit-learn | Built predictive models for financial trend forecasting. | Improved forecasting precision by 30% over baseline models. |
-| **Automated Data Pipeline for Business Operations** | SQL, Airflow, AWS Lambda | Engineered a scalable ETL process to optimize workflow automation. | Reduced manual intervention by 70% and increased operational efficiency. |
+| Area                                 | Description                                                                     | Impact                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Machine Learning Engineering**     | Building scalable models, fine-tuning deep learning, and deploying efficiently. | Reliable, real-world AI systems           |
+| **Data Infrastructure & Automation** | Optimizing pipelines, ETL/ELT, and cloud data ecosystems.                       | Faster workflows, higher data integrity   |
+| **Bias & Fairness in AI**            | Designing evaluation pipelines for LLMs in healthcare.                          | Improves inclusivity and equity           |
+| **AI Governance & Compliance**       | Applying HIPAA, GDPR, FDA guidance, EU AI Act.                                  | Ensures AI is ethical and regulator-ready |
+| **Healthcare Digital Twins**         | Modeling biological, behavioral, and lifestyle data together.                   | Supports predictive, personalized care    |
 
 ---
 
-### **Technical Expertise**  
+## Selected Projects
 
-| **Category** | **Tools & Technologies** |
-|-------------|--------------------------|
-| **Programming** | Python, R, SQL, Bash |
-| **Machine Learning** | TensorFlow, PyTorch, Scikit-learn |
-| **Data Engineering** | PostgreSQL, BigQuery, Snowflake, Apache Spark |
-| **Cloud & DevOps** | AWS, GCP, Azure, Docker, Kubernetes |
-| **Data Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-
----
-
-### **Professional Experience**  
-
-| **Role** | **Company** | **Key Responsibilities** | **Impact** |
-|---------|------------|------------------------|------------|
-| **Data Scientist** | A Better Life Appliance Repair | Developed machine learning models, automated workflows, and optimized database performance. | Increased operational efficiency by 20% through predictive analytics. |
-| **Mentor & Tutor** | STEM Education | Provided advanced instruction in AI, statistics, and applied mathematics. | Helped students master complex concepts, fostering industry-ready skills. |
+| Project                      | Technology                           | Contribution                                                 | Outcome                                                 |
+| ---------------------------- | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- |
+| High-Accuracy CNN Classifier | TensorFlow, Keras, OpenCV            | Designed real-time image classifier.                         | 95% accuracy with optimized inference                   |
+| Stock Market Forecasting     | ARIMA, LSTM, Pandas                  | Built predictive trend models.                               | 30% improvement over baseline                           |
+| Automated Data Pipeline      | SQL, Airflow, AWS Lambda             | Engineered scalable ETL/ELT automation.                      | Reduced manual ops by 70%                               |
+| Women’s Health LLM Dashboard | LangChain, Vertex AI, FastAPI, React | Built evaluation framework for clarity, empathy, and safety. | Delivered measurable AI quality scores                  |
+| AI Compliance Matrix         | GCP, HIPAA/GDPR frameworks           | Developed auditable compliance pipeline.                     | Increased investor confidence, readiness for regulators |
 
 ---
 
-### **Why This Matters**  
+## Technical Expertise
 
-Success in AI and data science isn’t just about writing efficient code—it’s about **understanding how information flows, recognizing patterns in uncertainty, and architecting systems that drive impact**. I believe in the power of **clear, structured communication**, ensuring that data insights are not just accurate but also **intuitively understood and actionable**.  
+| Category             | Tools & Technologies                                                 |
+| -------------------- | -------------------------------------------------------------------- |
+| **Programming**      | Python, R, SQL, Bash                                                 |
+| **Machine Learning** | TensorFlow, PyTorch, Scikit-learn                                    |
+| **Data Engineering** | PostgreSQL, BigQuery, Snowflake, Apache Spark                        |
+| **Cloud & DevOps**   | GCP (Vertex AI, BigQuery, Cloud SQL), AWS, Azure, Docker, Kubernetes |
+| **Visualization**    | Tableau, Power BI, Matplotlib                                        |
+| **LLM & NLP**        | Hugging Face, LangChain, OpenAI GPT-5, Google Gemini                 |
+| **AI Governance**    | HIPAA, GDPR, FDA AI/ML SaMD guidance, EU AI Act                      |
 
-If you're working on projects where **AI meets real-world application**, let’s connect.  
+---
 
- **Email:** becaziam@gmail.com  
- 
+## Professional Experience
 
+| Role               | Company                                   | Key Responsibilities                                                        | Impact                                      |
+| ------------------ | ----------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
+| **Head of Data**   | [FoXX Health](https://www.foxxhealth.com) | Built HIPAA-aligned pipelines, digital twins, and AI evaluation dashboards. | Advanced ethical AI for women’s health      |
+| **Data Scientist** | A Better Life Appliance Repair            | Developed predictive analytics and workflow automation.                     | 20% operational efficiency gain             |
+| **Mentor & Tutor** | STEM Education                            | Taught advanced AI, statistics, and applied mathematics.                    | Helped students build industry-ready skills |
+
+---
+
+## Why This Matters
+
+AI in healthcare must be **explainable, bias-aware, and compliant**. At FoXX Health, I build systems that model women’s health comprehensively. At Johns Hopkins, I refine governance frameworks that make those systems trustworthy and regulator-ready.
+
+---
+
+## Connect
+
+* LinkedIn: [Cazandra Aporbo](https://www.linkedin.com/in/cazandra-aporbo/)
+* Email: [becaziam@gmail.com](mailto:becaziam@gmail.com)
+* Organization: [FoXX Health](https://www.foxxhealth.com)
+
+---
 
 
