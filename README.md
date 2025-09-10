@@ -32,7 +32,7 @@ I specialize in finding hidden patterns in healthcare data—particularly in are
 
 ## What I'm Working On
 
-I spend my days wrestling with messy healthcare data, building AI systems that actually listen to women (harder than it sounds), and trying to make compliance frameworks less painful for everyone involved. Currently obsessed with a method I developed called Serendipity Finder—it finds correlations hiding in the extremes of data that everyone else ignores. In testing, it discovered 14 hidden patterns that traditional statistics completely missed. Still amazed it worked.
+I spend my days analzing messy healthcare data, building AI systems that actually listen to women (harder than it sounds), and trying to make compliance frameworks less painful for everyone involved. Currently obsessed with a method I developed called Serendipity Finder—it finds correlations hiding in the extremes of data that everyone else ignores. In testing, it discovered 14 hidden patterns that traditional statistics completely missed. Still amazed it worked. I'm working on my ML skills and updating my Github portfolio more regularly is a priority of mine! If you're interested in seeing some of my work, it's available upon request. Until then, happy coding. 
 
 <div align="center">
   
