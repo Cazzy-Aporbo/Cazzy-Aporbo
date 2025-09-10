@@ -178,6 +178,138 @@ I spend my days analzing messy healthcare data, building AI systems that actuall
 ![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
 ![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
 
+
+## Data Science Background and Datasets
+
+I am a math-first practitioner who likes hard, messy data. Most of my work lives where health, cities, and behavior intersect. I care about evidence, careful modeling, and clear communication. Below is a sample of the kinds of datasets and questions I work with and how I approach them.
+
+<div align="center">
+<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFE4E1&style=flat-square"></a>
+<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E6E6FA&style=flat-square"></a>
+<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=F0F8FF&style=flat-square"></a>
+<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFF0F5&style=flat-square"></a>
+<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FAFAD2&style=flat-square"></a>
+</div>
+
+### Datasets and Case Studies
+
+<table>
+<tr style="background-color:#FFE4E1">
+  <td><strong>Domain</strong></td>
+  <td><strong>Dataset or Source</strong></td>
+  <td><strong>Question</strong></td>
+  <td><strong>Methods</strong></td>
+  <td><strong>Outcome</strong></td>
+</tr>
+<tr>
+  <td><strong>City-level health and environment</strong></td>
+  <td>Open data portals for large cities (for example Los Angeles, New York, Chicago), CDC PLACES, EPA Air Quality</td>
+  <td>How do air quality, heat, and neighborhood features relate to chronic conditions and urgent care visits</td>
+  <td>Spatial joins, panel regression, difference-in-differences, causal forests</td>
+  <td>Risk maps, effect estimates with uncertainty, equity slices</td>
+</tr>
+<tr style="background-color:#E6E6FA">
+  <td><strong>Women’s health</strong></td>
+  <td>De-identified EHR features, symptom timelines, medication and vitals</td>
+  <td>What factors drive differential outcomes across life stages</td>
+  <td>Survival analysis, uplift modeling, regularized GLMs, careful stratification</td>
+  <td>Calibrated risk scores, subgroup fairness checks</td>
+</tr>
+<tr>
+  <td><strong>Hospital operations</strong></td>
+  <td>Admissions, length of stay, readmissions, scheduling logs</td>
+  <td>Where can we reduce avoidable readmissions without harming access</td>
+  <td>Gradient boosting, SHAP explanations, reliability diagrams</td>
+  <td>Actionable thresholds, cost-sensitive evaluation</td>
+</tr>
+<tr style="background-color:#F0F8FF">
+  <td><strong>Behavioral health</strong></td>
+  <td>Assessment series such as PHQ-9 and GAD-7, encounter histories</td>
+  <td>Who is on a worsening trajectory and when should outreach trigger</td>
+  <td>State-space models, changepoint detection, mixed effects</td>
+  <td>Trajectory flags, time-to-intervention summaries</td>
+</tr>
+<tr>
+  <td><strong>Vaccination and access</strong></td>
+  <td>County and tract indicators, social determinants, clinic coverage</td>
+  <td>How do access and community factors shape uptake and adherence</td>
+  <td>Regularized GLMs, propensity weighting, partial pooling</td>
+  <td>Target lists, sensitivity and stability checks</td>
+</tr>
+<tr style="background-color:#FFF0F5">
+  <td><strong>Mobility and exposure</strong></td>
+  <td>Aggregated mobility indexes when available, weather and climate series</td>
+  <td>How do mobility and exposure interact with acute events</td>
+  <td>Time series decomposition, lagged features, geospatial joins</td>
+  <td>Exposure curves, counterfactual scenarios</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=D4E4FC&style=flat-square"></a>
+<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E7F3E7&style=flat-square"></a>
+<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFE5CC&style=flat-square"></a>
+</div>
+
+### Representative Analysis Patterns
+
+<table>
+<tr style="background-color:#FAFAD2">
+  <td><strong>Pattern</strong></td>
+  <td><strong>When I use it</strong></td>
+  <td><strong>What I deliver</strong></td>
+  <td><strong>Skills on display</strong></td>
+</tr>
+<tr>
+  <td><strong>Tail correlation search (Serendipity Finder)</strong></td>
+  <td>When average correlations hide structure in extremes</td>
+  <td>Stable tail-specific associations with validation and stress tests</td>
+  <td>Statistical testing, distribution theory, robust resampling</td>
+</tr>
+<tr style="background-color:#E6E6FA">
+  <td><strong>Hierarchical modeling</strong></td>
+  <td>When neighborhoods, clinics, or subgroups differ but share signal</td>
+  <td>Partial pooling estimates with interval summaries</td>
+  <td>Bayesian workflow, shrinkage, uncertainty communication</td>
+</tr>
+<tr>
+  <td><strong>Causal effect estimation</strong></td>
+  <td>When the goal is an effect, not just prediction</td>
+  <td>Effect sizes with assumptions stated and balance diagnostics</td>
+  <td>Matching, weighting, causal trees and forests</td>
+</tr>
+<tr style="background-color:#F0F8FF">
+  <td><strong>Time series and anomalies</strong></td>
+  <td>When seasonality and shocks matter</td>
+  <td>Forecasts with confidence bands, changepoint reports</td>
+  <td>ARIMA families, state-space models, evaluation under drift</td>
+</tr>
+<tr>
+  <td><strong>Geospatial rigor</strong></td>
+  <td>When location leakage or spatial autocorrelation can mislead</td>
+  <td>Leakage-safe CV folds, Moran checks, distance-aware features</td>
+  <td>Spatial statistics, cross-validation design, feature engineering</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFF4E6&style=flat-square"></a>
+<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FADADD&style=flat-square"></a>
+<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E0FFFF&style=flat-square"></a>
+</div>
+
+### How I work with data
+
+- Reproducibility first: notebooks promote to scripts and versioned pipelines with clear environments.
+- Careful estimation: report uncertainty, calibration, and the practical cost of false positives and false negatives.
+- Human-readable outputs: short narrative summaries, tables that decision makers can read, and plots that explain the model rather than decorate it.
+- Lifelong learner: I keep a living set of notes and experiments that document what worked, what did not, and why.
+
+<div align="center">
+<a href="#data-science-background-and-datasets"><img alt="Back to top of this section" src="https://img.shields.io/badge/Back_to_Section-Click-D4E4FC?style=flat-square"></a>
+</div>
+
+
 </div>
 
 ## Professional Experience
