@@ -4,7 +4,7 @@
 M.S. in Data Science, University of Denver
 Certificate in AI in Healthcare from Johns Hopkins 2025
 
-With a strong academic foundation in data science and advanced training in AI in Healthcare from Johns Hopkins, I bridge technical rigor with applied innovation in healthcare AI. I design systems that are intelligent, transparent, and aligned with healthcare compliance. My work spans machine learning engineering, LLM research, and building whole-body digital twins to close the gender gap in health data.
+With a strong academic foundation in data science and advanced training in AI in Healthcare from Johns Hopkins, I bridge technical rigor with applied innovation in healthcare AI. I design systems that are intelligent, transparent, and aligned with healthcare compliance. My work spans machine learning engineering, LLM research, and building whole-body healthcare app to close the gender gap in health data.
 
 ---
 
@@ -50,7 +50,7 @@ With a strong academic foundation in data science and advanced training in AI in
 
 | Role               | Company                                   | Key Responsibilities                                                        | Impact                                      |
 | ------------------ | ----------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
-| **Head of Data**   | [FoXX Health](https://www.foxxhealth.com) | Built HIPAA-aligned pipelines, digital twins, and AI evaluation dashboards. | Advanced ethical AI for women’s health      |
+| **Head of Data**   | [FoXX Health](https://www.foxxhealth.com) | Built HIPAA-aligned pipelines, biologicial systems modeling and AI evaluation dashboards. | Advanced ethical AI for women’s health      |
 | **Data Scientist** | A Better Life Appliance Repair            | Developed predictive analytics and workflow automation.                     | 20% operational efficiency gain             |
 | **Mentor & Tutor** | STEM Education                            | Taught advanced AI, statistics, and applied mathematics.                    | Helped students build industry-ready skills |
 
