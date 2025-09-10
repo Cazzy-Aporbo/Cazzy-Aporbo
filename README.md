@@ -18,7 +18,7 @@ I specialize in finding hidden patterns in healthcare data—particularly in are
 
 ## What I'm Working On
 
-I spend my days wrestling with messy healthcare data, building AI systems that actually work in hospitals (harder than it sounds), and trying to make compliance frameworks less painful for everyone involved. Currently obsessed with a method I developed called Serendipity Finder—it finds correlations hiding in the extremes of data that everyone else ignores. In testing, it discovered 14 hidden patterns that traditional statistics completely missed. Still amazed it worked.
+I spend my days wrestling with messy healthcare data, building AI systems that actually listen to women (harder than it sounds), and trying to make compliance frameworks less painful for everyone involved. Currently obsessed with a method I developed called Serendipity Finder—it finds correlations hiding in the extremes of data that everyone else ignores. In testing, it discovered 14 hidden patterns that traditional statistics completely missed. Still amazed it worked.
 
 ---
 
