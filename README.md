@@ -18,9 +18,20 @@
 
 </div>
 
-> **My Philosophy:** Data should be three things: **effective** (it actually works), **attractive** (people want to use it), and **impactful** (it makes a real difference).
-
-I specialize in finding hidden patterns in healthcare data—particularly in areas where traditional analysis fails. My work focuses on closing the gender gap in health data through advanced statistical methods and ethical AI development.
+<div align="center">
+<table width="80%">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #FFE4E1 0%, #FFF0F5 100%); padding:30px; border-radius:15px;">
+<h3>My Philosophy</h3>
+<i>Data should be three things: <b>effective</b> (it actually works), <b>attractive</b> (people want to use it), and <b>impactful</b> (it makes a real difference).</i>
+<br><br>
+I specialize in finding hidden patterns in healthcare data, particularly in areas where traditional analysis fails. My work focuses on closing the gender gap in health data through advanced statistical methods and ethical AI development.
+<br><br>
+<b>Cazandra Aporbo, MS</b>
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
   
