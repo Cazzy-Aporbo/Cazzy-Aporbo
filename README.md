@@ -77,7 +77,7 @@
 
 <br>
 
-<table width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 20%, #FFE5CC 40%, #D4FFE4 60%, #E6E0FF 80%, #FFE0F5 100%); padding:50px; border-radius:30px; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.3); border: 3px solid rgba(255, 224, 245, 0.4);">
 
@@ -123,21 +123,21 @@
 <br>
 
 <!-- Colorful Skill Boxes with Pastel Ombre -->
-<table width="92%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="center" width="92%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
-<td width="33%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 224, 245, 0.25); text-align: center;">
+<td width="33%" align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 224, 245, 0.25); text-align: center;">
   <h3 style="color: #D8B5D8;">Machine Learning</h3>
   <img src="https://img.shields.io/badge/Excellence-95%25-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="ML Progress"/>
   <br><br>
   <span style="color: #C8A8C8;">Deep Learning • Neural Networks • Statistical Analysis • Pattern Recognition</span>
 </td>
-<td width="33%" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.25); text-align: center;">
+<td width="33%" align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.25); text-align: center;">
   <h3 style="color: #D8B5D8;">Healthcare AI</h3>
   <img src="https://img.shields.io/badge/Excellence-90%25-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Healthcare Progress"/>
   <br><br>
   <span style="color: #C8A8C8;">Clinical Data • Bias Detection • Ethical AI • Women's Health</span>
 </td>
-<td width="33%" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(212, 255, 228, 0.25); text-align: center;">
+<td width="33%" align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(212, 255, 228, 0.25); text-align: center;">
   <h3 style="color: #B5D8B8;">Data Engineering</h3>
   <img src="https://img.shields.io/badge/Excellence-93%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Engineering Progress"/>
   <br><br>
@@ -155,8 +155,8 @@
 <br>
 
 <!-- Large Beautiful Mermaid Diagram with Pastel Colors -->
-<table width="88%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 15%, #E6E0FF 30%, #FFE5CC 45%, #D4FFE4 60%, #E6E0FF 75%, #FFE0F5 90%, #FFF8FD 100%); padding: 35px; border-radius: 25px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.15);">
-<tr><td>
+<table align="center" width="88%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 15%, #E6E0FF 30%, #FFE5CC 45%, #D4FFE4 60%, #E6E0FF 75%, #FFE0F5 90%, #FFF8FD 100%); padding: 35px; border-radius: 25px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.15);">
+<tr><td align="center">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'primaryTextColor': '#C8A8C8', 'lineColor': '#FFB5CC', 'secondaryColor': '#D4FFE4', 'tertiaryColor': '#FFE5CC', 'background': '#FFF8FD', 'mainBkg': '#FFE0F5', 'secondBkg': '#E6E0FF', 'tertiaryBkg': '#FFE5CC', 'primaryTextColor': '#D8B5D8', 'fontSize': '16px'}}}%%
@@ -245,7 +245,7 @@ graph LR
 <div align="center">
 
 <!-- Enhanced Focus Grid with Beautiful Pastel Ombre -->
-<table width="94%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="center" width="94%" style="border-collapse: separate; border-spacing: 15px;">
 
 <!-- Machine Learning Row -->
 <tr>
@@ -353,18 +353,18 @@ graph LR
 </h2>
 
 <details>
-<summary><strong>Interactive Project Gallery (Click to Explore)</strong></summary>
+<summary align="center"><strong>Interactive Project Gallery (Click to Explore)</strong></summary>
 
 <br>
 
 <div align="center">
 
 <!-- Enhanced Project Cards with Beautiful Pastel Ombre -->
-<table width="95%" style="border-collapse: separate; border-spacing: 20px;">
+<table align="center" width="95%" style="border-collapse: separate; border-spacing: 20px;">
 
 <!-- Serendipity Finder Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #FFE0F5 40%, #FFE8F8 60%, #E6E0FF 80%, #DED8FF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(230, 224, 255, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #FFE0F5 40%, #FFE8F8 60%, #E6E0FF 80%, #DED8FF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(230, 224, 255, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Serendipity%20Finder-Statistical%20Innovation-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="Serendipity Badge"/>
@@ -394,7 +394,7 @@ pie title Pattern Discovery Results
 
 <!-- CNN Classifier Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/High--Accuracy%20CNN%20Classifier-Deep%20Learning-FFE0F5?style=for-the-badge&labelColor=FFCCE5" alt="CNN Badge"/>
@@ -417,7 +417,7 @@ pie title Pattern Discovery Results
 
 <!-- Educational Repository - Curious Coder -->
 <tr>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #B5E5C5 40%, #C5F5D5 60%, #D4FFE4 80%, #E8FFEC 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(212, 255, 228, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #B5E5C5 40%, #C5F5D5 60%, #D4FFE4 80%, #E8FFEC 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(212, 255, 228, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Curious%20Coder-Educational%20Repository-D4FFE4?style=for-the-badge&labelColor=B5E5C5" alt="Curious Coder Badge"/>
@@ -450,7 +450,7 @@ graph TD
 
 <!-- Stock Market Forecasting Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 20%, #FFD0B5 40%, #FFD8C0 60%, #FFE5CC 80%, #FFF3E4 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 229, 204, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 20%, #FFD0B5 40%, #FFD8C0 60%, #FFE5CC 80%, #FFF3E4 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 229, 204, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Stock%20Market%20Forecasting-Time%20Series-FFE5CC?style=for-the-badge&labelColor=FFD0B5" alt="Stock Badge"/>
@@ -480,7 +480,7 @@ graph LR
 
 <!-- Data Pipeline Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 20%, #FFB5D8 40%, #FFC0DC 60%, #FFCCE5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 204, 229, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 20%, #FFB5D8 40%, #FFC0DC 60%, #FFCCE5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 204, 229, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Automated%20Data%20Pipeline-Engineering-FFCCE5?style=for-the-badge&labelColor=FFB5D8" alt="Pipeline Badge"/>
@@ -503,7 +503,7 @@ graph LR
 
 <!-- Women's Health LLM Dashboard Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 20%, #D0E8FF 40%, #D8F0FF 60%, #E0F5FF 80%, #F0FAFF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(224, 245, 255, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 20%, #D0E8FF 40%, #D8F0FF 60%, #E0F5FF 80%, #F0FAFF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(224, 245, 255, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Women%27s%20Health%20LLM%20Dashboard-AI%20Ethics-E0F5FF?style=for-the-badge&labelColor=D0E8FF" alt="LLM Badge"/>
@@ -536,7 +536,7 @@ graph TD
 
 <!-- AI Compliance Matrix Card -->
 <tr>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 20%, #FFE5CC 40%, #D4FFE4 60%, #E0F5FF 80%, #FFE0F5 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 20%, #FFE5CC 40%, #D4FFE4 60%, #E0F5FF 80%, #FFE0F5 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/AI%20Compliance%20Matrix-Governance-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="Compliance Badge"/>
@@ -575,7 +575,7 @@ graph TD
 <br>
 
 <!-- Beautiful Skill Categories with Pastel Ombre -->
-<table width="90%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 10%, #E6E0FF 20%, #FFE5CC 30%, #D4FFE4 40%, #E0F5FF 50%, #FFCCE5 60%, #E6E0FF 70%, #FFE0F5 80%, #FFE5CC 90%, #FFF8FD 100%); padding: 40px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.2);">
+<table align="center" width="90%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 10%, #E6E0FF 20%, #FFE5CC 30%, #D4FFE4 40%, #E0F5FF 50%, #FFCCE5 60%, #E6E0FF 70%, #FFE0F5 80%, #FFE5CC 90%, #FFF8FD 100%); padding: 40px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.2);">
 
 <tr><td align="center">
 
@@ -585,18 +585,18 @@ graph TD
 
 <br>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Python-Advanced-FFE0F5?style=for-the-badge&logo=python&logoColor=D8B5D8&labelColor=E6E0FF" alt="Python"/>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Python-Expert-FFE0F5?style=for-the-badge&logo=python&logoColor=D8B5D8&labelColor=E6E0FF" alt="Python"/>
 </td>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/R-Advanced-E6E0FF?style=for-the-badge&logo=r&logoColor=D8B5D8&labelColor=FFE0F5" alt="R"/>
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/R-Expert-E6E0FF?style=for-the-badge&logo=r&logoColor=D8B5D8&labelColor=FFE0F5" alt="R"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-FFE5CC?style=for-the-badge&logo=postgresql&logoColor=D8B5A0&labelColor=FFD0B5" alt="SQL"/>
+<td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/SQL-Expert-FFE5CC?style=for-the-badge&logo=postgresql&logoColor=D8B5A0&labelColor=FFD0B5" alt="SQL"/>
 </td>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-D4FFE4?style=for-the-badge&logo=javascript&logoColor=B5D8B8&labelColor=C5F5D5" alt="JavaScript"/>
 </td>
 </tr>
@@ -608,32 +608,32 @@ graph TD
 
 <br>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FFCCE5?style=for-the-badge&logo=tensorflow&logoColor=D8B5D8&labelColor=FFB5D8" alt="TensorFlow"/>
+<td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FFCCE5?style=for-the-badge&logo=tensorflow&logoColor=D8B5D8&labelColor=FFB5D8" alt="TensorFlow"/>
 </td>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/PyTorch-Intermediate-E6E0FF?style=for-the-badge&logo=pytorch&logoColor=D8B5D8&labelColor=DED8FF" alt="PyTorch"/>
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/PyTorch-Expert-E6E0FF?style=for-the-badge&logo=pytorch&logoColor=D8B5D8&labelColor=DED8FF" alt="PyTorch"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Scikit--learn-Intermediate-FFE0F5?style=for-the-badge&logo=scikit-learn&logoColor=D8B5D8&labelColor=FFCCE5" alt="Scikit"/>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Scikit--learn-Expert-FFE0F5?style=for-the-badge&logo=scikit-learn&logoColor=D8B5D8&labelColor=FFCCE5" alt="Scikit"/>
 </td>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/LangChain-Advanced-D4FFE4?style=for-the-badge&logo=chainlink&logoColor=B5D8B8&labelColor=C5F5D5" alt="LangChain"/>
 </td>
 </tr>
 <tr>
-<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/NumPy-Advanced-FFE5CC?style=for-the-badge&logo=numpy&logoColor=D8B5A0&labelColor=FFD0B5" alt="NumPy"/>
+<td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/NumPy-Expert-FFE5CC?style=for-the-badge&logo=numpy&logoColor=D8B5A0&labelColor=FFD0B5" alt="NumPy"/>
 </td>
-<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Pandas-Advanced-E0F5FF?style=for-the-badge&logo=pandas&logoColor=A8C8D8&labelColor=D0E8FF" alt="Pandas"/>
+<td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Pandas-Expert-E0F5FF?style=for-the-badge&logo=pandas&logoColor=A8C8D8&labelColor=D0E8FF" alt="Pandas"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Keras-Advanced-FFCCE5?style=for-the-badge&logo=keras&logoColor=D8B5D8&labelColor=FFB5D8" alt="Keras"/>
+<td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Keras-Expert-FFCCE5?style=for-the-badge&logo=keras&logoColor=D8B5D8&labelColor=FFB5D8" alt="Keras"/>
 </td>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/XGBoost-Advanced-E6E0FF?style=for-the-badge&logo=xgboost&logoColor=D8B5D8&labelColor=DED8FF" alt="XGBoost"/>
 </td>
 </tr>
@@ -645,32 +645,32 @@ graph TD
 
 <br>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/GCP-Intermediate-D4FFE4?style=for-the-badge&logo=google-cloud&logoColor=B5D8B8&labelColor=C5F5D5" alt="GCP"/>
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/GCP-Expert-D4FFE4?style=for-the-badge&logo=google-cloud&logoColor=B5D8B8&labelColor=C5F5D5" alt="GCP"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/AWS-Advanced-FFE0F5?style=for-the-badge&logo=amazon-aws&logoColor=D8B5D8&labelColor=FFCCE5" alt="AWS"/>
 </td>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-E6E0FF?style=for-the-badge&logo=docker&logoColor=D8B5D8&labelColor=DED8FF" alt="Docker"/>
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Docker-Expert-E6E0FF?style=for-the-badge&logo=docker&logoColor=D8B5D8&labelColor=DED8FF" alt="Docker"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Kubernetes-Advanced-FFE5CC?style=for-the-badge&logo=kubernetes&logoColor=D8B5A0&labelColor=FFD0B5" alt="Kubernetes"/>
 </td>
 </tr>
 <tr>
-<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/BigQuery-Advanced-FFCCE5?style=for-the-badge&logo=google-cloud&logoColor=D8B5D8&labelColor=FFB5D8" alt="BigQuery"/>
+<td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/BigQuery-Expert-FFCCE5?style=for-the-badge&logo=google-cloud&logoColor=D8B5D8&labelColor=FFB5D8" alt="BigQuery"/>
 </td>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Airflow-Intermediate-D4FFE4?style=for-the-badge&logo=apache-airflow&logoColor=B5D8B8&labelColor=C5F5D5" alt="Airflow"/>
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Airflow-Expert-D4FFE4?style=for-the-badge&logo=apache-airflow&logoColor=B5D8B8&labelColor=C5F5D5" alt="Airflow"/>
 </td>
-<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Vertex%20AI-Advanced-E0F5FF?style=for-the-badge&logo=google-cloud&logoColor=A8C8D8&labelColor=D0E8FF" alt="Vertex"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Lambda-Advanced-FFE0F5?style=for-the-badge&logo=aws-lambda&logoColor=D8B5D8&labelColor=FFCCE5" alt="Lambda"/>
 </td>
 </tr>
@@ -682,18 +682,18 @@ graph TD
 
 <br>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/D3.js-Intermediate-E0F5FF?style=for-the-badge&logo=d3-dot-js&logoColor=A8C8D8&labelColor=D0E8FF" alt="D3"/>
+<td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/D3.js-Expert-E0F5FF?style=for-the-badge&logo=d3-dot-js&logoColor=A8C8D8&labelColor=D0E8FF" alt="D3"/>
 </td>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Plotly-Advanced-FFE0F5?style=for-the-badge&logo=plotly&logoColor=D8B5D8&labelColor=FFCCE5" alt="Plotly"/>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Plotly-Expert-FFE0F5?style=for-the-badge&logo=plotly&logoColor=D8B5D8&labelColor=FFCCE5" alt="Plotly"/>
 </td>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Streamlit-Advanced-E6E0FF?style=for-the-badge&logo=streamlit&logoColor=D8B5D8&labelColor=DED8FF" alt="Streamlit"/>
 </td>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Tableau-Advanced-D4FFE4?style=for-the-badge&logo=tableau&logoColor=B5D8B8&labelColor=C5F5D5" alt="Tableau"/>
 </td>
 </tr>
@@ -712,7 +712,7 @@ graph TD
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=140&section=header&text=Data%20Science%20Advancedise&fontSize=40&animation=fadeIn&fontColor=D8B5D8" alt="Data Science" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=140&section=header&text=Data%20Science%20Expertise&fontSize=40&animation=fadeIn&fontColor=D8B5D8" alt="Data Science" width="100%"/>
 </picture>
 
 </div>
@@ -740,7 +740,7 @@ graph TD
 <div align="center">
 
 <!-- Beautiful Enhanced Dataset Table with Pastel Ombre -->
-<table width="95%" style="border-collapse: separate; border-spacing: 16px;">
+<table align="center" width="95%" style="border-collapse: separate; border-spacing: 16px;">
 
 <tr>
 <td colspan="5" align="center" style="padding: 25px;">
@@ -763,7 +763,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">LA/NYC/Chicago Open Data, CDC PLACES, EPA</td>
 <td style="padding: 15px; color: #C8A8C8;">Air quality x chronic conditions correlation</td>
 <td style="padding: 15px; color: #C8A8C8;">Spatial joins, causal forests</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Risk%20Maps-Created-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Risk"/>
 </td>
 </tr>
@@ -773,7 +773,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">De-identified EHR, symptom timelines</td>
 <td style="padding: 15px; color: #C8A8C8;">Differential outcomes across life stages</td>
 <td style="padding: 15px; color: #C8A8C8;">Survival analysis, uplift modeling</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Fairness-Validated-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Fairness"/>
 </td>
 </tr>
@@ -783,7 +783,7 @@ graph TD
 <td style="padding: 15px; color: #A8C8A8;">Admissions, LOS, readmissions</td>
 <td style="padding: 15px; color: #A8C8A8;">Reduce avoidable readmissions</td>
 <td style="padding: 15px; color: #A8C8A8;">XGBoost, SHAP explanations</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/20%25-Reduction-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Reduction"/>
 </td>
 </tr>
@@ -793,7 +793,7 @@ graph TD
 <td style="padding: 15px; color: #C8A890;">PHQ-9, GAD-7 assessment series</td>
 <td style="padding: 15px; color: #C8A890;">Trajectory prediction for intervention</td>
 <td style="padding: 15px; color: #C8A890;">State-space models, changepoint</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Early%20Detection-Enabled-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Detection"/>
 </td>
 </tr>
@@ -803,7 +803,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">County/tract indicators, SDOH</td>
 <td style="padding: 15px; color: #C8A8C8;">Access factors x uptake patterns</td>
 <td style="padding: 15px; color: #C8A8C8;">Propensity weighting, GLMs</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Targeted-Outreach-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Outreach"/>
 </td>
 </tr>
@@ -813,7 +813,7 @@ graph TD
 <td style="padding: 15px; color: #98B8C8;">Mobility indexes, weather/climate</td>
 <td style="padding: 15px; color: #98B8C8;">Exposure x acute event interaction</td>
 <td style="padding: 15px; color: #98B8C8;">Time series decomposition</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Scenarios-Modeled-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Scenarios"/>
 </td>
 </tr>
@@ -831,7 +831,7 @@ graph TD
 <div align="center">
 
 <!-- Enhanced Analysis Patterns Table with Beautiful Pastel Ombre -->
-<table width="94%" style="border-collapse: separate; border-spacing: 14px;">
+<table align="center" width="94%" style="border-collapse: separate; border-spacing: 14px;">
 
 <tr>
 <td colspan="4" align="center" style="padding: 25px;">
@@ -845,14 +845,14 @@ graph TD
 <td width="25%" style="padding: 15px; color: #D8B5D8;">Pattern</td>
 <td width="30%" style="padding: 15px; color: #D8B5D8;">When I Use It</td>
 <td width="25%" style="padding: 15px; color: #D8B5D8;">What I Deliver</td>
-<td width="20%" style="padding: 15px; color: #D8B5D8;">Skills Display</td>
+<td width="20%" align="center" style="padding: 15px; color: #D8B5D8;">Skills Display</td>
 </tr>
 
 <tr style="background: linear-gradient(90deg, #E6E0FF 0%, #F0EBFF 50%, #F8F5FF 100%); border-radius: 10px;">
 <td style="padding: 15px; color: #D8B5D8;"><strong>Tail Correlation Search</strong></td>
 <td style="padding: 15px; color: #C8A8C8;">When averages hide extremes</td>
 <td style="padding: 15px; color: #C8A8C8;">Stable tail associations</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Skill-98%25-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Skill" width="170"/>
 </td>
 </tr>
@@ -861,7 +861,7 @@ graph TD
 <td style="padding: 15px; color: #D8B5D8;"><strong>Hierarchical Modeling</strong></td>
 <td style="padding: 15px; color: #C8A8C8;">Multi-level data structures</td>
 <td style="padding: 15px; color: #C8A8C8;">Pooled estimates with intervals</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Skill-92%25-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Skill" width="170"/>
 </td>
 </tr>
@@ -870,7 +870,7 @@ graph TD
 <td style="padding: 15px; color: #B5D8B8;"><strong>Causal Effects</strong></td>
 <td style="padding: 15px; color: #A8C8A8;">Beyond correlation</td>
 <td style="padding: 15px; color: #A8C8A8;">Effect sizes with diagnostics</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Skill-89%25-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Skill" width="170"/>
 </td>
 </tr>
@@ -879,7 +879,7 @@ graph TD
 <td style="padding: 15px; color: #D8B5A0;"><strong>Time Series Anomalies</strong></td>
 <td style="padding: 15px; color: #C8A890;">Seasonal patterns & shocks</td>
 <td style="padding: 15px; color: #C8A890;">Forecasts with confidence</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Skill-94%25-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Skill" width="170"/>
 </td>
 </tr>
@@ -888,7 +888,7 @@ graph TD
 <td style="padding: 15px; color: #D8B5D8;"><strong>Geospatial Rigor</strong></td>
 <td style="padding: 15px; color: #C8A8C8;">Location-aware analysis</td>
 <td style="padding: 15px; color: #C8A8C8;">Leakage-safe CV folds</td>
-<td style="padding: 15px;">
+<td style="padding: 15px;" align="center">
   <img src="https://img.shields.io/badge/Skill-91%25-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Skill" width="170"/>
 </td>
 </tr>
@@ -911,7 +911,7 @@ graph TD
 
 <div align="center">
 
-<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 15%, #FFE5CC 30%, #D4FFE4 45%, #E0F5FF 60%, #FFCCE5 75%, #FFE0F5 90%, #E6E0FF 100%); padding: 45px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
+<table align="center" width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 15%, #FFE5CC 30%, #D4FFE4 45%, #E0F5FF 60%, #FFCCE5 75%, #FFE0F5 90%, #E6E0FF 100%); padding: 45px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
 <tr><td align="center">
 
 <br>
@@ -992,8 +992,8 @@ graph TD
 
 <br><br>
 
-<table width="85%" style="background: linear-gradient(135deg, #E6E0FF 0%, #FFE0F5 12%, #FFE5CC 24%, #D4FFE4 36%, #E0F5FF 48%, #FFCCE5 60%, #E6E0FF 72%, #FFE0F5 84%, #FFE5CC 96%, #D4FFE4 100%); padding: 35px; border-radius: 25px; margin: 30px 0; box-shadow: 0 18px 36px rgba(230, 224, 255, 0.15);">
-<tr><td>
+<table align="center" width="85%" style="background: linear-gradient(135deg, #E6E0FF 0%, #FFE0F5 12%, #FFE5CC 24%, #D4FFE4 36%, #E0F5FF 48%, #FFCCE5 60%, #E6E0FF 72%, #FFE0F5 84%, #FFE5CC 96%, #D4FFE4 100%); padding: 35px; border-radius: 25px; margin: 30px 0; box-shadow: 0 18px 36px rgba(230, 224, 255, 0.15);">
+<tr><td align="center">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'secondaryColor': '#D4FFE4', 'tertiaryColor': '#FFE5CC', 'primaryTextColor': '#D8B5D8', 'fontSize': '20px'}}}%%
@@ -1037,16 +1037,16 @@ graph TD
 
 <br>
 
-<table width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
 
 <tr>
-<td width="100%" style="background: linear-gradient(90deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
+<td width="100%" align="center" style="background: linear-gradient(90deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Current%3A%20Head%20of%20Data%20%40%20FoXX%20Health-100%25-D8B5D8?style=for-the-badge&labelColor=FFE0F5" alt="Current Role" width="100%"/>
 </td>
 </tr>
 
 <tr>
-<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(255, 224, 245, 0.15);">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(255, 224, 245, 0.15);">
 <strong style="font-size: 19px; color: #D8B5D8;">Head of Data</strong> | FoXX Health<br><br>
 <img src="https://img.shields.io/badge/Impact-Advanced%20ethical%20AI%20for%20women%27s%20health-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Impact"/><br><br>
 <span style="color: #C8A8C8;">Leading data strategy • Building inclusive AI systems • Closing gender gaps in healthcare data</span>
@@ -1054,13 +1054,13 @@ graph TD
 </tr>
 
 <tr>
-<td width="100%" style="background: linear-gradient(90deg, #E6E0FF 0%, #FFE0F5 25%, #D4FFE4 50%, #FFE5CC 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
+<td width="100%" align="center" style="background: linear-gradient(90deg, #E6E0FF 0%, #FFE0F5 25%, #D4FFE4 50%, #FFE5CC 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Previous%3A%20Data%20Scientist-75%25-D8B5D8?style=for-the-badge&labelColor=E6E0FF" alt="Previous Role" width="100%"/>
 </td>
 </tr>
 
 <tr>
-<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #E6E0FF 40%, #DED8FF 60%, #E6E0FF 80%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(230, 224, 255, 0.2);">
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #E6E0FF 40%, #DED8FF 60%, #E6E0FF 80%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(230, 224, 255, 0.2);">
 <strong style="font-size: 19px; color: #D8B5D8;">Data Scientist</strong> | A Better Life Appliance Repair<br><br>
 <img src="https://img.shields.io/badge/Achievement-20%25%20efficiency%20gain-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Achievement"/><br><br>
 <span style="color: #C8A8C8;">Optimized operations • Predictive maintenance models • Customer analytics</span>
@@ -1068,13 +1068,13 @@ graph TD
 </tr>
 
 <tr>
-<td width="100%" style="background: linear-gradient(90deg, #D4FFE4 0%, #FFE5CC 25%, #E6E0FF 50%, #FFE0F5 75%, #FFCCE5 100%); padding: 8px; border-radius: 15px;">
+<td width="100%" align="center" style="background: linear-gradient(90deg, #D4FFE4 0%, #FFE5CC 25%, #E6E0FF 50%, #FFE0F5 75%, #FFCCE5 100%); padding: 8px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Foundation%3A%20Mentor%20%26%20Educator-50%25-B5D8B8?style=for-the-badge&labelColor=D4FFE4" alt="Foundation" width="100%"/>
 </td>
 </tr>
 
 <tr>
-<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #D4FFE4 40%, #CCFFD8 60%, #D4FFE4 80%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(212, 255, 228, 0.15);">
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #D4FFE4 40%, #CCFFD8 60%, #D4FFE4 80%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(212, 255, 228, 0.15);">
 <strong style="font-size: 19px; color: #B5D8B8;">Mentor & Tutor</strong> | STEM Education<br><br>
 <img src="https://img.shields.io/badge/Focus-Building%20industry--ready%20skills-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Focus"/><br><br>
 <span style="color: #A8C8A8;">Teaching data science • Guiding career transitions • Fostering technical excellence</span>
@@ -1096,7 +1096,7 @@ graph TD
 
 <br>
 
-<table width="85%" style="border-collapse: separate; border-spacing: 25px;">
+<table align="center" width="85%" style="border-collapse: separate; border-spacing: 25px;">
 <tr>
 <td width="50%" align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 35%, #E6E0FF 70%, #DED8FF 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(230, 224, 255, 0.18);">
   <img src="https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E0FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=DED8FF" alt="MS Degree"/>
@@ -1143,7 +1143,7 @@ graph TD
 
 <br>
 
-<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 8%, #E6E0FF 16%, #F0EBFF 24%, #FFE5CC 32%, #FFECD8 40%, #D4FFE4 48%, #E0FFE8 56%, #E0F5FF 64%, #E8F8FF 72%, #FFCCE5 80%, #FFD4E8 88%, #FFE0F5 96%, #E6E0FF 100%); padding: 42px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
+<table align="center" width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 8%, #E6E0FF 16%, #F0EBFF 24%, #FFE5CC 32%, #FFECD8 40%, #D4FFE4 48%, #E0FFE8 56%, #E0F5FF 64%, #E8F8FF 72%, #FFCCE5 80%, #FFD4E8 88%, #FFE0F5 96%, #E6E0FF 100%); padding: 42px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
 <tr><td align="center">
 
 <br>
@@ -1190,7 +1190,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 
 <br>
 
-<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 10%, #E6E0FF 20%, #F0EBFF 30%, #FFE5CC 40%, #FFECD8 50%, #D4FFE4 60%, #E0FFE8 70%, #E0F5FF 80%, #E8F8FF 90%, #FFCCE5 100%); padding: 40px; border-radius: 30px; box-shadow: 0 20px 42px rgba(230, 224, 255, 0.12);">
+<table align="center" width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 10%, #E6E0FF 20%, #F0EBFF 30%, #FFE5CC 40%, #FFECD8 50%, #D4FFE4 60%, #E0FFE8 70%, #E0F5FF 80%, #E8F8FF 90%, #FFCCE5 100%); padding: 40px; border-radius: 30px; box-shadow: 0 20px 42px rgba(230, 224, 255, 0.12);">
 <tr><td align="center">
 
 <br>
@@ -1211,7 +1211,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 <br><br>
 
 <!-- Enhanced Contact Buttons with Pastel Ombre -->
-<table width="85%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="center" width="85%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 20px; border-radius: 20px;">
   <a href="https://linkedin.com/in/cazandra-aporbo">
@@ -1275,7 +1275,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 
 <br>
 
-<table width="78%" style="border-collapse: separate; border-spacing: 20px;">
+<table align="center" width="78%" style="border-collapse: separate; border-spacing: 20px;">
 <tr>
 <td width="50%" align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 25%, #FFCCE5 50%, #FFD4E8 75%, #FFE0F5 100%); padding: 25px; border-radius: 20px; box-shadow: 0 16px 35px rgba(255, 224, 245, 0.18);">
   <img src="https://img.shields.io/badge/Code%20License-MIT-FFE0F5?style=for-the-badge&labelColor=FFB5CC" alt="MIT License"/>
