@@ -113,25 +113,19 @@
 <tr>
 <td width="33%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 224, 245, 0.25); text-align: center;">
   <h3 style="color: #D8B5D8;">Machine Learning</h3>
-  <picture>
-    <img src="https://progress-bar.dev/95?width=200&title=Excellence&color=FFB5CC" alt="ML Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Excellence-95%25-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="ML Progress"/>
   <br><br>
   <span style="color: #C8A8C8;">Deep Learning • Neural Networks • Statistical Analysis • Pattern Recognition</span>
 </td>
 <td width="33%" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.25); text-align: center;">
   <h3 style="color: #D8B5D8;">Healthcare AI</h3>
-  <picture>
-    <img src="https://progress-bar.dev/90?width=200&title=Excellence&color=E6D0FF" alt="Healthcare Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Excellence-90%25-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Healthcare Progress"/>
   <br><br>
   <span style="color: #C8A8C8;">Clinical Data • Bias Detection • Ethical AI • Women's Health</span>
 </td>
 <td width="33%" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(212, 255, 228, 0.25); text-align: center;">
   <h3 style="color: #B5D8B8;">Data Engineering</h3>
-  <picture>
-    <img src="https://progress-bar.dev/93?width=200&title=Excellence&color=B5E5C5" alt="Engineering Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Excellence-93%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Engineering Progress"/>
   <br><br>
   <span style="color: #A8C8A8;">Pipeline Design • Cloud Architecture • ETL/ELT • Big Data</span>
 </td>
@@ -215,9 +209,7 @@ graph LR
 <!-- Machine Learning Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/95?width=850&title=Machine%20Learning%20Engineering&color=FFB5CC" alt="ML Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineering-95%25-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="ML Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #FFE0F5 0%, #FFE8F8 25%, #FFF0FA 50%, #FFE0F5 75%, #FFD8F0 100%); border-radius: 15px;">
@@ -231,9 +223,7 @@ graph LR
 <!-- Data Infrastructure Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/88?width=850&title=Data%20Infrastructure&color=E6D0FF" alt="Data Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Data%20Infrastructure%20%26%20Automation-88%25-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Data Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #E6E0FF 0%, #F0EBFF 25%, #F8F5FF 50%, #E6E0FF 75%, #DED8FF 100%); border-radius: 15px;">
@@ -247,9 +237,7 @@ graph LR
 <!-- AI Ethics Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/92?width=850&title=AI%20Ethics%20%26%20Fairness&color=FFE5CC" alt="Ethics Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/AI%20Ethics%20%26%20Fairness-92%25-FFE5CC?style=for-the-badge&labelColor=FFECD8" alt="Ethics Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #FFE5CC 0%, #FFECD8 25%, #FFF3E4 50%, #FFE5CC 75%, #FFDEC0 100%); border-radius: 15px;">
@@ -263,9 +251,7 @@ graph LR
 <!-- Compliance Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/85?width=850&title=Compliance%20%26%20Governance&color=B5E5C5" alt="Compliance Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/AI%20Governance%20%26%20Compliance-85%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Compliance Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #D4FFE4 0%, #DCFFE8 25%, #E4FFEC 50%, #D4FFE4 75%, #CCFFD8 100%); border-radius: 15px;">
@@ -279,9 +265,7 @@ graph LR
 <!-- Healthcare Models Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/90?width=850&title=Healthcare%20Modeling&color=FFCCE5" alt="Healthcare Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Healthcare%20Modeling-90%25-FFCCE5?style=for-the-badge&labelColor=FFB5D8" alt="Healthcare Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #FFCCE5 0%, #FFD4E8 25%, #FFDCEB 50%, #FFCCE5 75%, #FFC4E0 100%); border-radius: 15px;">
@@ -295,9 +279,7 @@ graph LR
 <!-- Serendipity Finder Row -->
 <tr>
 <td colspan="3" align="center">
-  <picture>
-    <img src="https://progress-bar.dev/98?width=850&title=Serendipity%20Finder&color=E0F5FF" alt="Serendipity Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Pattern%20Discovery%20in%20Extremes-98%25-E0F5FF?style=for-the-badge&labelColor=D0E8FF" alt="Serendipity Progress" width="850"/>
 </td>
 </tr>
 <tr style="background: linear-gradient(90deg, #E0F5FF 0%, #E8F8FF 25%, #F0FAFF 50%, #E0F5FF 75%, #D8F0FF 100%); border-radius: 15px;">
@@ -379,9 +361,7 @@ pie title Pattern Discovery Results
 
 <br>
 
-<picture>
-  <img src="https://progress-bar.dev/95?width=680&title=Accuracy&color=FFB5CC" alt="Accuracy Bar"/>
-</picture>
+<img src="https://img.shields.io/badge/Accuracy-95%25-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="Accuracy Bar" width="680"/>
 
 <br>
 
@@ -467,9 +447,7 @@ graph LR
 
 <br>
 
-<picture>
-  <img src="https://progress-bar.dev/70?width=680&title=Manual%20Ops%20Reduced&color=FFB5CC" alt="Reduction Bar"/>
-</picture>
+<img src="https://img.shields.io/badge/Manual%20Ops%20Reduced-70%25-FFB5CC?style=for-the-badge&labelColor=FFCCE5" alt="Reduction Bar" width="680"/>
 
 <br>
 
@@ -525,9 +503,7 @@ graph TD
 
 <br>
 
-<picture>
-  <img src="https://progress-bar.dev/100?width=680&title=Compliance%20Score&color=B5E5C5" alt="Compliance Bar"/>
-</picture>
+<img src="https://img.shields.io/badge/Compliance%20Score-100%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Compliance Bar" width="680"/>
 
 <br>
 
@@ -728,7 +704,7 @@ graph TD
 <tr>
 <td colspan="5" align="center" style="padding: 25px;">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Real-World%20Impact&height=65&fontSize=30&animation=twinkling" alt="Impact Header" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Real-World%20Datasets&height=65&fontSize=30&animation=twinkling" alt="Datasets Header" width="100%"/>
   </picture>
 </td>
 </tr>
@@ -836,9 +812,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">When averages hide extremes</td>
 <td style="padding: 15px; color: #C8A8C8;">Stable tail associations</td>
 <td style="padding: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/98?width=170&color=E6D0FF" alt="Skill"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Skill-98%25-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Skill" width="170"/>
 </td>
 </tr>
 
@@ -847,9 +821,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">Multi-level data structures</td>
 <td style="padding: 15px; color: #C8A8C8;">Pooled estimates with intervals</td>
 <td style="padding: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/92?width=170&color=FFB5CC" alt="Skill"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Skill-92%25-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Skill" width="170"/>
 </td>
 </tr>
 
@@ -858,9 +830,7 @@ graph TD
 <td style="padding: 15px; color: #A8C8A8;">Beyond correlation</td>
 <td style="padding: 15px; color: #A8C8A8;">Effect sizes with diagnostics</td>
 <td style="padding: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/89?width=170&color=B5E5C5" alt="Skill"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Skill-89%25-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Skill" width="170"/>
 </td>
 </tr>
 
@@ -869,9 +839,7 @@ graph TD
 <td style="padding: 15px; color: #C8A890;">Seasonal patterns & shocks</td>
 <td style="padding: 15px; color: #C8A890;">Forecasts with confidence</td>
 <td style="padding: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/94?width=170&color=FFE5CC" alt="Skill"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Skill-94%25-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Skill" width="170"/>
 </td>
 </tr>
 
@@ -880,9 +848,7 @@ graph TD
 <td style="padding: 15px; color: #C8A8C8;">Location-aware analysis</td>
 <td style="padding: 15px; color: #C8A8C8;">Leakage-safe CV folds</td>
 <td style="padding: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/91?width=170&color=FFCCE5" alt="Skill"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Skill-91%25-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Skill" width="170"/>
 </td>
 </tr>
 
@@ -976,9 +942,7 @@ graph TD
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/100?width=800&title=Current%20→%20Head%20of%20Data%20@%20FoXX%20Health&color=D8B5D8" alt="Current Role"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Current%20→%20Head%20of%20Data%20@%20FoXX%20Health-100%25-D8B5D8?style=for-the-badge&labelColor=FFE0F5" alt="Current Role" width="100%"/>
 </td>
 </tr>
 
@@ -992,9 +956,7 @@ graph TD
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #E6E0FF 0%, #FFE0F5 25%, #D4FFE4 50%, #FFE5CC 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/75?width=800&title=Previous%20→%20Data%20Scientist&color=D8B5D8" alt="Previous Role"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Previous%20→%20Data%20Scientist-75%25-D8B5D8?style=for-the-badge&labelColor=E6E0FF" alt="Previous Role" width="100%"/>
 </td>
 </tr>
 
@@ -1008,9 +970,7 @@ graph TD
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #D4FFE4 0%, #FFE5CC 25%, #E6E0FF 50%, #FFE0F5 75%, #FFCCE5 100%); padding: 8px; border-radius: 15px;">
-  <picture>
-    <img src="https://progress-bar.dev/50?width=800&title=Foundation%20→%20Mentor%20%26%20Educator&color=D8B5D8" alt="Foundation"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Foundation%20→%20Mentor%20%26%20Educator-50%25-B5D8B8?style=for-the-badge&labelColor=D4FFE4" alt="Foundation" width="100%"/>
 </td>
 </tr>
 
@@ -1042,9 +1002,7 @@ graph TD
 <td width="50%" align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 35%, #E6E0FF 70%, #DED8FF 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(230, 224, 255, 0.18);">
   <img src="https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E0FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=DED8FF" alt="MS Degree"/>
   <br><br>
-  <picture>
-    <img src="https://progress-bar.dev/100?width=240&title=Completed&color=E6D0FF" alt="MS Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Completed-100%25-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="MS Progress" width="240"/>
   <br><br>
   <span style="color: #D8B5D8; font-weight: bold;">Advanced Statistics • Machine Learning • Data Engineering</span>
 </td>
@@ -1060,9 +1018,7 @@ graph TD
 <td colspan="2" align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 35%, #D4FFE4 70%, #CCFFD8 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(212, 255, 228, 0.18);">
   <img src="https://img.shields.io/badge/AI%20in%20Healthcare-Johns%20Hopkins%202025-D4FFE4?style=for-the-badge&logo=hospital&logoColor=white&labelColor=C5F5D5" alt="JH Certificate"/>
   <br><br>
-  <picture>
-    <img src="https://progress-bar.dev/85?width=350&title=In%20Progress&color=B5E5C5" alt="JH Progress"/>
-  </picture>
+  <img src="https://img.shields.io/badge/In%20Progress-85%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="JH Progress" width="350"/>
   <br><br>
   <span style="color: #B5D8B8; font-weight: bold;">Clinical AI • Healthcare Analytics • Medical Imaging • Ethical AI in Medicine</span>
 </td>
