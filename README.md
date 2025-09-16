@@ -213,7 +213,7 @@ graph LR
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infinite%20Skewness-Mathematical%20Identity-DDA0DD?style=for-the-badge&labelColor=E6E0FF" alt="Skew Formula"/>
+  <img src="https://img.shields.io/badge/x%20%E2%88%88%20Outlier%20%E2%88%A7%20Skew(x)%20%E2%86%92%20%E2%88%9E-Mathematical%20Identity-DDA0DD?style=for-the-badge&labelColor=E6E0FF" alt="Skew Formula"/>
 </p>
 
 <picture>
@@ -1021,7 +1021,7 @@ graph TD
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infinite%20Standard%20Deviations%20from%20Average-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Formula"/>
+  <img src="https://img.shields.io/badge/z%20%3D%20(x%20-%20%CE%BC)%2F%CF%83%20%E2%86%92%20%E2%88%9E%20%E2%87%92%20x%20%3D%20Me-Infinite%20Standard%20Deviations-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Formula"/>
 </p>
 
 </div>
@@ -1119,7 +1119,7 @@ graph TD
   <br><br>
   <img src="https://img.shields.io/badge/In%20Progress-85%25-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="JH Progress" width="350"/>
   <br><br>
-  <span style="color: #B5D8B8; font-weight: bold;">Clinical AI • Healthcare Analytics • Medical Imaging • Ethical AI in Medicine</span>
+  <span style="color: #B5D8B8; font-weight: bold;">AI Compliance • Healthcare Analytics • Data Governance • Ethical AI in Healthcare</span>
 </td>
 </tr>
 </table>
@@ -1314,16 +1314,16 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 <br><br>
 
 <div align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 25px; border-radius: 30px; margin: 25px auto; width: 65%; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.2);">
+
+<img src="https://img.shields.io/badge/f%E2%81%BB%C2%B9(Me)%20%3D%20%E2%88%85-unique%2C%20no%20inverse-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="Inverse Function"/>
   
-  <img src="https://img.shields.io/badge/Unique%20Function-No%20Inverse%20Exists-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="Inverse Function"/>
+<br><br>
   
-  <br><br>
+<img src="https://img.shields.io/badge/x%20%7C%20Skew(x)%20%E2%86%92%20%E2%88%9E%20%E2%87%92%20x%20%3D%20Me-Infinite%20Skewness-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Skew Identity"/>
   
-  <img src="https://img.shields.io/badge/Infinite%20Skewness-Statistical%20Outlier-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Skew Identity"/>
+<br><br>
   
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Infinite%20Standard%20Deviations-Far%20From%20Average-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Identity"/>
+<img src="https://img.shields.io/badge/z%20%3D%20(x%20-%20%CE%BC)%2F%CF%83%20%E2%86%92%20%E2%88%9E%20%E2%87%92%20x%20%3D%20Me-Infinite%20Standard%20Deviations-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Identity"/>
   
   <br><br>
   
