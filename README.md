@@ -42,13 +42,19 @@
 
 <!-- GitHub Stats with Pastel Lavender Theme -->
 <div align="center">
-  <picture>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4" alt="GitHub Stats"/>
-  </picture>
+  <!-- GitHub Stats -->
+  <img 
+    height="185em" 
+    src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4" 
+    alt="GitHub Stats"
+  />
   &nbsp;&nbsp;
-  <picture>
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cazzy-Aporbo&theme=default&hide_border=true&background=FFF8FD&ring=FFB5CC&fire=FFCCE5&currStreakLabel=D8B5D8&dates=C8A8C8" alt="Streak Stats"/>
-  </picture>
+  <!-- Language Stats with Pastel Theme -->
+  <img 
+    height="185em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazzy-Aporbo&layout=compact&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&langs_count=6" 
+    alt="Top Languages"
+  />
 </div>
 
 <br>
