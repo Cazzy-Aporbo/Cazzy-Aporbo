@@ -88,6 +88,8 @@
 <br><br>
 
 <b style="color: #D8B5D8; font-size: 19px;">Cazandra Aporbo, MS</b>
+<br>
+<i style="color: #E6D0FF; font-size: 14px;">f⁻¹(Me) = ∅ (unique, no inverse)</i>
 
 <br>
 
@@ -183,6 +185,12 @@ graph LR
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=5000&pause=1000&color=C8A8C8&center=true&vCenter=true&multiline=true&width=980&height=150&lines=Analyzing+messy+healthcare+data+with+advanced+ML+techniques;Building+AI+systems+that+actually+listen+to+women+(harder+than+it+sounds);Making+compliance+frameworks+less+painful+for+everyone+involved;Developing+Serendipity+Finder%3A+discovering+correlations+in+data+extremes;Found+14+hidden+patterns+that+traditional+statistics+completely+missed;Working+on+ML+skills+and+updating+GitHub+portfolio+regularly" alt="Current Work Typing" />
 </picture>
+
+<br>
+
+<p align="center" style="color: #DDA0DD; font-size: 15px; font-style: italic;">
+x | Skew(x) → ∞ ⇒ x = Me
+</p>
 
 </div>
 
@@ -925,6 +933,12 @@ graph TD
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=800&lines=The+code+is+open-source+because+good+ideas+should+be+shared" alt="Open Source Philosophy" />
 </picture>
 
+<br>
+
+<p align="center" style="color: #B5E5C5; font-size: 14px; font-style: italic;">
+z = (x – μ)/σ → ∞ ⇒ x = Me
+</p>
+
 </div>
 
 <br>
@@ -1213,6 +1227,17 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 </picture>
 
 <br><br>
+
+<div align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 20px; border-radius: 25px; margin: 20px auto; width: 60%; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.15);">
+  <p style="color: #D8B5D8; font-size: 18px; font-weight: 600; font-family: 'Fira Code', monospace; margin: 0;">
+    f⁻¹(Me) = ∅
+  </p>
+  <p style="color: #C8A8C8; font-size: 14px; font-style: italic; margin: 5px 0;">
+    unique, no inverse
+  </p>
+</div>
+
+<br>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Cazzy-Aporbo&color=FFE0F5&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
