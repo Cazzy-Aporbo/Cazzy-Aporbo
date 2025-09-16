@@ -2,7 +2,7 @@
 
 <!-- Animated Wave Header with Lavender Pink Mint Ombre -->
 <picture>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi,%20I'm%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20x%20∈%20Outlier%20∧%20x%20∉%20Average%20⇒%20x%20=%20Me%20•%20Storyteller&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi%2C%20I%27m%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Outlier%20by%20Nature%20%E2%80%A2%20Storyteller&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
 </picture>
 
 <br>
@@ -43,11 +43,11 @@
 <!-- GitHub Stats with Pastel Lavender Theme -->
 <div align="center">
   <picture>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=45,FFF8FD,FFE0F5,E6E0FF&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&custom_title=Data%20Science%20Impact&ring_color=D4FFE4" alt="GitHub Stats"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4" alt="GitHub Stats"/>
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com?user=Cazzy-Aporbo&theme=default&hide_border=true&background=45,E6E0FF,FFE5CC,D4FFE4&ring=FFB5CC&fire=FFCCE5&currStreakLabel=D8B5D8&dates=C8A8C8&sideLabels=D8B5D8&currStreakNum=D8B5D8&sideNums=C8A8C8" alt="Streak Stats"/>
+    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cazzy-Aporbo&theme=default&hide_border=true&background=FFF8FD&ring=FFB5CC&fire=FFCCE5&currStreakLabel=D8B5D8&dates=C8A8C8" alt="Streak Stats"/>
   </picture>
 </div>
 
@@ -89,7 +89,7 @@
 
 <b style="color: #D8B5D8; font-size: 19px;">Cazandra Aporbo, MS</b>
 <br>
-<i style="color: #E6D0FF; font-size: 14px;">f⁻¹(Me) = ∅ (unique, no inverse)</i>
+<i style="background: linear-gradient(90deg, #FFB5CC, #E6D0FF, #B5E5C5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 15px; font-weight: 600;">Unique, with no inverse function</i>
 
 <br>
 
@@ -106,6 +106,12 @@
 
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Core%20Competencies&height=85&fontSize=40&animation=fadeIn&descColor=C8A8C8" alt="Skills Header" width="100%"/>
+</picture>
+
+<br>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14&height=25&section=header&reverseGradient=true&animation=twinkling" alt="Ombre Separator" width="100%"/>
 </picture>
 
 <br>
@@ -133,6 +139,12 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=25&section=header&reverseGradient=false&animation=twinkling" alt="Ombre Separator" width="100%"/>
+</picture>
 
 <br>
 
@@ -177,7 +189,13 @@ graph LR
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=What%20I'm%20Working%20On&height=90&fontSize=40&desc=Current%20Projects%20and%20Research&descAlignY=82&animation=blinking&descColor=C8A8C8" alt="Current Work" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=What%20I%27m%20Working%20On&height=90&fontSize=40&desc=Current%20Projects%20and%20Research&descAlignY=82&animation=blinking&descColor=C8A8C8" alt="Current Work" width="100%"/>
+</picture>
+
+<br>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14&height=2&animation=scaleIn" alt="Gradient Line" width="100%"/>
 </picture>
 
 <br>
@@ -188,26 +206,35 @@ graph LR
 
 <br>
 
-<p align="center" style="color: #DDA0DD; font-size: 15px; font-style: italic;">
-x | Skew(x) → ∞ ⇒ x = Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Infinite%20Skewness-Mathematical%20Identity-DDA0DD?style=for-the-badge&labelColor=E6E0FF" alt="Skew Formula"/>
 </p>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,18,16,14,12,10,8,6,4,2,0&height=2&animation=scaleIn" alt="Gradient Line" width="100%"/>
+</picture>
 
 </div>
 
 <br>
 
-<!-- Beautiful Pastel Ombre Separator -->
-<div align="center">
-  <picture>
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=45&section=header&reverseGradient=true" alt="Separator" width="100%"/>
-  </picture>
-</div>
+<br>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10&height=45&section=header&reverseGradient=true&animation=fadeIn" alt="Separator" width="100%"/>
+</picture>
 
 <br>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=450&lines=Current+Focus+Areas" alt="Focus Areas Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=450&lines=Current+Focus+Areas;Building+the+Future;Innovation+in+Progress" alt="Focus Areas Title" />
 </h2>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=3&animation=scaleIn" alt="Gradient Line" width="100%"/>
+</picture>
+
+<br>
 
 <div align="center">
 
@@ -238,7 +265,7 @@ x | Skew(x) → ∞ ⇒ x = Me
 <td style="padding: 18px;"><strong style="color: #D8B5D8;">Data Infrastructure & Automation</strong></td>
 <td style="padding: 18px; color: #C8A8C8;">Optimizing pipelines, ETL/ELT, and cloud data ecosystems</td>
 <td style="padding: 18px;">
-  <img src="https://img.shields.io/badge/Speed-70%25↑-E6D0FF?style=flat-square&labelColor=FFE0F5" alt="Speed"/>
+  <img src="https://img.shields.io/badge/Speed-70%25%20up-E6D0FF?style=flat-square&labelColor=FFE0F5" alt="Speed"/>
 </td>
 </tr>
 
@@ -294,7 +321,7 @@ x | Skew(x) → ∞ ⇒ x = Me
 <td style="padding: 18px;"><strong style="color: #A8C8D8;">Pattern Discovery in Extremes</strong></td>
 <td style="padding: 18px; color: #98B8C8;">Developed Serendipity Finder methodology for tail correlation analysis</td>
 <td style="padding: 18px;">
-  <img src="https://img.shields.io/badge/Significance-0.85+-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Significance"/>
+  <img src="https://img.shields.io/badge/Significance-0.85%2B-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Significance"/>
 </td>
 </tr>
 
@@ -316,7 +343,7 @@ x | Skew(x) → ∞ ⇒ x = Me
 <br>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=Projects+I'm+Proud+Of" alt="Projects Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=Projects+I%27m+Proud+Of" alt="Projects Title" />
 </h2>
 
 <details>
@@ -327,7 +354,7 @@ x | Skew(x) → ∞ ⇒ x = Me
 <div align="center">
 
 <!-- Enhanced Project Cards with Beautiful Pastel Ombre -->
-<table width="97%" style="border-collapse: separate; border-spacing: 20px;">
+<table width="95%" style="border-collapse: separate; border-spacing: 20px;">
 
 <!-- Serendipity Finder Card -->
 <tr>
@@ -354,7 +381,7 @@ pie title Pattern Discovery Results
 <strong style="color: #D8B5D8;">Impact:</strong> <span style="color: #C8A8C8;">Found 14 patterns invisible to traditional correlation—still surprised this worked</span><br><br>
 <img src="https://img.shields.io/badge/Status-Open%20Source-B5E5C5?style=flat-square&labelColor=E6E0FF"/> 
 &nbsp;
-<img src="https://img.shields.io/badge/Users-500+-FFB5CC?style=flat-square&labelColor=FFE0F5"/>
+<img src="https://img.shields.io/badge/Users-500%2B-FFB5CC?style=flat-square&labelColor=FFE0F5"/>
 
 </td>
 </tr>
@@ -473,7 +500,7 @@ graph LR
 <td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 20%, #D0E8FF 40%, #D8F0FF 60%, #E0F5FF 80%, #F0FAFF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(224, 245, 255, 0.25);">
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Women's%20Health%20LLM%20Dashboard-AI%20Ethics-E0F5FF?style=for-the-badge&labelColor=D0E8FF" alt="LLM Badge"/>
+  <img src="https://img.shields.io/badge/Women%27s%20Health%20LLM%20Dashboard-AI%20Ethics-E0F5FF?style=for-the-badge&labelColor=D0E8FF" alt="LLM Badge"/>
 </h3>
 
 <br>
@@ -496,7 +523,7 @@ graph TD
 <strong style="color: #A8C8D8;">Innovation:</strong> <span style="color: #98B8C8;">Finally—measurable AI quality scores</span><br><br>
 <img src="https://img.shields.io/badge/Metrics-3%20Dimensions-E0F5FF?style=flat-square&labelColor=D0E8FF"/> 
 &nbsp;
-<img src="https://img.shields.io/badge/Response%20Time-<100ms-B5E5C5?style=flat-square&labelColor=D4FFE4"/>
+<img src="https://img.shields.io/badge/Response%20Time-%3C100ms-B5E5C5?style=flat-square&labelColor=D4FFE4"/>
 
 </td>
 </tr>
@@ -707,7 +734,7 @@ graph TD
 <div align="center">
 
 <!-- Beautiful Enhanced Dataset Table with Pastel Ombre -->
-<table width="97%" style="border-collapse: separate; border-spacing: 16px;">
+<table width="95%" style="border-collapse: separate; border-spacing: 16px;">
 
 <tr>
 <td colspan="5" align="center" style="padding: 25px;">
@@ -728,7 +755,7 @@ graph TD
 <tr style="background: linear-gradient(90deg, #FFE0F5 0%, #FFE8F8 50%, #FFF0FA 100%); border-radius: 10px;">
 <td style="padding: 15px; color: #D8B5D8;"><strong>City Health</strong></td>
 <td style="padding: 15px; color: #C8A8C8;">LA/NYC/Chicago Open Data, CDC PLACES, EPA</td>
-<td style="padding: 15px; color: #C8A8C8;">Air quality × chronic conditions correlation</td>
+<td style="padding: 15px; color: #C8A8C8;">Air quality x chronic conditions correlation</td>
 <td style="padding: 15px; color: #C8A8C8;">Spatial joins, causal forests</td>
 <td style="padding: 15px;">
   <img src="https://img.shields.io/badge/Risk%20Maps-Created-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Risk"/>
@@ -768,7 +795,7 @@ graph TD
 <tr style="background: linear-gradient(90deg, #FFCCE5 0%, #FFD4E8 50%, #FFDCEB 100%); border-radius: 10px;">
 <td style="padding: 15px; color: #D8B5D8;"><strong>Vaccination Access</strong></td>
 <td style="padding: 15px; color: #C8A8C8;">County/tract indicators, SDOH</td>
-<td style="padding: 15px; color: #C8A8C8;">Access factors × uptake patterns</td>
+<td style="padding: 15px; color: #C8A8C8;">Access factors x uptake patterns</td>
 <td style="padding: 15px; color: #C8A8C8;">Propensity weighting, GLMs</td>
 <td style="padding: 15px;">
   <img src="https://img.shields.io/badge/Targeted-Outreach-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Outreach"/>
@@ -778,7 +805,7 @@ graph TD
 <tr style="background: linear-gradient(90deg, #E0F5FF 0%, #E8F8FF 50%, #F0FAFF 100%); border-radius: 10px;">
 <td style="padding: 15px; color: #A8C8D8;"><strong>Mobility & Exposure</strong></td>
 <td style="padding: 15px; color: #98B8C8;">Mobility indexes, weather/climate</td>
-<td style="padding: 15px; color: #98B8C8;">Exposure × acute event interaction</td>
+<td style="padding: 15px; color: #98B8C8;">Exposure x acute event interaction</td>
 <td style="padding: 15px; color: #98B8C8;">Time series decomposition</td>
 <td style="padding: 15px;">
   <img src="https://img.shields.io/badge/Scenarios-Modeled-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Scenarios"/>
@@ -870,16 +897,64 @@ graph TD
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=How+I+Work+with+Data" alt="Work Style Title" />
 </h3>
 
+<br>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14&height=30&section=header&reverseGradient=false" alt="Ombre Bar" width="100%"/>
+</picture>
+
 <div align="center">
 
-<table width="80%" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 15%, #FFE5CC 30%, #D4FFE4 45%, #E0F5FF 60%, #FFCCE5 75%, #FFE0F5 90%, #E6E0FF 100%); padding: 40px; border-radius: 30px; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.15);">
+<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 15%, #FFE5CC 30%, #D4FFE4 45%, #E0F5FF 60%, #FFCCE5 75%, #FFE0F5 90%, #E6E0FF 100%); padding: 45px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
 <tr><td align="center">
 
 <br>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=D8B5D8&center=true&vCenter=true&multiline=true&width=680&height=140&lines=Reproducibility+first%3A+notebooks+→+scripts+→+pipelines;Careful+estimation%3A+uncertainty+%2B+calibration+%2B+costs;Human-readable%3A+short+narratives+%2B+clear+tables;Lifelong+learner%3A+document+what+worked+%26+why" alt="Work Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=D8B5D8&center=true&vCenter=true&multiline=true&width=700&height=35&lines=Reproducibility+first%3A+notebooks+-%3E+scripts+-%3E+pipelines" alt="Work Philosophy 1" />
 </picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/Notebooks-Start-FFE0F5?style=flat-square&labelColor=FFB5CC" alt="Notebooks"/>
+<img src="https://img.shields.io/badge/Scripts-Process-E6E0FF?style=flat-square&labelColor=E6D0FF" alt="Scripts"/>
+<img src="https://img.shields.io/badge/Pipelines-Done-D4FFE4?style=flat-square&labelColor=B5E5C5" alt="Pipelines"/>
+
+<br><br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=C8A8C8&center=true&vCenter=true&multiline=true&width=700&height=35&lines=Careful+estimation%3A+uncertainty+%2B+calibration+%2B+costs" alt="Work Philosophy 2" />
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/Uncertainty-Quantified-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Uncertainty"/>
+<img src="https://img.shields.io/badge/Calibration-Validated-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Calibration"/>
+<img src="https://img.shields.io/badge/Costs-Analyzed-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Costs"/>
+
+<br><br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=B5D8B8&center=true&vCenter=true&multiline=true&width=700&height=35&lines=Human-readable%3A+short+narratives+%2B+clear+tables" alt="Work Philosophy 3" />
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/Narratives-Clear-FFE0F5?style=flat-square&labelColor=FFCCE5" alt="Narratives"/>
+<img src="https://img.shields.io/badge/Tables-Structured-E6E0FF?style=flat-square&labelColor=DED8FF" alt="Tables"/>
+<img src="https://img.shields.io/badge/Insights-Actionable-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Insights"/>
+
+<br><br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A8C8D8&center=true&vCenter=true&multiline=true&width=700&height=35&lines=Lifelong+learner%3A+document+what+worked+%26+why" alt="Work Philosophy 4" />
+</picture>
+
+<br>
+
+<img src="https://img.shields.io/badge/Document-Everything-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Document"/>
+<img src="https://img.shields.io/badge/Learn-Continuously-FFE5CC?style=flat-square&labelColor=FFECD8" alt="Learn"/>
+<img src="https://img.shields.io/badge/Share-Knowledge-D4FFE4?style=flat-square&labelColor=C5F5D5" alt="Share"/>
 
 <br>
 
@@ -887,6 +962,10 @@ graph TD
 </table>
 
 </div>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,18,16,14,12,10,8,6,4,2,0&height=30&section=header&reverseGradient=false" alt="Ombre Bar" width="100%"/>
+</picture>
 
 <br>
 
@@ -935,8 +1014,8 @@ graph TD
 
 <br>
 
-<p align="center" style="color: #B5E5C5; font-size: 14px; font-style: italic;">
-z = (x – μ)/σ → ∞ ⇒ x = Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Infinite%20Standard%20Deviations%20from%20Average-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Formula"/>
 </p>
 
 </div>
@@ -956,21 +1035,21 @@ z = (x – μ)/σ → ∞ ⇒ x = Me
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Current%20→%20Head%20of%20Data%20@%20FoXX%20Health-100%25-D8B5D8?style=for-the-badge&labelColor=FFE0F5" alt="Current Role" width="100%"/>
+  <img src="https://img.shields.io/badge/Current%3A%20Head%20of%20Data%20%40%20FoXX%20Health-100%25-D8B5D8?style=for-the-badge&labelColor=FFE0F5" alt="Current Role" width="100%"/>
 </td>
 </tr>
 
 <tr>
 <td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(255, 224, 245, 0.15);">
 <strong style="font-size: 19px; color: #D8B5D8;">Head of Data</strong> | FoXX Health<br><br>
-<img src="https://img.shields.io/badge/Impact-Advanced%20ethical%20AI%20for%20women's%20health-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Impact"/><br><br>
+<img src="https://img.shields.io/badge/Impact-Advanced%20ethical%20AI%20for%20women%27s%20health-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Impact"/><br><br>
 <span style="color: #C8A8C8;">Leading data strategy • Building inclusive AI systems • Closing gender gaps in healthcare data</span>
 </td>
 </tr>
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #E6E0FF 0%, #FFE0F5 25%, #D4FFE4 50%, #FFE5CC 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Previous%20→%20Data%20Scientist-75%25-D8B5D8?style=for-the-badge&labelColor=E6E0FF" alt="Previous Role" width="100%"/>
+  <img src="https://img.shields.io/badge/Previous%3A%20Data%20Scientist-75%25-D8B5D8?style=for-the-badge&labelColor=E6E0FF" alt="Previous Role" width="100%"/>
 </td>
 </tr>
 
@@ -984,7 +1063,7 @@ z = (x – μ)/σ → ∞ ⇒ x = Me
 
 <tr>
 <td width="100%" style="background: linear-gradient(90deg, #D4FFE4 0%, #FFE5CC 25%, #E6E0FF 50%, #FFE0F5 75%, #FFCCE5 100%); padding: 8px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Foundation%20→%20Mentor%20%26%20Educator-50%25-B5D8B8?style=for-the-badge&labelColor=D4FFE4" alt="Foundation" width="100%"/>
+  <img src="https://img.shields.io/badge/Foundation%3A%20Mentor%20%26%20Educator-50%25-B5D8B8?style=for-the-badge&labelColor=D4FFE4" alt="Foundation" width="100%"/>
 </td>
 </tr>
 
@@ -1042,7 +1121,7 @@ z = (x – μ)/σ → ∞ ⇒ x = Me
 <br>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=800&lines=Focus%3A+Making+statistics+work+in+the+real+world;Building+AI+that's+both+smart+and+fair;Bridging+biology%2C+chemistry%2C+and+data+science" alt="Academic Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=800&lines=Focus%3A+Making+statistics+work+in+the+real+world;Building+AI+that%27s+both+smart+and+fair;Bridging+biology%2C+chemistry%2C+and+data+science" alt="Academic Focus" />
 </picture>
 
 </div>
@@ -1100,7 +1179,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=170&section=header&text=Let's%20Connect&fontSize=48&animation=fadeIn&fontAlignY=45&desc=Always%20happy%20to%20talk%20about%20data%20and%20discovery&descAlignY=75&fontColor=D8B5D8" alt="Connect Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=170&section=header&text=Let%27s%20Connect&fontSize=48&animation=fadeIn&fontAlignY=45&desc=Always%20happy%20to%20talk%20about%20data%20and%20discovery&descAlignY=75&fontColor=D8B5D8" alt="Connect Header" width="100%"/>
 </picture>
 
 <br>
@@ -1142,12 +1221,12 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 20px; border-radius: 20px;">
   <a href="mailto:becaziam@gmail.com">
-    <img src="https://img.shields.io/badge/Personal-becaziam@gmail.com-D4FFE4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B5E5C5" alt="Personal Email"/>
+    <img src="https://img.shields.io/badge/Personal-becaziam%40gmail.com-D4FFE4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B5E5C5" alt="Personal Email"/>
   </a>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 20px; border-radius: 20px;">
   <a href="mailto:logofchi@gmail.com">
-    <img src="https://img.shields.io/badge/Business-logofchi@gmail.com-FFE5CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD0B5" alt="Business Email"/>
+    <img src="https://img.shields.io/badge/Business-logofchi%40gmail.com-FFE5CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD0B5" alt="Business Email"/>
   </a>
 </td>
 </tr>
@@ -1185,7 +1264,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=170&section=header&text=License%20Information&fontSize=44&animation=fadeIn&fontAlignY=45&desc=MIT%20for%20Code%20•%20CC-BY-4.0%20for%20Documentation&descAlignY=75&descSize=22&fontColor=D8B5D8" alt="License Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=170&section=header&text=License%20Information&fontSize=44&animation=fadeIn&fontAlignY=45&desc=MIT%20for%20Code%20%E2%80%A2%20CC-BY-4.0%20for%20Documentation&descAlignY=75&descSize=22&fontColor=D8B5D8" alt="License Header" width="100%"/>
 </picture>
 
 <br>
@@ -1223,29 +1302,36 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 </picture>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let%27s+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
 </picture>
 
 <br><br>
 
-<div align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 20px; border-radius: 25px; margin: 20px auto; width: 60%; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.15);">
-  <p style="color: #D8B5D8; font-size: 18px; font-weight: 600; font-family: 'Fira Code', monospace; margin: 0;">
-    f⁻¹(Me) = ∅
-  </p>
-  <p style="color: #C8A8C8; font-size: 14px; font-style: italic; margin: 5px 0;">
-    unique, no inverse
-  </p>
-  <p style="color: #B5D8B8; font-size: 16px; font-family: 'Fira Code', monospace; margin: 10px 0;">
-    x | Skew(x) → ∞ ⇒ x = Me
-  </p>
-  <p style="color: #A8C8D8; font-size: 16px; font-family: 'Fira Code', monospace; margin: 10px 0;">
-    z = (x – μ)/σ → ∞ ⇒ x = Me
-  </p>
+<div align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 25px; border-radius: 30px; margin: 25px auto; width: 65%; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.2);">
+  
+  <img src="https://img.shields.io/badge/Unique%20Function-No%20Inverse%20Exists-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="Inverse Function"/>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Infinite%20Skewness-Statistical%20Outlier-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Skew Identity"/>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Infinite%20Standard%20Deviations-Far%20From%20Average-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Identity"/>
+  
+  <br><br>
+  
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=D8B5D8&center=true&vCenter=true&width=500&lines=Outlier+by+design%2C+not+by+accident;Finding+signal+where+others+see+noise;The+edge+cases+are+the+interesting+cases" alt="Mathematical Philosophy" />
+  </picture>
 </div>
 
 <br>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter with Dynamic Update -->
 <img src="https://komarev.com/ghpvc/?username=Cazzy-Aporbo&color=FFE0F5&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<!-- Last Updated Badge -->
+<img src="https://img.shields.io/badge/Last%20Updated-Dynamic-D4FFE4?style=for-the-badge&labelColor=B5E5C5" alt="Last Updated"/>
 
 </div>
