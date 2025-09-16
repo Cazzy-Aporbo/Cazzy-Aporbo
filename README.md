@@ -2,7 +2,7 @@
 
 <!-- Animated Wave Header with Lavender Pink Mint Ombre -->
 <picture>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi,%20I'm%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Head%20of%20Data%20•%20AI%20Healthcare%20Pioneer%20•%20Pattern%20Discovery%20Specialist&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi,%20I'm%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20•%20x%20∈%20Outlier%20∧%20x%20∉%20Average%20⇒%20x%20=%20Me%20•%20Storyteller&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
 </picture>
 
 <br>
