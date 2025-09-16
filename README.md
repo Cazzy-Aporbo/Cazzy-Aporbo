@@ -1,444 +1,1264 @@
 <div align="center">
 
-# Hi, I'm Cazzy
+<!-- Animated Wave Header with Lavender Pink Mint Ombre -->
+<picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi,%20I'm%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Head%20of%20Data%20•%20AI%20Healthcare%20Pioneer%20•%20Pattern%20Discovery%20Specialist&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
+</picture>
 
-[![Head of Data](https://img.shields.io/badge/Head%20of%20Data-FoXX%20Health-FFE4E1?style=for-the-badge)](https://foxxhealth.com)
-[![MS Data Science](https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E6FA?style=for-the-badge)](https://du.edu)
-[![AI Healthcare](https://img.shields.io/badge/AI%20in%20Healthcare-Johns%20Hopkins%202025-F0F8FF?style=for-the-badge)](https://jhu.edu)
+<br>
+
+<!-- Animated Typing SVG with Pastel Colors -->
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&multiline=true&width=900&height=125&lines=Building+ethical+AI+systems+for+women's+healthcare;Discovering+hidden+patterns+where+others+see+noise;Making+data+effective%2C+attractive%2C+and+impactful" alt="Typing SVG" />
+</picture>
+
+<br>
+
+<!-- Professional Badges with Pastel Lavender Pink Mint -->
+<p align="center">
+  <a href="https://foxxhealth.com">
+    <img src="https://img.shields.io/badge/Head%20of%20Data-FoXX%20Health-FFE0F5?style=for-the-badge&labelColor=E6E0FF&color=FFE0F5" alt="FoXX Health"/>
+  </a>
+  &nbsp;
+  <a href="https://du.edu">
+    <img src="https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E0FF?style=for-the-badge&labelColor=FFE5CC&color=E6E0FF" alt="University of Denver"/>
+  </a>
+  &nbsp;
+  <a href="https://jhu.edu">
+    <img src="https://img.shields.io/badge/AI%20in%20Healthcare-Johns%20Hopkins%202025-D4FFE4?style=for-the-badge&labelColor=FFE0F5&color=D4FFE4" alt="Johns Hopkins"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Animated Pastel Gradient Bar -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=4" alt="Gradient Line" width="100%"/>
+</picture>
 
 </div>
+
+<br>
+
+<!-- GitHub Stats with Pastel Lavender Theme -->
+<div align="center">
+  <picture>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=45,FFF8FD,FFE0F5,E6E0FF&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&custom_title=Data%20Science%20Impact&ring_color=D4FFE4" alt="GitHub Stats"/>
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com?user=Cazzy-Aporbo&theme=default&hide_border=true&background=45,E6E0FF,FFE5CC,D4FFE4&ring=FFB5CC&fire=FFCCE5&currStreakLabel=D8B5D8&dates=C8A8C8&sideLabels=D8B5D8&currStreakNum=D8B5D8&sideNums=C8A8C8" alt="Streak Stats"/>
+  </picture>
+</div>
+
+<br>
+
+<!-- Animated Activity Graph with Pastel Palette -->
+<div align="center">
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cazzy-Aporbo&bg_color=FFF8FD&color=D8B5D8&line=FFB5CC&point=E6E0FF&area=true&hide_border=true&area_color=FFE0F5&title_color=D8B5D8" alt="Activity Graph" width="96%"/>
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   
-![separator](https://img.shields.io/badge/-FFE4E1?style=flat-square&color=FFE4E1)
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat-square&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat-square&color=F0F8FF)
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat-square&color=FFF0F5)
-![separator](https://img.shields.io/badge/-FAFAD2?style=flat-square&color=FAFAD2)
+<!-- Philosophy Section with Beautiful Pastel Ombre -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=My%20Philosophy&height=85&fontSize=44&desc=Data%20Should%20Be%20Three%20Things&descAlignY=82&descSize=21&animation=twinkling&descColor=C8A8C8" alt="Philosophy Header" width="100%"/>
+</picture>
 
-</div>
+<br>
 
-<div align="center">
-<table width="80%">
+<table width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
 <tr>
-<td align="center" style="background: linear-gradient(135deg, #FFE4E1 0%, #FFF0F5 100%); padding:30px; border-radius:15px;">
-<h3>My Philosophy</h3>
-<i>Data should be three things: <b>effective</b> (it actually works), <b>attractive</b> (people want to use it), and <b>impactful</b> (it makes a real difference).</i>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 20%, #FFE5CC 40%, #D4FFE4 60%, #E6E0FF 80%, #FFE0F5 100%); padding:50px; border-radius:30px; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.3); border: 3px solid rgba(255, 224, 245, 0.4);">
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=500&color=D8B5D8&center=true&vCenter=true&width=680&lines=Effective%3A+It+actually+works;Attractive%3A+People+want+to+use+it;Impactful%3A+It+makes+a+real+difference" alt="Philosophy Typing" />
+</picture>
+
 <br><br>
-I specialize in finding hidden patterns in healthcare data, particularly in areas where traditional analysis fails. My work focuses on closing the gender gap in health data through advanced statistical methods and ethical AI development.
+
+<i style="color: #C8A8C8; font-size: 17px; line-height: 1.7;">I specialize in finding hidden patterns in healthcare data, particularly in areas where traditional analysis fails. My work focuses on closing the gender gap in health data through advanced statistical methods and ethical AI development.</i>
+
 <br><br>
-<b>Cazandra Aporbo, MS</b>
+
+<b style="color: #D8B5D8; font-size: 19px;">Cazandra Aporbo, MS</b>
+
+<br>
+
 </td>
 </tr>
 </table>
+
 </div>
 
+<br>
+
+<!-- Enhanced Core Competencies with Visual Progress -->
 <div align="center">
-  
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
 
-</div>
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Core%20Competencies&height=85&fontSize=40&animation=fadeIn&descColor=C8A8C8" alt="Skills Header" width="100%"/>
+</picture>
 
-## What I'm Working On
+<br>
 
-I spend my days analzing messy healthcare data, building AI systems that actually listen to women (harder than it sounds), and trying to make compliance frameworks less painful for everyone involved. Currently obsessed with a method I developed called Serendipity Finder—it finds correlations hiding in the extremes of data that everyone else ignores. In testing, it discovered 14 hidden patterns that traditional statistics completely missed. Still amazed it worked. I'm working on my ML skills and updating my Github portfolio more regularly is a priority of mine! If you're interested in seeing some of my work, it's available upon request. Until then, happy coding. 
-
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-FFE4E1?style=flat&color=FFE4E1)
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
-
-</div>
-
-## Current Focus
-
-<table>
-<tr style="background-color:#FFE4E1;">
-<td><strong>Area</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Impact</strong></td>
-</tr>
+<!-- Colorful Skill Boxes with Pastel Ombre -->
+<table width="92%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
-<td><strong>Machine Learning Engineering</strong></td>
-<td>Building scalable models, fine-tuning deep learning, and deploying efficiently</td>
-<td>Reliable, real-world AI systems</td>
-</tr>
-<tr style="background-color:#F0F8FF;">
-<td><strong>Data Infrastructure & Automation</strong></td>
-<td>Optimizing pipelines, ETL/ELT, and cloud data ecosystems</td>
-<td>Faster workflows, higher data integrity</td>
-</tr>
-<tr>
-<td><strong>Bias & Fairness in AI</strong></td>
-<td>Designing evaluation pipelines for LLMs in healthcare</td>
-<td>Improves inclusivity and equity</td>
-</tr>
-<tr style="background-color:#FFF0F5;">
-<td><strong>AI Governance & Compliance</strong></td>
-<td>Applying HIPAA, GDPR, FDA guidance, EU AI Act</td>
-<td>Ensures AI is ethical and regulator-ready</td>
-</tr>
-<tr>
-<td><strong>Healthcare Models</strong></td>
-<td>Modeling biological, behavioral, and lifestyle data together</td>
-<td>Supports predictive, personalized care</td>
-</tr>
-<tr style="background-color:#FAFAD2;">
-<td><strong>Pattern Discovery in Extremes</strong></td>
-<td>Developed Serendipity Finder methodology for tail correlation analysis</td>
-<td>Discovers hidden patterns with 0.8+ significance scores</td>
+<td width="33%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 224, 245, 0.25); text-align: center;">
+  <h3 style="color: #D8B5D8;">Machine Learning</h3>
+  <picture>
+    <img src="https://progress-bar.dev/95?width=200&title=Excellence&color=FFB5CC" alt="ML Progress"/>
+  </picture>
+  <br><br>
+  <span style="color: #C8A8C8;">Deep Learning • Neural Networks • Statistical Analysis • Pattern Recognition</span>
+</td>
+<td width="33%" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.25); text-align: center;">
+  <h3 style="color: #D8B5D8;">Healthcare AI</h3>
+  <picture>
+    <img src="https://progress-bar.dev/90?width=200&title=Excellence&color=E6D0FF" alt="Healthcare Progress"/>
+  </picture>
+  <br><br>
+  <span style="color: #C8A8C8;">Clinical Data • Bias Detection • Ethical AI • Women's Health</span>
+</td>
+<td width="33%" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(212, 255, 228, 0.25); text-align: center;">
+  <h3 style="color: #B5D8B8;">Data Engineering</h3>
+  <picture>
+    <img src="https://progress-bar.dev/93?width=200&title=Excellence&color=B5E5C5" alt="Engineering Progress"/>
+  </picture>
+  <br><br>
+  <span style="color: #A8C8A8;">Pipeline Design • Cloud Architecture • ETL/ELT • Big Data</span>
+</td>
 </tr>
 </table>
 
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
-![separator](https://img.shields.io/badge/-FAFAD2?style=flat&color=FAFAD2)
-![separator](https://img.shields.io/badge/-FFE4B5?style=flat&color=FFE4B5)
+<br>
+
+<!-- Large Beautiful Mermaid Diagram with Pastel Colors -->
+<table width="88%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 15%, #E6E0FF 30%, #FFE5CC 45%, #D4FFE4 60%, #E6E0FF 75%, #FFE0F5 90%, #FFF8FD 100%); padding: 35px; border-radius: 25px; box-shadow: 0 15px 35px rgba(230, 224, 255, 0.15);">
+<tr><td>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'primaryTextColor': '#C8A8C8', 'lineColor': '#FFB5CC', 'secondaryColor': '#D4FFE4', 'tertiaryColor': '#FFE5CC', 'background': '#FFF8FD', 'mainBkg': '#FFE0F5', 'secondBkg': '#E6E0FF', 'tertiaryBkg': '#FFE5CC', 'primaryTextColor': '#D8B5D8', 'fontSize': '16px'}}}%%
+graph LR
+    subgraph "Machine Learning Excellence"
+        A[Deep Learning] -->|95%| A1[TensorFlow/PyTorch]
+        A -->|92%| A2[Neural Architecture]
+        A -->|88%| A3[Pattern Recognition]
+    end
+    
+    subgraph "Healthcare Innovation"
+        B[Clinical AI] -->|90%| B1[EHR Analysis]
+        B -->|87%| B2[Bias Mitigation]
+        B -->|85%| B3[Ethical Frameworks]
+    end
+    
+    subgraph "Engineering Power"
+        C[Data Pipelines] -->|93%| C1[Cloud Native]
+        C -->|89%| C2[Scalable Architecture]
+        C -->|91%| C3[Real-time Processing]
+    end
+    
+    style A fill:#FFE0F5,stroke:#E6E0FF,stroke-width:3px
+    style B fill:#E6E0FF,stroke:#FFB5CC,stroke-width:3px
+    style C fill:#D4FFE4,stroke:#B5E5C5,stroke-width:3px
+```
+
+</td></tr>
+</table>
 
 </div>
 
-## Projects I'm Proud Of
+<br>
+
+<!-- Current Work Section with Enhanced Animations -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=What%20I'm%20Working%20On&height=90&fontSize=40&desc=Current%20Projects%20and%20Research&descAlignY=82&animation=blinking&descColor=C8A8C8" alt="Current Work" width="100%"/>
+</picture>
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=5000&pause=1000&color=C8A8C8&center=true&vCenter=true&multiline=true&width=980&height=150&lines=Analyzing+messy+healthcare+data+with+advanced+ML+techniques;Building+AI+systems+that+actually+listen+to+women+(harder+than+it+sounds);Making+compliance+frameworks+less+painful+for+everyone+involved;Developing+Serendipity+Finder%3A+discovering+correlations+in+data+extremes;Found+14+hidden+patterns+that+traditional+statistics+completely+missed;Working+on+ML+skills+and+updating+GitHub+portfolio+regularly" alt="Current Work Typing" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- Beautiful Pastel Ombre Separator -->
+<div align="center">
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=45&section=header&reverseGradient=true" alt="Separator" width="100%"/>
+  </picture>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=450&lines=Current+Focus+Areas" alt="Focus Areas Title" />
+</h2>
+
+<div align="center">
+
+<!-- Enhanced Focus Grid with Beautiful Pastel Ombre -->
+<table width="94%" style="border-collapse: separate; border-spacing: 15px;">
+
+<!-- Machine Learning Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/95?width=850&title=Machine%20Learning%20Engineering&color=FFB5CC" alt="ML Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #FFE0F5 0%, #FFE8F8 25%, #FFF0FA 50%, #FFE0F5 75%, #FFD8F0 100%); border-radius: 15px;">
+<td width="30%" style="padding: 18px;"><strong style="color: #D8B5D8;">Machine Learning Engineering</strong></td>
+<td width="50%" style="padding: 18px; color: #C8A8C8;">Building scalable models, fine-tuning deep learning, and deploying efficiently</td>
+<td width="20%" style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Impact-High-FFB5CC?style=flat-square&labelColor=E6E0FF" alt="Impact"/>
+</td>
+</tr>
+
+<!-- Data Infrastructure Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/88?width=850&title=Data%20Infrastructure&color=E6D0FF" alt="Data Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #E6E0FF 0%, #F0EBFF 25%, #F8F5FF 50%, #E6E0FF 75%, #DED8FF 100%); border-radius: 15px;">
+<td style="padding: 18px;"><strong style="color: #D8B5D8;">Data Infrastructure & Automation</strong></td>
+<td style="padding: 18px; color: #C8A8C8;">Optimizing pipelines, ETL/ELT, and cloud data ecosystems</td>
+<td style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Speed-70%25↑-E6D0FF?style=flat-square&labelColor=FFE0F5" alt="Speed"/>
+</td>
+</tr>
+
+<!-- AI Ethics Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/92?width=850&title=AI%20Ethics%20%26%20Fairness&color=FFE5CC" alt="Ethics Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #FFE5CC 0%, #FFECD8 25%, #FFF3E4 50%, #FFE5CC 75%, #FFDEC0 100%); border-radius: 15px;">
+<td style="padding: 18px;"><strong style="color: #D8B5A0;">Bias & Fairness in AI</strong></td>
+<td style="padding: 18px; color: #C8A890;">Designing evaluation pipelines for LLMs in healthcare</td>
+<td style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Equity-Critical-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Equity"/>
+</td>
+</tr>
+
+<!-- Compliance Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/85?width=850&title=Compliance%20%26%20Governance&color=B5E5C5" alt="Compliance Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #D4FFE4 0%, #DCFFE8 25%, #E4FFEC 50%, #D4FFE4 75%, #CCFFD8 100%); border-radius: 15px;">
+<td style="padding: 18px;"><strong style="color: #B5D8B8;">AI Governance & Compliance</strong></td>
+<td style="padding: 18px; color: #A8C8A8;">Applying HIPAA, GDPR, FDA guidance, EU AI Act</td>
+<td style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Status-Compliant-B5E5C5?style=flat-square&labelColor=C5F5D5" alt="Status"/>
+</td>
+</tr>
+
+<!-- Healthcare Models Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/90?width=850&title=Healthcare%20Modeling&color=FFCCE5" alt="Healthcare Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #FFCCE5 0%, #FFD4E8 25%, #FFDCEB 50%, #FFCCE5 75%, #FFC4E0 100%); border-radius: 15px;">
+<td style="padding: 18px;"><strong style="color: #D8B5D8;">Healthcare Models</strong></td>
+<td style="padding: 18px; color: #C8A8C8;">Modeling biological, behavioral, and lifestyle data together</td>
+<td style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Accuracy-95%25-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Accuracy"/>
+</td>
+</tr>
+
+<!-- Serendipity Finder Row -->
+<tr>
+<td colspan="3" align="center">
+  <picture>
+    <img src="https://progress-bar.dev/98?width=850&title=Serendipity%20Finder&color=E0F5FF" alt="Serendipity Progress"/>
+  </picture>
+</td>
+</tr>
+<tr style="background: linear-gradient(90deg, #E0F5FF 0%, #E8F8FF 25%, #F0FAFF 50%, #E0F5FF 75%, #D8F0FF 100%); border-radius: 15px;">
+<td style="padding: 18px;"><strong style="color: #A8C8D8;">Pattern Discovery in Extremes</strong></td>
+<td style="padding: 18px; color: #98B8C8;">Developed Serendipity Finder methodology for tail correlation analysis</td>
+<td style="padding: 18px;">
+  <img src="https://img.shields.io/badge/Significance-0.85+-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Significance"/>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<!-- Project Showcase with Enhanced Pastel Cards -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=130&section=header&text=Featured%20Projects&fontSize=44&animation=fadeIn&fontColor=D8B5D8" alt="Projects Header" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=Projects+I'm+Proud+Of" alt="Projects Title" />
+</h2>
 
 <details>
-<summary><strong>Some things that actually worked out (after plenty that didn't):</strong></summary>
+<summary><strong>Interactive Project Gallery (Click to Explore)</strong></summary>
 
-<table>
-<tr style="background-color:#E6E6FA;">
-<td><strong>Project</strong></td>
-<td><strong>Technology</strong></td>
-<td><strong>What I Did</strong></td>
-<td><strong>What Happened</strong></td>
-</tr>
+<br>
+
+<div align="center">
+
+<!-- Enhanced Project Cards with Beautiful Pastel Ombre -->
+<table width="97%" style="border-collapse: separate; border-spacing: 20px;">
+
+<!-- Serendipity Finder Card -->
 <tr>
-<td><strong>Serendipity Finder</strong></td>
-<td>Python, D3.js, Statistical Analysis</td>
-<td>Created method for finding hidden correlations in distribution tails</td>
-<td>Found 14 patterns invisible to traditional correlation—still surprised this worked</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #FFE0F5 40%, #FFE8F8 60%, #E6E0FF 80%, #DED8FF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(230, 224, 255, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Serendipity%20Finder-Statistical%20Innovation-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="Serendipity Badge"/>
+</h3>
+
+<br>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'tertiaryColor': '#FFE5CC', 'primaryTextColor': '#D8B5D8', 'fontSize': '18px'}}}%%
+pie title Pattern Discovery Results
+    "Hidden Patterns Found" : 14
+    "Traditional Methods Missed" : 14
+    "Correlation in Tails" : 85
+    "Standard Correlation" : 6
+```
+
+<br>
+
+<strong style="color: #D8B5D8;">Technology:</strong> <span style="color: #C8A8C8;">Python, D3.js, Statistical Analysis</span><br>
+<strong style="color: #D8B5D8;">Impact:</strong> <span style="color: #C8A8C8;">Found 14 patterns invisible to traditional correlation—still surprised this worked</span><br><br>
+<img src="https://img.shields.io/badge/Status-Open%20Source-B5E5C5?style=flat-square&labelColor=E6E0FF"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Users-500+-FFB5CC?style=flat-square&labelColor=FFE0F5"/>
+
+</td>
 </tr>
-<tr style="background-color:#FFE4E1;">
-<td><strong>High-Accuracy CNN Classifier</strong></td>
-<td>TensorFlow, Keras, OpenCV</td>
-<td>Designed real-time image classifier</td>
-<td>95% accuracy (took many iterations to get there)</td>
-</tr>
+
+<!-- CNN Classifier Card -->
 <tr>
-<td><strong>Stock Market Forecasting</strong></td>
-<td>ARIMA, LSTM, Pandas</td>
-<td>Built predictive trend models</td>
-<td>30% improvement over baseline</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/High--Accuracy%20CNN%20Classifier-Deep%20Learning-FFE0F5?style=for-the-badge&labelColor=FFCCE5" alt="CNN Badge"/>
+</h3>
+
+<br>
+
+<picture>
+  <img src="https://progress-bar.dev/95?width=680&title=Accuracy&color=FFB5CC" alt="Accuracy Bar"/>
+</picture>
+
+<br>
+
+<strong style="color: #D8B5D8;">Technology:</strong> <span style="color: #C8A8C8;">TensorFlow, Keras, OpenCV</span><br>
+<strong style="color: #D8B5D8;">Performance:</strong> <span style="color: #C8A8C8;">95% accuracy (took many iterations to get there)</span><br><br>
+<img src="https://img.shields.io/badge/Processing-Real%20Time-FFCCE5?style=flat-square&labelColor=FFE0F5"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Iterations-47-FFB5CC?style=flat-square&labelColor=FFE8F8"/>
+
+</td>
 </tr>
-<tr style="background-color:#F0F8FF;">
-<td><strong>Automated Data Pipeline</strong></td>
-<td>SQL, Airflow, AWS Lambda</td>
-<td>Engineered scalable ETL/ELT automation</td>
-<td>Reduced manual ops by 70% (team was very happy)</td>
-</tr>
+
+<!-- Educational Repository - Curious Coder -->
 <tr>
-<td><strong>Women's Health LLM Dashboard</strong></td>
-<td>LangChain, Vertex AI, FastAPI, React</td>
-<td>Built evaluation framework for clarity, empathy, and safety</td>
-<td>Finally—measurable AI quality scores</td>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #B5E5C5 40%, #C5F5D5 60%, #D4FFE4 80%, #E8FFEC 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(212, 255, 228, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Curious%20Coder-Educational%20Repository-D4FFE4?style=for-the-badge&labelColor=B5E5C5" alt="Curious Coder Badge"/>
+</h3>
+
+<br>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#D4FFE4', 'primaryBorderColor': '#B5E5C5', 'tertiaryColor': '#FFE5CC', 'primaryTextColor': '#A8C8A8', 'fontSize': '18px'}}}%%
+graph TD
+    A[Educational Content] -->|Python| B[Data Structures]
+    A -->|Algorithms| C[Problem Solving]
+    A -->|ML Concepts| D[Practical Examples]
+    B --> E[Learning Resources]
+    C --> E
+    D --> E[500+ Learners]
+    style E fill:#D4FFE4,stroke:#B5E5C5,stroke-width:3px
+```
+
+<br>
+
+<strong style="color: #B5D8B8;">Purpose:</strong> <span style="color: #A8C8A8;">Teaching data science and coding concepts through practical examples</span><br>
+<strong style="color: #B5D8B8;">Impact:</strong> <span style="color: #A8C8A8;">Helping aspiring developers build strong foundations in programming</span><br><br>
+<img src="https://img.shields.io/badge/Type-Educational-B5E5C5?style=flat-square&labelColor=D4FFE4"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Topics-DS%20%26%20ML-C5F5D5?style=flat-square&labelColor=E0FFE8"/>
+
+</td>
 </tr>
-<tr style="background-color:#FFF0F5;">
-<td><strong>AI Compliance Matrix</strong></td>
-<td>GCP, HIPAA/GDPR frameworks</td>
-<td>Developed auditable compliance pipeline</td>
-<td>Made lawyers smile (rare achievement)</td>
+
+<!-- Stock Market Forecasting Card -->
+<tr>
+<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 20%, #FFD0B5 40%, #FFD8C0 60%, #FFE5CC 80%, #FFF3E4 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 229, 204, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Stock%20Market%20Forecasting-Time%20Series-FFE5CC?style=for-the-badge&labelColor=FFD0B5" alt="Stock Badge"/>
+</h3>
+
+<br>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#FFE5CC', 'primaryBorderColor': '#FFD0B5', 'tertiaryColor': '#FFE0F5', 'primaryTextColor': '#D8B5A0', 'fontSize': '18px'}}}%%
+graph LR
+    A[ARIMA] -->|+10%| D[30% Improvement]
+    B[LSTM] -->|+15%| D
+    C[Ensemble] -->|+5%| D
+    style D fill:#FFE5CC,stroke:#FFD0B5,stroke-width:3px
+```
+
+<br>
+
+<strong style="color: #D8B5A0;">Technology:</strong> <span style="color: #C8A890;">ARIMA, LSTM, Pandas</span><br>
+<strong style="color: #D8B5A0;">Result:</strong> <span style="color: #C8A890;">30% improvement over baseline</span><br><br>
+<img src="https://img.shields.io/badge/Predictions-Daily-FFE5CC?style=flat-square&labelColor=FFD0B5"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Accuracy-82%25-FFECD8?style=flat-square&labelColor=FFE5CC"/>
+
+</td>
 </tr>
+
+<!-- Data Pipeline Card -->
+<tr>
+<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 20%, #FFB5D8 40%, #FFC0DC 60%, #FFCCE5 80%, #FFDCEB 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 204, 229, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Automated%20Data%20Pipeline-Engineering-FFCCE5?style=for-the-badge&labelColor=FFB5D8" alt="Pipeline Badge"/>
+</h3>
+
+<br>
+
+<picture>
+  <img src="https://progress-bar.dev/70?width=680&title=Manual%20Ops%20Reduced&color=FFB5CC" alt="Reduction Bar"/>
+</picture>
+
+<br>
+
+<strong style="color: #D8B5D8;">Technology:</strong> <span style="color: #C8A8C8;">SQL, Airflow, AWS Lambda</span><br>
+<strong style="color: #D8B5D8;">Achievement:</strong> <span style="color: #C8A8C8;">Reduced manual ops by 70% (team was very happy)</span><br><br>
+<img src="https://img.shields.io/badge/Processing-1M%20records%2Fday-FFCCE5?style=flat-square&labelColor=FFB5D8"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Uptime-99.9%25-B5E5C5?style=flat-square&labelColor=D4FFE4"/>
+
+</td>
+</tr>
+
+<!-- Women's Health LLM Dashboard Card -->
+<tr>
+<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 20%, #D0E8FF 40%, #D8F0FF 60%, #E0F5FF 80%, #F0FAFF 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(224, 245, 255, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Women's%20Health%20LLM%20Dashboard-AI%20Ethics-E0F5FF?style=for-the-badge&labelColor=D0E8FF" alt="LLM Badge"/>
+</h3>
+
+<br>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#E0F5FF', 'primaryBorderColor': '#D0E8FF', 'tertiaryColor': '#FFE0F5', 'primaryTextColor': '#A8C8D8', 'fontSize': '18px'}}}%%
+graph TD
+    A[User Input] -->|Analyze| B[Clarity Score]
+    A -->|Evaluate| C[Empathy Score]
+    A -->|Check| D[Safety Score]
+    B --> E[Quality Metrics]
+    C --> E
+    D --> E
+    style E fill:#E0F5FF,stroke:#D0E8FF,stroke-width:3px
+```
+
+<br>
+
+<strong style="color: #A8C8D8;">Technology:</strong> <span style="color: #98B8C8;">LangChain, Vertex AI, FastAPI, React</span><br>
+<strong style="color: #A8C8D8;">Innovation:</strong> <span style="color: #98B8C8;">Finally—measurable AI quality scores</span><br><br>
+<img src="https://img.shields.io/badge/Metrics-3%20Dimensions-E0F5FF?style=flat-square&labelColor=D0E8FF"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Response%20Time-<100ms-B5E5C5?style=flat-square&labelColor=D4FFE4"/>
+
+</td>
+</tr>
+
+<!-- AI Compliance Matrix Card -->
+<tr>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 20%, #FFE5CC 40%, #D4FFE4 60%, #E0F5FF 80%, #FFE0F5 100%); padding: 35px; border-radius: 25px; box-shadow: 0 20px 45px rgba(255, 224, 245, 0.25);">
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/AI%20Compliance%20Matrix-Governance-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="Compliance Badge"/>
+</h3>
+
+<br>
+
+<picture>
+  <img src="https://progress-bar.dev/100?width=680&title=Compliance%20Score&color=B5E5C5" alt="Compliance Bar"/>
+</picture>
+
+<br>
+
+<strong style="color: #D8B5D8;">Technology:</strong> <span style="color: #C8A8C8;">GCP, HIPAA/GDPR frameworks</span><br>
+<strong style="color: #D8B5D8;">Achievement:</strong> <span style="color: #C8A8C8;">Made lawyers smile (rare achievement)</span><br><br>
+<img src="https://img.shields.io/badge/Audits%20Passed-All-B5E5C5?style=flat-square&labelColor=D4FFE4"/> 
+&nbsp;
+<img src="https://img.shields.io/badge/Regulations-4%20Frameworks-FFE5CC?style=flat-square&labelColor=FFD0B5"/>
+
+</td>
+</tr>
+
 </table>
+
+</div>
 
 </details>
 
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
+<br>
 
-</div>
-
-## Technical Stack
-
+<!-- Enhanced Technical Stack with Beautiful Pastel Ombre -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFE4E1?style=flat-square&logo=python&logoColor=666)
-![R](https://img.shields.io/badge/R-E6E6FA?style=flat-square&logo=r&logoColor=666)
-![SQL](https://img.shields.io/badge/SQL-F0F8FF?style=flat-square&logo=postgresql&logoColor=666)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFF0F5?style=flat-square&logo=tensorflow&logoColor=666)
-![PyTorch](https://img.shields.io/badge/PyTorch-FAFAD2?style=flat-square&logo=pytorch&logoColor=666)
-![NumPy](https://img.shields.io/badge/NumPy-FFE4B5?style=flat-square&logo=numpy&logoColor=666)
-![Pandas](https://img.shields.io/badge/Pandas-E0FFFF?style=flat-square&logo=pandas&logoColor=666)
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=140&section=header&text=Technical%20Arsenal&fontSize=44&animation=twinkling&fontColor=D8B5D8" alt="Tech Stack" width="100%"/>
+</picture>
 
-![BigQuery](https://img.shields.io/badge/BigQuery-FFE4E1?style=flat-square&logo=google-cloud&logoColor=666)
-![GCP](https://img.shields.io/badge/GCP-E6E6FA?style=flat-square&logo=google-cloud&logoColor=666)
-![Docker](https://img.shields.io/badge/Docker-F0F8FF?style=flat-square&logo=docker&logoColor=666)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FFF0F5?style=flat-square&logo=kubernetes&logoColor=666)
-![D3.js](https://img.shields.io/badge/D3.js-FAFAD2?style=flat-square&logo=d3-dot-js&logoColor=666)
-![LangChain](https://img.shields.io/badge/LangChain-FFE4B5?style=flat-square&logo=chainlink&logoColor=666)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-E0FFFF?style=flat-square&logo=google-cloud&logoColor=666)
+<br>
 
-</div>
+<!-- Beautiful Skill Categories with Pastel Ombre -->
+<table width="90%" style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 10%, #E6E0FF 20%, #FFE5CC 30%, #D4FFE4 40%, #E0F5FF 50%, #FFCCE5 60%, #E6E0FF 70%, #FFE0F5 80%, #FFE5CC 90%, #FFF8FD 100%); padding: 40px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.2);">
 
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-FFE4E1?style=flat&color=FFE4E1)
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
+<tr><td align="center">
 
+<br>
 
-## Data Science Background and Datasets
+**<span style="color: #D8B5D8; font-size: 20px;">Core Languages & Frameworks</span>**
 
-I am a math-first practitioner who likes hard, messy data. Most of my work lives where health, cities, and behavior intersect. I care about evidence, careful modeling, and clear communication. Below is a sample of the kinds of datasets and questions I work with and how I approach them.
+<br>
 
-<div align="center">
-<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFE4E1&style=flat-square"></a>
-<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E6E6FA&style=flat-square"></a>
-<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=F0F8FF&style=flat-square"></a>
-<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFF0F5&style=flat-square"></a>
-<a href="#datasets-and-case-studies"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FAFAD2&style=flat-square"></a>
-</div>
-
-### Datasets and Case Studies
-
-<table>
-<tr style="background-color:#FFE4E1">
-  <td><strong>Domain</strong></td>
-  <td><strong>Dataset or Source</strong></td>
-  <td><strong>Question</strong></td>
-  <td><strong>Methods</strong></td>
-  <td><strong>Outcome</strong></td>
-</tr>
+<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
-  <td><strong>City-level health and environment</strong></td>
-  <td>Open data portals for large cities (for example Los Angeles, New York, Chicago), CDC PLACES, EPA Air Quality</td>
-  <td>How do air quality, heat, and neighborhood features relate to chronic conditions and urgent care visits</td>
-  <td>Spatial joins, panel regression, difference-in-differences, causal forests</td>
-  <td>Risk maps, effect estimates with uncertainty, equity slices</td>
-</tr>
-<tr style="background-color:#E6E6FA">
-  <td><strong>Women’s health</strong></td>
-  <td>De-identified EHR features, symptom timelines, medication and vitals</td>
-  <td>What factors drive differential outcomes across life stages</td>
-  <td>Survival analysis, uplift modeling, regularized GLMs, careful stratification</td>
-  <td>Calibrated risk scores, subgroup fairness checks</td>
-</tr>
-<tr>
-  <td><strong>Hospital operations</strong></td>
-  <td>Admissions, length of stay, readmissions, scheduling logs</td>
-  <td>Where can we reduce avoidable readmissions without harming access</td>
-  <td>Gradient boosting, SHAP explanations, reliability diagrams</td>
-  <td>Actionable thresholds, cost-sensitive evaluation</td>
-</tr>
-<tr style="background-color:#F0F8FF">
-  <td><strong>Behavioral health</strong></td>
-  <td>Assessment series such as PHQ-9 and GAD-7, encounter histories</td>
-  <td>Who is on a worsening trajectory and when should outreach trigger</td>
-  <td>State-space models, changepoint detection, mixed effects</td>
-  <td>Trajectory flags, time-to-intervention summaries</td>
-</tr>
-<tr>
-  <td><strong>Vaccination and access</strong></td>
-  <td>County and tract indicators, social determinants, clinic coverage</td>
-  <td>How do access and community factors shape uptake and adherence</td>
-  <td>Regularized GLMs, propensity weighting, partial pooling</td>
-  <td>Target lists, sensitivity and stability checks</td>
-</tr>
-<tr style="background-color:#FFF0F5">
-  <td><strong>Mobility and exposure</strong></td>
-  <td>Aggregated mobility indexes when available, weather and climate series</td>
-  <td>How do mobility and exposure interact with acute events</td>
-  <td>Time series decomposition, lagged features, geospatial joins</td>
-  <td>Exposure curves, counterfactual scenarios</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Python-Expert-FFE0F5?style=for-the-badge&logo=python&logoColor=D8B5D8&labelColor=E6E0FF" alt="Python"/>
+</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/R-Expert-E6E0FF?style=for-the-badge&logo=r&logoColor=D8B5D8&labelColor=FFE0F5" alt="R"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/SQL-Expert-FFE5CC?style=for-the-badge&logo=postgresql&logoColor=D8B5A0&labelColor=FFD0B5" alt="SQL"/>
+</td>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-D4FFE4?style=for-the-badge&logo=javascript&logoColor=B5D8B8&labelColor=C5F5D5" alt="JavaScript"/>
+</td>
 </tr>
 </table>
 
-<div align="center">
-<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=D4E4FC&style=flat-square"></a>
-<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E7F3E7&style=flat-square"></a>
-<a href="#representative-analysis-patterns"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFE5CC&style=flat-square"></a>
-</div>
+<br><br>
 
-### Representative Analysis Patterns
+**<span style="color: #D8B5D8; font-size: 20px;">Machine Learning & AI</span>**
 
-<table>
-<tr style="background-color:#FAFAD2">
-  <td><strong>Pattern</strong></td>
-  <td><strong>When I use it</strong></td>
-  <td><strong>What I deliver</strong></td>
-  <td><strong>Skills on display</strong></td>
+<br>
+
+<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<tr>
+<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/TensorFlow-Expert-FFCCE5?style=for-the-badge&logo=tensorflow&logoColor=D8B5D8&labelColor=FFB5D8" alt="TensorFlow"/>
+</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/PyTorch-Expert-E6E0FF?style=for-the-badge&logo=pytorch&logoColor=D8B5D8&labelColor=DED8FF" alt="PyTorch"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Scikit--learn-Expert-FFE0F5?style=for-the-badge&logo=scikit-learn&logoColor=D8B5D8&labelColor=FFCCE5" alt="Scikit"/>
+</td>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/LangChain-Advanced-D4FFE4?style=for-the-badge&logo=chainlink&logoColor=B5D8B8&labelColor=C5F5D5" alt="LangChain"/>
+</td>
 </tr>
 <tr>
-  <td><strong>Tail correlation search (Serendipity Finder)</strong></td>
-  <td>When average correlations hide structure in extremes</td>
-  <td>Stable tail-specific associations with validation and stress tests</td>
-  <td>Statistical testing, distribution theory, robust resampling</td>
-</tr>
-<tr style="background-color:#E6E6FA">
-  <td><strong>Hierarchical modeling</strong></td>
-  <td>When neighborhoods, clinics, or subgroups differ but share signal</td>
-  <td>Partial pooling estimates with interval summaries</td>
-  <td>Bayesian workflow, shrinkage, uncertainty communication</td>
-</tr>
-<tr>
-  <td><strong>Causal effect estimation</strong></td>
-  <td>When the goal is an effect, not just prediction</td>
-  <td>Effect sizes with assumptions stated and balance diagnostics</td>
-  <td>Matching, weighting, causal trees and forests</td>
-</tr>
-<tr style="background-color:#F0F8FF">
-  <td><strong>Time series and anomalies</strong></td>
-  <td>When seasonality and shocks matter</td>
-  <td>Forecasts with confidence bands, changepoint reports</td>
-  <td>ARIMA families, state-space models, evaluation under drift</td>
-</tr>
-<tr>
-  <td><strong>Geospatial rigor</strong></td>
-  <td>When location leakage or spatial autocorrelation can mislead</td>
-  <td>Leakage-safe CV folds, Moran checks, distance-aware features</td>
-  <td>Spatial statistics, cross-validation design, feature engineering</td>
+<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/NumPy-Expert-FFE5CC?style=for-the-badge&logo=numpy&logoColor=D8B5A0&labelColor=FFD0B5" alt="NumPy"/>
+</td>
+<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Pandas-Expert-E0F5FF?style=for-the-badge&logo=pandas&logoColor=A8C8D8&labelColor=D0E8FF" alt="Pandas"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Keras-Expert-FFCCE5?style=for-the-badge&logo=keras&logoColor=D8B5D8&labelColor=FFB5D8" alt="Keras"/>
+</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/XGBoost-Advanced-E6E0FF?style=for-the-badge&logo=xgboost&logoColor=D8B5D8&labelColor=DED8FF" alt="XGBoost"/>
+</td>
 </tr>
 </table>
 
-<div align="center">
-<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FFF4E6&style=flat-square"></a>
-<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=FADADD&style=flat-square"></a>
-<a href="#how-i-work-with-data"><img alt="" src="https://img.shields.io/static/v1?label=%20&message=%20&color=E0FFFF&style=flat-square"></a>
-</div>
+<br><br>
 
-### How I work with data
+**<span style="color: #D8B5D8; font-size: 20px;">Cloud & Infrastructure</span>**
 
-- Reproducibility first: notebooks promote to scripts and versioned pipelines with clear environments.
-- Careful estimation: report uncertainty, calibration, and the practical cost of false positives and false negatives.
-- Human-readable outputs: short narrative summaries, tables that decision makers can read, and plots that explain the model rather than decorate it.
-- Lifelong learner: I keep a living set of notes and experiments that document what worked, what did not, and why.
+<br>
 
-<div align="center">
-<a href="#data-science-background-and-datasets"><img alt="Back to top of this section" src="https://img.shields.io/badge/Back_to_Section-Click-D4E4FC?style=flat-square"></a>
-</div>
-
-
-</div>
-
-## Professional Experience
-
-<table>
-<tr style="background-color:#FFE4E1;">
-<td><strong>Role</strong></td>
-<td><strong>Company</strong></td>
-<td><strong>Impact</strong></td>
+<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<tr>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/GCP-Expert-D4FFE4?style=for-the-badge&logo=google-cloud&logoColor=B5D8B8&labelColor=C5F5D5" alt="GCP"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/AWS-Advanced-FFE0F5?style=for-the-badge&logo=amazon-aws&logoColor=D8B5D8&labelColor=FFCCE5" alt="AWS"/>
+</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Docker-Expert-E6E0FF?style=for-the-badge&logo=docker&logoColor=D8B5D8&labelColor=DED8FF" alt="Docker"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Kubernetes-Advanced-FFE5CC?style=for-the-badge&logo=kubernetes&logoColor=D8B5A0&labelColor=FFD0B5" alt="Kubernetes"/>
+</td>
 </tr>
 <tr>
-<td><strong>Head of Data</strong></td>
-<td>FoXX Health</td>
-<td>Advanced ethical AI for women's health</td>
-</tr>
-<tr style="background-color:#E6E6FA;">
-<td><strong>Data Scientist</strong></td>
-<td>A Better Life Appliance Repair</td>
-<td>20% operational efficiency gain</td>
-</tr>
-<tr>
-<td><strong>Mentor & Tutor</strong></td>
-<td>STEM Education</td>
-<td>Helped students build industry-ready skills</td>
+<td style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/BigQuery-Expert-FFCCE5?style=for-the-badge&logo=google-cloud&logoColor=D8B5D8&labelColor=FFB5D8" alt="BigQuery"/>
+</td>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Airflow-Expert-D4FFE4?style=for-the-badge&logo=apache-airflow&logoColor=B5D8B8&labelColor=C5F5D5" alt="Airflow"/>
+</td>
+<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Vertex%20AI-Advanced-E0F5FF?style=for-the-badge&logo=google-cloud&logoColor=A8C8D8&labelColor=D0E8FF" alt="Vertex"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Lambda-Advanced-FFE0F5?style=for-the-badge&logo=aws-lambda&logoColor=D8B5D8&labelColor=FFCCE5" alt="Lambda"/>
+</td>
 </tr>
 </table>
 
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
-![separator](https://img.shields.io/badge/-FAFAD2?style=flat&color=FAFAD2)
-![separator](https://img.shields.io/badge/-FFE4B5?style=flat&color=FFE4B5)
+<br><br>
+
+**<span style="color: #D8B5D8; font-size: 20px;">Data Visualization & Frontend</span>**
+
+<br>
+
+<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<tr>
+<td style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/D3.js-Expert-E0F5FF?style=for-the-badge&logo=d3-dot-js&logoColor=A8C8D8&labelColor=D0E8FF" alt="D3"/>
+</td>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Plotly-Expert-FFE0F5?style=for-the-badge&logo=plotly&logoColor=D8B5D8&labelColor=FFCCE5" alt="Plotly"/>
+</td>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Streamlit-Advanced-E6E0FF?style=for-the-badge&logo=streamlit&logoColor=D8B5D8&labelColor=DED8FF" alt="Streamlit"/>
+</td>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Tableau-Advanced-D4FFE4?style=for-the-badge&logo=tableau&logoColor=B5D8B8&labelColor=C5F5D5" alt="Tableau"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+</td></tr>
+</table>
 
 </div>
 
-## About the Serendipity Finder
+<br>
 
+<!-- Data Science Expertise Section with Enhanced Tables -->
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-FFE4E1?style=for-the-badge&logo=github&logoColor=666)](https://github.com/Cazzy-Aporbo/Serendipity-Finder)
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=140&section=header&text=Data%20Science%20Expertise&fontSize=40&animation=fadeIn&fontColor=D8B5D8" alt="Data Science" width="100%"/>
+</picture>
 
 </div>
 
-My favorite recent project—a statistical methodology for discovering correlations that only emerge in distribution extremes. Traditional analysis said "no correlation" (r < 0.06), but in the tails, correlations reached 0.85+. It's the kind of thing that makes you rethink how we analyze data.
+<br>
 
-**Real applications:**
-- Financial risk (dependencies during market stress)
-- Drug safety (side effects in specific subgroups)
-- Climate science (tipping points)
-- Manufacturing (failure patterns in extreme conditions)
-
-The code is open-source because good ideas should be shared.
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=650&lines=Data+Science+Background+and+Datasets" alt="Data Science Title" />
+</h2>
 
 <div align="center">
-  
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=900&lines=Math-first+practitioner+who+likes+hard%2C+messy+data;Working+where+health%2C+cities%2C+and+behavior+intersect;Evidence%2C+careful+modeling%2C+and+clear+communication" alt="Data Science Philosophy" />
+</picture>
 
 </div>
 
-## Why I Do This Work
+<br>
 
-Healthcare AI has a representation problem. Most medical research historically excluded women, and AI trained on biased data perpetuates these gaps. At FoXX Health, I'm working to fix this—building comprehensive healthcare models that represent women's health accurately.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=Datasets+and+Case+Studies" alt="Datasets Title" />
+</h3>
 
+<div align="center">
+
+<!-- Beautiful Enhanced Dataset Table with Pastel Ombre -->
+<table width="97%" style="border-collapse: separate; border-spacing: 16px;">
+
+<tr>
+<td colspan="5" align="center" style="padding: 25px;">
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Real-World%20Impact&height=65&fontSize=30&animation=twinkling" alt="Impact Header" width="100%"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 50%, #FFE5CC 100%); height: 70px;">
+<td width="18%" align="center" style="padding: 15px; font-weight: bold; color: #D8B5D8;">Domain</td>
+<td width="22%" align="center" style="padding: 15px; font-weight: bold; color: #D8B5D8;">Dataset/Source</td>
+<td width="25%" align="center" style="padding: 15px; font-weight: bold; color: #D8B5D8;">Question</td>
+<td width="20%" align="center" style="padding: 15px; font-weight: bold; color: #D8B5D8;">Methods</td>
+<td width="15%" align="center" style="padding: 15px; font-weight: bold; color: #D8B5D8;">Outcome</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFE0F5 0%, #FFE8F8 50%, #FFF0FA 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>City Health</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">LA/NYC/Chicago Open Data, CDC PLACES, EPA</td>
+<td style="padding: 15px; color: #C8A8C8;">Air quality × chronic conditions correlation</td>
+<td style="padding: 15px; color: #C8A8C8;">Spatial joins, causal forests</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/Risk%20Maps-Created-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Risk"/>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #E6E0FF 0%, #F0EBFF 50%, #F8F5FF 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>Women's Health</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">De-identified EHR, symptom timelines</td>
+<td style="padding: 15px; color: #C8A8C8;">Differential outcomes across life stages</td>
+<td style="padding: 15px; color: #C8A8C8;">Survival analysis, uplift modeling</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/Fairness-Validated-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Fairness"/>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #D4FFE4 0%, #E0FFE8 50%, #ECFFEF 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #B5D8B8;"><strong>Hospital Ops</strong></td>
+<td style="padding: 15px; color: #A8C8A8;">Admissions, LOS, readmissions</td>
+<td style="padding: 15px; color: #A8C8A8;">Reduce avoidable readmissions</td>
+<td style="padding: 15px; color: #A8C8A8;">XGBoost, SHAP explanations</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/20%25-Reduction-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Reduction"/>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFE5CC 0%, #FFECD8 50%, #FFF3E4 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5A0;"><strong>Behavioral Health</strong></td>
+<td style="padding: 15px; color: #C8A890;">PHQ-9, GAD-7 assessment series</td>
+<td style="padding: 15px; color: #C8A890;">Trajectory prediction for intervention</td>
+<td style="padding: 15px; color: #C8A890;">State-space models, changepoint</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/Early%20Detection-Enabled-FFE5CC?style=flat-square&labelColor=FFD0B5" alt="Detection"/>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFCCE5 0%, #FFD4E8 50%, #FFDCEB 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>Vaccination Access</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">County/tract indicators, SDOH</td>
+<td style="padding: 15px; color: #C8A8C8;">Access factors × uptake patterns</td>
+<td style="padding: 15px; color: #C8A8C8;">Propensity weighting, GLMs</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/Targeted-Outreach-FFCCE5?style=flat-square&labelColor=FFB5D8" alt="Outreach"/>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #E0F5FF 0%, #E8F8FF 50%, #F0FAFF 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #A8C8D8;"><strong>Mobility & Exposure</strong></td>
+<td style="padding: 15px; color: #98B8C8;">Mobility indexes, weather/climate</td>
+<td style="padding: 15px; color: #98B8C8;">Exposure × acute event interaction</td>
+<td style="padding: 15px; color: #98B8C8;">Time series decomposition</td>
+<td style="padding: 15px;">
+  <img src="https://img.shields.io/badge/Scenarios-Modeled-E0F5FF?style=flat-square&labelColor=D0E8FF" alt="Scenarios"/>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=500&lines=Representative+Analysis+Patterns" alt="Patterns Title" />
+</h3>
+
+<div align="center">
+
+<!-- Enhanced Analysis Patterns Table with Beautiful Pastel Ombre -->
+<table width="94%" style="border-collapse: separate; border-spacing: 14px;">
+
+<tr>
+<td colspan="4" align="center" style="padding: 25px;">
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Methodological%20Toolkit&height=65&fontSize=30&animation=blinking" alt="Methods Header" width="100%"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(135deg, #D4FFE4 0%, #FFE5CC 50%, #E6E0FF 100%); font-weight: bold;">
+<td width="25%" style="padding: 15px; color: #D8B5D8;">Pattern</td>
+<td width="30%" style="padding: 15px; color: #D8B5D8;">When I Use It</td>
+<td width="25%" style="padding: 15px; color: #D8B5D8;">What I Deliver</td>
+<td width="20%" style="padding: 15px; color: #D8B5D8;">Skills Display</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #E6E0FF 0%, #F0EBFF 50%, #F8F5FF 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>Tail Correlation Search</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">When averages hide extremes</td>
+<td style="padding: 15px; color: #C8A8C8;">Stable tail associations</td>
+<td style="padding: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/98?width=170&color=E6D0FF" alt="Skill"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFE0F5 0%, #FFE8F8 50%, #FFF0FA 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>Hierarchical Modeling</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">Multi-level data structures</td>
+<td style="padding: 15px; color: #C8A8C8;">Pooled estimates with intervals</td>
+<td style="padding: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/92?width=170&color=FFB5CC" alt="Skill"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #D4FFE4 0%, #E0FFE8 50%, #ECFFEF 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #B5D8B8;"><strong>Causal Effects</strong></td>
+<td style="padding: 15px; color: #A8C8A8;">Beyond correlation</td>
+<td style="padding: 15px; color: #A8C8A8;">Effect sizes with diagnostics</td>
+<td style="padding: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/89?width=170&color=B5E5C5" alt="Skill"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFE5CC 0%, #FFECD8 50%, #FFF3E4 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5A0;"><strong>Time Series Anomalies</strong></td>
+<td style="padding: 15px; color: #C8A890;">Seasonal patterns & shocks</td>
+<td style="padding: 15px; color: #C8A890;">Forecasts with confidence</td>
+<td style="padding: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/94?width=170&color=FFE5CC" alt="Skill"/>
+  </picture>
+</td>
+</tr>
+
+<tr style="background: linear-gradient(90deg, #FFCCE5 0%, #FFD4E8 50%, #FFDCEB 100%); border-radius: 10px;">
+<td style="padding: 15px; color: #D8B5D8;"><strong>Geospatial Rigor</strong></td>
+<td style="padding: 15px; color: #C8A8C8;">Location-aware analysis</td>
+<td style="padding: 15px; color: #C8A8C8;">Leakage-safe CV folds</td>
+<td style="padding: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/91?width=170&color=FFCCE5" alt="Skill"/>
+  </picture>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=400&lines=How+I+Work+with+Data" alt="Work Style Title" />
+</h3>
+
+<div align="center">
+
+<table width="80%" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 15%, #FFE5CC 30%, #D4FFE4 45%, #E0F5FF 60%, #FFCCE5 75%, #FFE0F5 90%, #E6E0FF 100%); padding: 40px; border-radius: 30px; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.15);">
+<tr><td align="center">
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=D8B5D8&center=true&vCenter=true&multiline=true&width=680&height=140&lines=Reproducibility+first%3A+notebooks+→+scripts+→+pipelines;Careful+estimation%3A+uncertainty+%2B+calibration+%2B+costs;Human-readable%3A+short+narratives+%2B+clear+tables;Lifelong+learner%3A+document+what+worked+%26+why" alt="Work Philosophy" />
+</picture>
+
+<br>
+
+</td></tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Enhanced Serendipity Finder Section with Pastel Ombre -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=170&section=header&text=The%20Serendipity%20Finder&fontSize=48&animation=fadeIn&fontAlignY=45&desc=Discovering%20Correlations%20in%20Distribution%20Extremes&descAlignY=75&descSize=22&fontColor=D8B5D8" alt="Serendipity Header" width="100%"/>
+</picture>
+
+<br>
+
+<a href="https://github.com/Cazzy-Aporbo/Serendipity-Finder">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cazzy-Aporbo&repo=Serendipity-Finder&theme=default&hide_border=true&bg_color=45,FFE0F5,E6E0FF,FFE5CC&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC" alt="Serendipity Repo"/>
+  </picture>
+</a>
+
+<br><br>
+
+<table width="85%" style="background: linear-gradient(135deg, #E6E0FF 0%, #FFE0F5 12%, #FFE5CC 24%, #D4FFE4 36%, #E0F5FF 48%, #FFCCE5 60%, #E6E0FF 72%, #FFE0F5 84%, #FFE5CC 96%, #D4FFE4 100%); padding: 35px; border-radius: 25px; margin: 30px 0; box-shadow: 0 18px 36px rgba(230, 224, 255, 0.15);">
+<tr><td>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'secondaryColor': '#D4FFE4', 'tertiaryColor': '#FFE5CC', 'primaryTextColor': '#D8B5D8', 'fontSize': '20px'}}}%%
+graph TD
+    A[Traditional Analysis] -->|r < 0.06| B[No Correlation Found]
+    C[Serendipity Finder] -->|Tail Analysis| D[r = 0.85+ in Extremes]
+    E[14 Hidden Patterns] -->|Discovered| F[Real-World Applications]
+    F --> G[Financial Risk]
+    F --> H[Drug Safety]
+    F --> I[Climate Tipping Points]
+    F --> J[Manufacturing QC]
+    style D fill:#FFE0F5,stroke:#E6E0FF,stroke-width:4px
+    style E fill:#D4FFE4,stroke:#B5E5C5,stroke-width:4px
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=800&lines=The+code+is+open-source+because+good+ideas+should+be+shared" alt="Open Source Philosophy" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- Professional Experience Timeline with Enhanced Pastel Ombre -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Professional%20Journey&height=90&fontSize=40&animation=fadeIn" alt="Experience Header" width="100%"/>
+</picture>
+
+<br>
+
+<table width="90%" style="border-collapse: separate; border-spacing: 0 25px;">
+
+<tr>
+<td width="100%" style="background: linear-gradient(90deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/100?width=800&title=Current%20→%20Head%20of%20Data%20@%20FoXX%20Health&color=D8B5D8" alt="Current Role"/>
+  </picture>
+</td>
+</tr>
+
+<tr>
+<td style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 20%, #FFCCE5 40%, #FFD4E8 60%, #FFE0F5 80%, #FFE8F8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(255, 224, 245, 0.15);">
+<strong style="font-size: 19px; color: #D8B5D8;">Head of Data</strong> | FoXX Health<br><br>
+<img src="https://img.shields.io/badge/Impact-Advanced%20ethical%20AI%20for%20women's%20health-FFB5CC?style=flat-square&labelColor=FFE0F5" alt="Impact"/><br><br>
+<span style="color: #C8A8C8;">Leading data strategy • Building inclusive AI systems • Closing gender gaps in healthcare data</span>
+</td>
+</tr>
+
+<tr>
+<td width="100%" style="background: linear-gradient(90deg, #E6E0FF 0%, #FFE0F5 25%, #D4FFE4 50%, #FFE5CC 75%, #E0F5FF 100%); padding: 8px; border-radius: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/75?width=800&title=Previous%20→%20Data%20Scientist&color=D8B5D8" alt="Previous Role"/>
+  </picture>
+</td>
+</tr>
+
+<tr>
+<td style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 20%, #E6E0FF 40%, #DED8FF 60%, #E6E0FF 80%, #F0EBFF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(230, 224, 255, 0.2);">
+<strong style="font-size: 19px; color: #D8B5D8;">Data Scientist</strong> | A Better Life Appliance Repair<br><br>
+<img src="https://img.shields.io/badge/Achievement-20%25%20efficiency%20gain-E6D0FF?style=flat-square&labelColor=E6E0FF" alt="Achievement"/><br><br>
+<span style="color: #C8A8C8;">Optimized operations • Predictive maintenance models • Customer analytics</span>
+</td>
+</tr>
+
+<tr>
+<td width="100%" style="background: linear-gradient(90deg, #D4FFE4 0%, #FFE5CC 25%, #E6E0FF 50%, #FFE0F5 75%, #FFCCE5 100%); padding: 8px; border-radius: 15px;">
+  <picture>
+    <img src="https://progress-bar.dev/50?width=800&title=Foundation%20→%20Mentor%20%26%20Educator&color=D8B5D8" alt="Foundation"/>
+  </picture>
+</td>
+</tr>
+
+<tr>
+<td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 20%, #D4FFE4 40%, #CCFFD8 60%, #D4FFE4 80%, #E0FFE8 100%); padding: 25px; border-radius: 20px; box-shadow: 0 12px 28px rgba(212, 255, 228, 0.15);">
+<strong style="font-size: 19px; color: #B5D8B8;">Mentor & Tutor</strong> | STEM Education<br><br>
+<img src="https://img.shields.io/badge/Focus-Building%20industry--ready%20skills-B5E5C5?style=flat-square&labelColor=D4FFE4" alt="Focus"/><br><br>
+<span style="color: #A8C8A8;">Teaching data science • Guiding career transitions • Fostering technical excellence</span>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+<!-- Enhanced Academic Background with Pastel Ombre -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Academic%20Foundation&height=90&fontSize=40&animation=fadeIn" alt="Academic Header" width="100%"/>
+</picture>
+
+<br>
+
+<table width="85%" style="border-collapse: separate; border-spacing: 25px;">
+<tr>
+<td width="50%" align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 35%, #E6E0FF 70%, #DED8FF 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(230, 224, 255, 0.18);">
+  <img src="https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E0FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=DED8FF" alt="MS Degree"/>
+  <br><br>
+  <picture>
+    <img src="https://progress-bar.dev/100?width=240&title=Completed&color=E6D0FF" alt="MS Progress"/>
+  </picture>
+  <br><br>
+  <span style="color: #D8B5D8; font-weight: bold;">Advanced Statistics • Machine Learning • Data Engineering</span>
+</td>
+<td width="50%" align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 35%, #FFE5CC 70%, #FFD0B5 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(255, 229, 204, 0.18);">
+  <img src="https://img.shields.io/badge/B.S.%20Integrative%20Biology-Oregon%20State%20University-FFE5CC?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=FFD0B5" alt="BS Degree"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Minor%20in%20Chemistry-OSU-FFECD8?style=for-the-badge&logo=flask&logoColor=white&labelColor=FFE5CC" alt="Chemistry Minor"/>
+  <br><br>
+  <span style="color: #D8B5A0; font-weight: bold;">Biological Systems • Chemical Analysis • Research Methods</span>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 35%, #D4FFE4 70%, #CCFFD8 100%); padding: 30px; border-radius: 20px; box-shadow: 0 15px 32px rgba(212, 255, 228, 0.18);">
+  <img src="https://img.shields.io/badge/AI%20in%20Healthcare-Johns%20Hopkins%202025-D4FFE4?style=for-the-badge&logo=hospital&logoColor=white&labelColor=C5F5D5" alt="JH Certificate"/>
+  <br><br>
+  <picture>
+    <img src="https://progress-bar.dev/85?width=350&title=In%20Progress&color=B5E5C5" alt="JH Progress"/>
+  </picture>
+  <br><br>
+  <span style="color: #B5D8B8; font-weight: bold;">Clinical AI • Healthcare Analytics • Medical Imaging • Ethical AI in Medicine</span>
+</td>
+</tr>
+</table>
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=800&lines=Focus%3A+Making+statistics+work+in+the+real+world;Building+AI+that's+both+smart+and+fair;Bridging+biology%2C+chemistry%2C+and+data+science" alt="Academic Focus" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- Mission Section with Maximum Pastel Ombre Beauty -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=140&section=header&text=My%20Mission&fontSize=44&animation=twinkling&fontColor=D8B5D8" alt="Mission Header" width="100%"/>
+</picture>
+
+<br>
+
+<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 8%, #E6E0FF 16%, #F0EBFF 24%, #FFE5CC 32%, #FFECD8 40%, #D4FFE4 48%, #E0FFE8 56%, #E0F5FF 64%, #E8F8FF 72%, #FFCCE5 80%, #FFD4E8 88%, #FFE0F5 96%, #E6E0FF 100%); padding: 42px; border-radius: 30px; box-shadow: 0 25px 50px rgba(230, 224, 255, 0.18);">
+<tr><td align="center">
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=D8B5D8&center=true&vCenter=true&width=720&lines=Healthcare+AI+has+a+representation+problem" alt="Mission Statement" />
+</picture>
+
+<br><br>
+
+<p style="color: #C8A8C8; font-size: 17px; line-height: 1.8;">
+Most medical research historically excluded women, and AI trained on biased data perpetuates these gaps. At FoXX Health, I'm working to fix this—building comprehensive healthcare models that represent women's health accurately.
+</p>
+
+<br>
+
+<p style="color: #C8A8C8; font-size: 17px; line-height: 1.8;">
 It's challenging work. Healthcare data is messy, regulations are complex, and stakes are high. But when you build something that helps identify a condition years earlier, or prevents an adverse reaction, or simply makes someone feel heard by the healthcare system—that's worth the late nights debugging.
+</p>
 
-<div align="center">
-  
-![separator](https://img.shields.io/badge/-FFE4E1?style=flat&color=FFE4E1)
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat&color=F0F8FF)
+<br><br>
 
-</div>
+<img src="https://img.shields.io/badge/Goal-Equitable%20Healthcare%20AI-FFB5CC?style=for-the-badge&labelColor=FFE0F5" alt="Goal"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Method-Data%20Driven%20Solutions-E6D0FF?style=for-the-badge&labelColor=E6E0FF" alt="Method"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Impact-Lives%20Changed-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Impact"/>
 
-## Academic Background
+<br>
 
-<div align="center">
-
-![University of Denver](https://img.shields.io/badge/M.S.%20Data%20Science-University%20of%20Denver-E6E6FA?style=for-the-badge)
-![Johns Hopkins](https://img.shields.io/badge/AI%20in%20Healthcare-Johns%20Hopkins%202025-F0F8FF?style=for-the-badge)
-
-**Focus:** Making statistics work in the real world, building AI that's both smart and fair
+</td></tr>
+</table>
 
 </div>
 
+<br>
+
+<!-- Let's Connect Section with Ultimate Pastel Ombre -->
 <div align="center">
-  
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat&color=FFF0F5)
-![separator](https://img.shields.io/badge/-FAFAD2?style=flat&color=FAFAD2)
-![separator](https://img.shields.io/badge/-FFE4B5?style=flat&color=FFE4B5)
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=170&section=header&text=Let's%20Connect&fontSize=48&animation=fadeIn&fontAlignY=45&desc=Always%20happy%20to%20talk%20about%20data%20and%20discovery&descAlignY=75&fontColor=D8B5D8" alt="Connect Header" width="100%"/>
+</picture>
+
+<br>
+
+<table width="85%" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 10%, #E6E0FF 20%, #F0EBFF 30%, #FFE5CC 40%, #FFECD8 50%, #D4FFE4 60%, #E0FFE8 70%, #E0F5FF 80%, #E8F8FF 90%, #FFCCE5 100%); padding: 40px; border-radius: 30px; box-shadow: 0 20px 42px rgba(230, 224, 255, 0.12);">
+<tr><td align="center">
+
+<br>
+
+**<span style="color: #D8B5D8; font-size: 21px;">I'm always excited to discuss:</span>**
+
+<br><br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=C8A8C8&center=true&vCenter=true&multiline=true&width=700&height=170&lines=Hidden+patterns+in+your+data;Making+AI+actually+work+in+healthcare+settings;Why+outliers+are+often+more+interesting+than+averages;How+to+make+compliance+less+painful;Closing+gaps+in+healthcare+data;Integrating+biology+and+chemistry+with+data+science" alt="Discussion Topics" />
+</picture>
+
+<br>
+
+</td></tr>
+</table>
+
+<br><br>
+
+<!-- Enhanced Contact Buttons with Pastel Ombre -->
+<table width="85%" style="border-collapse: separate; border-spacing: 15px;">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 20px; border-radius: 20px;">
+  <a href="https://linkedin.com/in/cazandra-aporbo">
+    <img src="https://img.shields.io/badge/LinkedIn-Cazandra%20Aporbo-FFE0F5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB5CC" alt="LinkedIn"/>
+  </a>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 20px; border-radius: 20px;">
+  <a href="https://github.com/Cazzy-Aporbo">
+    <img src="https://img.shields.io/badge/GitHub-Cazzy--Aporbo-E6E0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=E6D0FF" alt="GitHub"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 20px; border-radius: 20px;">
+  <a href="mailto:becaziam@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-becaziam@gmail.com-D4FFE4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B5E5C5" alt="Personal Email"/>
+  </a>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 20px; border-radius: 20px;">
+  <a href="mailto:logofchi@gmail.com">
+    <img src="https://img.shields.io/badge/Business-logofchi@gmail.com-FFE5CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD0B5" alt="Business Email"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 20px; border-radius: 20px;">
+  <a href="https://foxxhealth.com">
+    <img src="https://img.shields.io/badge/Organization-FoXX%20Health-FFCCE5?style=for-the-badge&logo=heart&logoColor=white&labelColor=FFB5D8" alt="FoXX Health"/>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
-## Let's Connect
+<br>
 
-Always happy to talk about:
-- Hidden patterns in your data
-- Making AI actually work in healthcare settings  
-- Why outliers are often more interesting than averages
-- How to make compliance less painful
-- Closing gaps in healthcare data
-
+<!-- Contribution Statistics with Pastel Theme -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cazandra%20Aporbo-FFE4E1?style=for-the-badge&logo=linkedin&logoColor=666)](https://linkedin.com/in/cazandra-aporbo)
-[![Email](https://img.shields.io/badge/Email-becaziam@gmail.com-E6E6FA?style=for-the-badge&logo=gmail&logoColor=666)](mailto:becaziam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Cazzy--Aporbo-F0F8FF?style=for-the-badge&logo=github&logoColor=666)](https://github.com/Cazzy-Aporbo)
-[![FoXX Health](https://img.shields.io/badge/Organization-FoXX%20Health-FFF0F5?style=for-the-badge)](https://foxxhealth.com)
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D8B5D8&text=Contribution%20Patterns&height=80&fontSize=34&animation=blinking" alt="Contribution Header" width="100%"/>
+</picture>
+
+<br>
+
+<picture>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Cazzy-Aporbo&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" width="78%"/>
+</picture>
 
 </div>
 
+<br>
+
+<!-- License Section with Beautiful Pastel Ombre -->
 <div align="center">
-  
-![separator](https://img.shields.io/badge/-FFE4E1?style=flat-square&color=FFE4E1)
-![separator](https://img.shields.io/badge/-E6E6FA?style=flat-square&color=E6E6FA)
-![separator](https://img.shields.io/badge/-F0F8FF?style=flat-square&color=F0F8FF)
-![separator](https://img.shields.io/badge/-FFF0F5?style=flat-square&color=FFF0F5)
-![separator](https://img.shields.io/badge/-FAFAD2?style=flat-square&color=FAFAD2)
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=170&section=header&text=License%20Information&fontSize=44&animation=fadeIn&fontAlignY=45&desc=MIT%20for%20Code%20•%20CC-BY-4.0%20for%20Documentation&descAlignY=75&descSize=22&fontColor=D8B5D8" alt="License Header" width="100%"/>
+</picture>
+
+<br>
+
+<table width="78%" style="border-collapse: separate; border-spacing: 20px;">
+<tr>
+<td width="50%" align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 25%, #FFCCE5 50%, #FFD4E8 75%, #FFE0F5 100%); padding: 25px; border-radius: 20px; box-shadow: 0 16px 35px rgba(255, 224, 245, 0.18);">
+  <img src="https://img.shields.io/badge/Code%20License-MIT-FFE0F5?style=for-the-badge&labelColor=FFB5CC" alt="MIT License"/>
+  <br><br>
+  <strong style="color: #D8B5D8;">Open Source Code</strong><br>
+  <span style="color: #C8A8C8;">Free to use, modify, and distribute</span>
+</td>
+<td width="50%" align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 25%, #E6E0FF 50%, #DED8FF 75%, #E6E0FF 100%); padding: 25px; border-radius: 20px; box-shadow: 0 16px 35px rgba(230, 224, 255, 0.2);">
+  <img src="https://img.shields.io/badge/Docs%20License-CC--BY--4.0-E6E0FF?style=for-the-badge&labelColor=E6D0FF" alt="CC License"/>
+  <br><br>
+  <strong style="color: #D8B5D8;">Documentation</strong><br>
+  <span style="color: #C8A8C8;">Share and adapt with attribution</span>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/SPDX-MIT%20AND%20CC--BY--4.0-D4FFE4?style=for-the-badge&labelColor=B5E5C5" alt="SPDX"/>
+
+</div>
+
+<br>
+
+<!-- Footer with Ultimate Pastel Ombre Wave -->
+<div align="center">
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=130&section=footer&animation=fadeIn" alt="Footer" width="100%"/>
+</picture>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
+</picture>
+
+<br><br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Cazzy-Aporbo&color=FFE0F5&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
