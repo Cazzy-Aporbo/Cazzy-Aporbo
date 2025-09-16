@@ -1235,6 +1235,12 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
   <p style="color: #C8A8C8; font-size: 14px; font-style: italic; margin: 5px 0;">
     unique, no inverse
   </p>
+  <p style="color: #B5D8B8; font-size: 16px; font-family: 'Fira Code', monospace; margin: 10px 0;">
+    x | Skew(x) → ∞ ⇒ x = Me
+  </p>
+  <p style="color: #A8C8D8; font-size: 16px; font-family: 'Fira Code', monospace; margin: 10px 0;">
+    z = (x – μ)/σ → ∞ ⇒ x = Me
+  </p>
 </div>
 
 <br>
