@@ -95,7 +95,7 @@
 
 <b style="color: #D8B5D8; font-size: 19px;">Cazandra Aporbo, MS</b>
 <br>
-<i style="background: linear-gradient(90deg, #FFB5CC, #E6D0FF, #B5E5C5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 15px; font-weight: 600;">Unique, with no inverse function</i>
+<i style="background: linear-gradient(90deg, #FFB5CC, #E6D0FF, #B5E5C5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 15px; font-weight: 600;">f⁻¹(Me) = ∅ (unique, no inverse)</i>
 
 <br>
 
@@ -1323,7 +1323,7 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
   
 <br><br>
   
-<img src="https://img.shields.io/badge/z%20%3D%20(x%20-%20%CE%BC)%2F%CF%83%20%E2%86%92%20%E2%88%9E%20%E2%87%92%20x%20%3D%20Me-Infinite%20Standard%20Deviations-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Identity"/>
+<img src="https://img.shields.io/badge/z%20%E2%86%92%20%E2%88%9E-Infinite%20SDs%20from%20Mean-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Identity"/>
   
   <br><br>
   
