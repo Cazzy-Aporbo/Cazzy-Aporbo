@@ -588,13 +588,13 @@ graph TD
 <table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Python-Expert-FFE0F5?style=for-the-badge&logo=python&logoColor=D8B5D8&labelColor=E6E0FF" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-FFE0F5?style=for-the-badge&logo=python&logoColor=D8B5D8&labelColor=E6E0FF" alt="Python"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/R-Expert-E6E0FF?style=for-the-badge&logo=r&logoColor=D8B5D8&labelColor=FFE0F5" alt="R"/>
+  <img src="https://img.shields.io/badge/R-Advanced-E6E0FF?style=for-the-badge&logo=r&logoColor=D8B5D8&labelColor=FFE0F5" alt="R"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/SQL-Expert-FFE5CC?style=for-the-badge&logo=postgresql&logoColor=D8B5A0&labelColor=FFD0B5" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-FFE5CC?style=for-the-badge&logo=postgresql&logoColor=D8B5A0&labelColor=FFD0B5" alt="SQL"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-D4FFE4?style=for-the-badge&logo=javascript&logoColor=B5D8B8&labelColor=C5F5D5" alt="JavaScript"/>
@@ -611,13 +611,13 @@ graph TD
 <table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/TensorFlow-Expert-FFCCE5?style=for-the-badge&logo=tensorflow&logoColor=D8B5D8&labelColor=FFB5D8" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Advanced-FFCCE5?style=for-the-badge&logo=tensorflow&logoColor=D8B5D8&labelColor=FFB5D8" alt="TensorFlow"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/PyTorch-Expert-E6E0FF?style=for-the-badge&logo=pytorch&logoColor=D8B5D8&labelColor=DED8FF" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-E6E0FF?style=for-the-badge&logo=pytorch&logoColor=D8B5D8&labelColor=DED8FF" alt="PyTorch"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Scikit--learn-Expert-FFE0F5?style=for-the-badge&logo=scikit-learn&logoColor=D8B5D8&labelColor=FFCCE5" alt="Scikit"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-Advanced-FFE0F5?style=for-the-badge&logo=scikit-learn&logoColor=D8B5D8&labelColor=FFCCE5" alt="Scikit"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/LangChain-Advanced-D4FFE4?style=for-the-badge&logo=chainlink&logoColor=B5D8B8&labelColor=C5F5D5" alt="LangChain"/>
@@ -625,13 +625,13 @@ graph TD
 </tr>
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/NumPy-Expert-FFE5CC?style=for-the-badge&logo=numpy&logoColor=D8B5A0&labelColor=FFD0B5" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/NumPy-Advanced-FFE5CC?style=for-the-badge&logo=numpy&logoColor=D8B5A0&labelColor=FFD0B5" alt="NumPy"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Pandas-Expert-E0F5FF?style=for-the-badge&logo=pandas&logoColor=A8C8D8&labelColor=D0E8FF" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Pandas-Advanced-E0F5FF?style=for-the-badge&logo=pandas&logoColor=A8C8D8&labelColor=D0E8FF" alt="Pandas"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Keras-Expert-FFCCE5?style=for-the-badge&logo=keras&logoColor=D8B5D8&labelColor=FFB5D8" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Keras-Intermediate-FFCCE5?style=for-the-badge&logo=keras&logoColor=D8B5D8&labelColor=FFB5D8" alt="Keras"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/XGBoost-Advanced-E6E0FF?style=for-the-badge&logo=xgboost&logoColor=D8B5D8&labelColor=DED8FF" alt="XGBoost"/>
@@ -648,13 +648,13 @@ graph TD
 <table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/GCP-Expert-D4FFE4?style=for-the-badge&logo=google-cloud&logoColor=B5D8B8&labelColor=C5F5D5" alt="GCP"/>
+  <img src="https://img.shields.io/badge/GCP-Intermediate-D4FFE4?style=for-the-badge&logo=google-cloud&logoColor=B5D8B8&labelColor=C5F5D5" alt="GCP"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/AWS-Advanced-FFE0F5?style=for-the-badge&logo=amazon-aws&logoColor=D8B5D8&labelColor=FFCCE5" alt="AWS"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Docker-Expert-E6E0FF?style=for-the-badge&logo=docker&logoColor=D8B5D8&labelColor=DED8FF" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker-Intermediate-E6E0FF?style=for-the-badge&logo=docker&logoColor=D8B5D8&labelColor=DED8FF" alt="Docker"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE5CC 0%, #FFECD8 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Kubernetes-Advanced-FFE5CC?style=for-the-badge&logo=kubernetes&logoColor=D8B5A0&labelColor=FFD0B5" alt="Kubernetes"/>
@@ -662,10 +662,10 @@ graph TD
 </tr>
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/BigQuery-Expert-FFCCE5?style=for-the-badge&logo=google-cloud&logoColor=D8B5D8&labelColor=FFB5D8" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/BigQuery-Intermediate-FFCCE5?style=for-the-badge&logo=google-cloud&logoColor=D8B5D8&labelColor=FFB5D8" alt="BigQuery"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #E0FFE8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Airflow-Expert-D4FFE4?style=for-the-badge&logo=apache-airflow&logoColor=B5D8B8&labelColor=C5F5D5" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Airflow-Intermediate-D4FFE4?style=for-the-badge&logo=apache-airflow&logoColor=B5D8B8&labelColor=C5F5D5" alt="Airflow"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Vertex%20AI-Advanced-E0F5FF?style=for-the-badge&logo=google-cloud&logoColor=A8C8D8&labelColor=D0E8FF" alt="Vertex"/>
@@ -685,10 +685,10 @@ graph TD
 <table width="100%" align="center" style="border-collapse: separate; border-spacing: 10px;">
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #E0F5FF 0%, #E8F8FF 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/D3.js-Expert-E0F5FF?style=for-the-badge&logo=d3-dot-js&logoColor=A8C8D8&labelColor=D0E8FF" alt="D3"/>
+  <img src="https://img.shields.io/badge/D3.js-Intermediate-E0F5FF?style=for-the-badge&logo=d3-dot-js&logoColor=A8C8D8&labelColor=D0E8FF" alt="D3"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #FFE8F8 100%); padding: 15px; border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Plotly-Expert-FFE0F5?style=for-the-badge&logo=plotly&logoColor=D8B5D8&labelColor=FFCCE5" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Plotly-Advanced-FFE0F5?style=for-the-badge&logo=plotly&logoColor=D8B5D8&labelColor=FFCCE5" alt="Plotly"/>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 15px; border-radius: 15px;">
   <img src="https://img.shields.io/badge/Streamlit-Advanced-E6E0FF?style=for-the-badge&logo=streamlit&logoColor=D8B5D8&labelColor=DED8FF" alt="Streamlit"/>
