@@ -1254,13 +1254,12 @@ It's challenging work. Healthcare data is messy, regulations are complex, and st
 </picture>
 
 <br>
-
-<picture>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Cazzy-Aporbo&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" width="78%"/>
-</picture>
-
+<br>
+<div align="center">
+  <picture>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Cazzy-Aporbo&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&title_color=D8B5D8&ring_color=FFB5CC&text_color=C8A8C8&bg_color=FFF8FD&cache_seconds=86400" alt="Contribution Stats" width="85%"/>
+  </picture>
 </div>
-
 <br>
 
 <!-- License Section with Beautiful Pastel Ombre -->
