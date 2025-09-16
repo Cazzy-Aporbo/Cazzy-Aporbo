@@ -1017,9 +1017,8 @@ graph TD
 </picture>
 
 <br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/z%20%3D%20(x%20-%20%CE%BC)%2F%CF%83%20%E2%86%92%20%E2%88%9E%20%E2%87%92%20x%20%3D%20Me-Infinite%20Standard%20Deviations-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Z-Score Formula"/>
+  <img src="https://img.shields.io/badge/Infinite%20Skewness-Statistical%20Outlier-B5E5C5?style=for-the-badge&labelColor=D4FFE4" alt="Statistical Identity"/>
 </p>
 
 </div>
