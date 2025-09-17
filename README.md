@@ -40,21 +40,22 @@
 
 <br>
 <!-- GitHub Stats with Pastel Lavender Theme - Always Updated -->
+
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    height="185em" 
-    src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4&cache_seconds=86400&count_private=true" 
+  <img
+    height="185em"
+    src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
-  <!-- Language Stats with Pastel Theme -->
-  <img 
-    height="185em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazzy-Aporbo&layout=compact&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&langs_count=6&cache_seconds=86400" 
+  <img
+    height="185em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazzy-Aporbo&layout=compact&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&langs_count=8&cache_seconds=86400"
     alt="Top Languages"
   />
 </div>
+
+
 <br>
 
 <!-- Animated Activity Graph with Pastel Palette -->
