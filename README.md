@@ -44,7 +44,7 @@
 <div align="center">
   <img
     height="185em"
-    src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4&include_all_commits=true&count_private=true&cache_seconds=3600"
+    src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4&include_all_commits=true&count_private=true&cache_seconds=43200"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
