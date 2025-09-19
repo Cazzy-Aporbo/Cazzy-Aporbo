@@ -504,7 +504,7 @@ graph LR
 ```
 
 <p align="center" style="font-size: 15px; color: #7C3AED; line-height: 1.6;">
-Think of it like this: Ice cream sales and shark attacks have no correlation overall. But on the hottest days? Different story. This algorithm finds those stories hidden in the extremes. Currently being evaluated for drug interaction detection and financial risk assessment.
+The most interesting discoveries happen not in the average, but in the extremes. That's where scientific breakthroughs occur. So Naturally, I started there. This algorithm finds the stories hidden in the extremes. I was curious to see if we can find serendipity...so I built this.
 </p>
 
 </td></tr>
@@ -524,7 +524,7 @@ Think of it like this: Ice cream sales and shark attacks have no correlation ove
 <img src="https://img.shields.io/badge/Examples-150+-FFCCE5?style=flat-square&labelColor=FFE0F5" alt="Examples"/>
 
 <p style="font-size: 14px; color: #0891B2; line-height: 1.5;">
-Bridging the gap between "Hello World" and production code. Every pattern benchmarked, every function tested, every edge case documented. Because learning Python shouldn't feel like jumping off a cliff.
+Bridging the gap between "Hello World" and production code. Every pattern benchmarked, every function tested, every edge case documented. You can find a game to build read me files like mine, here.
 </p>
 
 </td>
