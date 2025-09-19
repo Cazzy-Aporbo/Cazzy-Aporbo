@@ -75,7 +75,8 @@ Approach: Effectiveness + Attractiveness + Impact = Excellence
 
 <br>
 
-<!-- START: paste outside any ``` fences --> <table align="center" width="90%"> <tr> <td style="padding:28px; border:3px solid transparent; border-radius:25px; background: linear-gradient(#FFFFFF,#FFFFFF) padding-box, linear-gradient(45deg,#FFF9FD,#F8F7FF,#F6FFFB,#F7FAFF,#FFF9F2) border-box;"> <!-- subtle top pastel bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,18,24&height=6&animation=twinkling" alt="Pastel Bar"/> </picture> <!-- cute mismatched pastel badges --> <p align="center" style="margin:10px 0 14px;"> <img src="https://img.shields.io/badge/LAB%E2%86%92ML-%F0%9F%8C%B1-EAF2FF?style=for-the-badge&labelColor=FDF2F8" alt="LAB→ML"/> &nbsp; <img src="https://img.shields.io/badge/HEALTHCARE%20EQUITY-%F0%9F%8D%80-ECFEFF?style=for-the-badge&labelColor=EDE9FE" alt="Healthcare Equity"/> &nbsp; <img src="https://img.shields.io/badge/BIAS%20BUSTER-%F0%9F%92%AA-FEF3C7?style=for-the-badge&labelColor=E0E7FF" alt="Bias Buster"/> &nbsp; <img src="https://img.shields.io/badge/FAIRNESS%20FIRST-%F0%9F%92%96-FCE7F3?style=for-the-badge&labelColor=D1FAE5" alt="Fairness First"/> &nbsp; <img src="https://img.shields.io/badge/DEGREE%20COLLECTOR-%F0%9F%8E%93-EDE9FE?style=for-the-badge&labelColor=FEE2E2" alt="Degree Collector"/> </p> <!-- animated, readable section labels + static paragraphs --> <p style="margin:12px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=8B5CF6&center=false&vCenter=true&repeat=true&width=460&lines=Lab+coat+%E2%86%92+Machine+Learning" alt="Lab→ML"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;"> I'm Cazzy. I started in a lab coat at Thermo Fisher, where I learned that good science means obsessing over validation and reproducibility. Turns out, those habits translate pretty well to machine learning. I learn fast and adapt faster. </p> <p style="margin:10px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=60A5FA&center=false&vCenter=true&repeat=true&width=520&lines=Fixing+the+gender+data+gap+in+AI" alt="Gender data gap"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;"> These days, I'm Head of Data at FoXX Health, where I work on a problem that shouldn't exist in 2025: most medical research historically excluded women, so our AI models learned to be biased too. We're working on fixing that. It's complex work—think fairness metrics, demographic parity, and calibration curves—but the outcome is simple: healthcare that works for everyone. </p> <p style="margin:10px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=10B981&center=false&vCenter=true&repeat=true&width=520&lines=Perpetual+learner:+DU+%E2%80%A2+OSU+%E2%80%A2+JHU" alt="Perpetual learner"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0;"> My educational path: MS in Data Science from University of Denver, BS in Integrative Biology with a chemistry minor from Oregon State, and currently pursuing an AI in Healthcare certificate from Johns Hopkins. I think learning is a lifelong journey. </p> <!-- subtle bottom pastel bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18,12,6,0&height=6&animation=twinkling" alt="Pastel Bar"/> </picture> </td> </tr> </table> <!-- END: paste outside any ``` fences -->
+<table align="center" width="90%"> <tr> <td style="padding:28px; border:3px solid transparent; border-radius:25px; background: linear-gradient(#FFFFFF,#FFFFFF) padding-box, linear-gradient(45deg,#FFF9FD,#F8F7FF,#F6FFFB,#F7FAFF,#FFF9F2) border-box;"> <!-- subtle top pastel bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,18,24&height=6&animation=twinkling" alt="Pastel Bar"/> </picture> <!-- cute mismatched pastel badges --> <p align="center" style="margin:10px 0 14px;"> <img src="https://img.shields.io/badge/LAB%E2%86%92ML-%F0%9F%8C%B1-EAF2FF?style=for-the-badge&labelColor=FDF2F8" alt="LAB→ML"/> &nbsp; <img src="https://img.shields.io/badge/HEALTHCARE%20EQUITY-%F0%9F%8D%80-ECFEFF?style=for-the-badge&labelColor=EDE9FE" alt="Healthcare Equity"/> &nbsp; <img src="https://img.shields.io/badge/BIAS%20BUSTER-%F0%9F%92%AA-FEF3C7?style=for-the-badge&labelColor=E0E7FF" alt="Bias Buster"/> &nbsp; <img src="https://img.shields.io/badge/FAIRNESS%20FIRST-%F0%9F%92%96-FCE7F3?style=for-the-badge&labelColor=D1FAE5" alt="Fairness First"/> &nbsp; <img src="https://img.shields.io/badge/DEGREE%20COLLECTOR-%F0%9F%8E%93-EDE9FE?style=for-the-badge&labelColor=FEE2E2" alt="Degree Collector"/> </p> <!-- animated, readable section labels + static paragraphs --> <p style="margin:12px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=8B5CF6&center=false&vCenter=true&repeat=true&width=460&lines=Lab+coat+%E2%86%92+Machine+Learning" alt="Lab→ML"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;"> I started in a lab coat, where I learned that good science means obsessing over validation and reproducibility. Turns out, those habits translate pretty well to machine learning. Now, I only work with companies with a purpose and the guts to measure what matters. </p> <p style="margin:10px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=60A5FA&center=false&vCenter=true&repeat=true&width=520&lines=Fixing+the+gender+data+gap+in+AI" alt="Gender data gap"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;"> I’m not here to sell AI; I’m here to make it behave. In women’s health, “good enough” models still fail real people, so my work is bias audits, subgroup calibration, and ruthless validation...and then shipping tools people actually use. I like the weird edges of data: tails, drift, the places fairness breaks. I’m stubborn about ethics and practical about delivery. I’ll trade a headline metric for a safer model every time and, I’ll show you why with evidence, not vibes. Why me? I bridge research and production without hand-waving. I write the tests, instrument the monitors, and say “no” when the data can’t support the claim.Bring me the messy dataset you’ve been avoiding; I’ll tell you what the tails are saying, and we’ll make it useful together. </p> <p style="margin:10px 0 6px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=900&color=10B981&center=false&vCenter=true&repeat=true&width=520&lines=Perpetual+learner:+DU+%E2%80%A2+OSU+%E2%80%A2+JHU" alt="Perpetual learner"/> </p> <p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0;"> If you care less about hype and more about calibration curves, we’ll get along. I like turning messy data into useful, fair systems—models that explain themselves, pass their audits, and still look good in a dashboard. If you’re curious about outliers, tail behavior, and pushing code that doesn’t quietly exclude half the population, say hi. </p> <!-- subtle bottom pastel bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18,12,6,0&height=6&animation=twinkling" alt="Pastel Bar"/> </picture> </td> </tr> </table> 
+<
 
 <!-- Role Badges with Mismatched Colors -->
 <p align="center">
@@ -202,7 +203,7 @@ timeline
 </td>
 <td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #F0EBFF 100%); padding: 18px; border-radius: 18px;">
 <img src="https://img.shields.io/badge/2024-Leadership-FFCCE5?style=flat-square&labelColor=B5E5C5" alt="2024"/>
-<p style="color: #A78BFA; font-size: 14px;">Promoted quickly because<br>I actually document my code</p>
+<p style="color: #A78BFA; font-size: 14px;">Promoted<br>Data is my love language</p>
 </td>
 <td align="center" style="background: linear-gradient(135deg, #93C5FD 0%, #DBEAFE 100%); padding: 18px; border-radius: 18px;">
 <img src="https://img.shields.io/badge/2024-Healthcare%20AI-FFE0F5?style=flat-square&labelColor=D4FFE4" alt="2024"/>
@@ -210,7 +211,7 @@ timeline
 </td>
 <td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #FFD4E8 100%); padding: 18px; border-radius: 18px;">
 <img src="https://img.shields.io/badge/2025-Executive-E6E0FF?style=flat-square&labelColor=93C5FD" alt="2025"/>
-<p style="color: #EC4899; font-size: 14px;">Now leading the charge<br>for equitable healthcare AI</p>
+<p style="color: #EC4899; font-size: 14px;">Now designing<br>for equitable healthcare AI</p>
 </td>
 </tr>
 </table>
@@ -410,13 +411,13 @@ graph TB
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-Expert-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="TF"/>
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="TF"/>
 <img src="https://img.shields.io/badge/PyTorch-Advanced-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="PT"/>
-<img src="https://img.shields.io/badge/Scikit--learn-Expert-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="SKL"/>
-<img src="https://img.shields.io/badge/XGBoost-Expert-D4FFE4?style=for-the-badge&labelColor=93C5FD" alt="XGB"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Advanced-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="SKL"/>
+<img src="https://img.shields.io/badge/XGBoost-Intermediate-D4FFE4?style=for-the-badge&labelColor=93C5FD" alt="XGB"/>
 <br><br>
 <img src="https://img.shields.io/badge/Transformers-Advanced-FFCCE5?style=for-the-badge&labelColor=E6E0FF" alt="HF"/>
-<img src="https://img.shields.io/badge/spaCy-Expert-FFE0F5?style=for-the-badge&labelColor=B5E5C5" alt="spaCy"/>
+<img src="https://img.shields.io/badge/spaCy-Intermediate-FFE0F5?style=for-the-badge&labelColor=B5E5C5" alt="spaCy"/>
 <img src="https://img.shields.io/badge/SHAP-Advanced-E0F5FF?style=for-the-badge&labelColor=FFCCE5" alt="SHAP"/>
 <img src="https://img.shields.io/badge/MLflow-Advanced-D4FFE4?style=for-the-badge&labelColor=FFE0F5" alt="MLflow"/>
 </div>
@@ -442,14 +443,14 @@ CNN accuracy: 95% | NLP F1: 0.92 | Deployment success rate: 100% (so far)
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/AWS-Expert-E6E0FF?style=for-the-badge&labelColor=FFB5CC" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-Expert-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-Intermediate-E6E0FF?style=for-the-badge&labelColor=FFB5CC" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-Advanced-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="K8s"/>
-<img src="https://img.shields.io/badge/Airflow-Expert-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="Airflow"/>
+<img src="https://img.shields.io/badge/Airflow-Intermediate-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="Airflow"/>
 <br><br>
-<img src="https://img.shields.io/badge/PostgreSQL-Expert-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="PG"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Intermediate-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="PG"/>
 <img src="https://img.shields.io/badge/MongoDB-Advanced-FFE0F5?style=for-the-badge&labelColor=B5E5C5" alt="Mongo"/>
-<img src="https://img.shields.io/badge/Redis-Expert-E6E0FF?style=for-the-badge&labelColor=93C5FD" alt="Redis"/>
+<img src="https://img.shields.io/badge/Redis-Intermediate-E6E0FF?style=for-the-badge&labelColor=93C5FD" alt="Redis"/>
 <img src="https://img.shields.io/badge/Spark-Advanced-D4FFE4?style=for-the-badge&labelColor=FFE0F5" alt="Spark"/>
 </div>
 
