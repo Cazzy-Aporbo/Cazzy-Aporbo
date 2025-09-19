@@ -91,15 +91,6 @@ Approach: Effectiveness + Attractiveness + Impact = Excellence
 <br>
 
 <!-- MY APPROACH SECTION WITH DIAGRAM -->
-<!-- Option B: Blush Mist (warm, very light) -->
-<picture>
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFFFFF,FFF9FC,FFF3F9,FFEFF7,FFEAF5,FFE6F3,FFE3F2,FFE0F1&height=8&animation=fadeIn"
-    alt="Blush Mist Gradient Line"
-    width="100%"
-  />
-</picture>
-
 
 <div align="center">
 
@@ -107,14 +98,9 @@ Approach: Effectiveness + Attractiveness + Impact = Excellence
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,18,16,14,12,10,8,6,4,2,0&height=120&section=header&text=How%20I%20Think%20About%20Data&fontSize=42&animation=twinkling&fontAlignY=50&fontColor=FFE0F5" />
 </picture>
 
-<!-- Ultra-light pastel gradient line -->
-<picture>
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFF8FD,F5F3FF,EEF2FF,EFF6FF,ECFEFF,F0FDF4,FFFBEB,FFF1F2&height=6&animation=fadeIn"
-    alt="Soft Pastel Gradient Line"
-    width="100%"
-  />
-</picture>
+<p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;">
+  …
+</p>
 
 
 <br>
