@@ -31,7 +31,13 @@
   />
 </picture>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Curious%20Coder-FDF2F8?style=for-the-badge&labelColor=ECFEFF" alt="Curious Coder"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pastel%20but%20Powerful-EDE9FE?style=for-the-badge&labelColor=FDF2F8" alt="Pastel but Powerful"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethical%20by%20Design-ECFDF5?style=for-the-badge&labelColor=FFF7ED" alt="Ethical by Design"/>
+</div>
 
 </div>
 
@@ -314,8 +320,13 @@ I write code like I used to write lab reports: obsessively documented, thoroughl
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%20-Full%20Stack%20Data%20Science%20%7C%20Healthcare%20AI%20%7C%20Ethical%20Development-F472B6?style=for-the-badge&labelColor=60A5FA&color=gradient" alt="Skills Overview"/>
+  <img src="https://img.shields.io/badge/Full%E2%80%91Stack%20Data%20Science-FDF2F8?style=for-the-badge&labelColor=ECFEFF" alt="Full-Stack Data Science"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Healthcare%20AI-EDE9FE?style=for-the-badge&labelColor=FDF2F8" alt="Healthcare AI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ethical%20Development-ECFDF5?style=for-the-badge&labelColor=FFF7ED" alt="Ethical Development"/>
 </div>
+
 
 <br>
 
