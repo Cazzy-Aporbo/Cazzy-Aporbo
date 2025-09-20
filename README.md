@@ -341,7 +341,7 @@ Data Science [93%]
 Cloud & Infrastructure [88%]
 █████████████████░░░░ AWS, GCP, Kubernetes, Docker
 
-Healthcare AI Expertise [90%]
+Healthcare AI [90%]
 ██████████████████░░░ Clinical AI, FHIR, Ethics
 
 Python Mastery [98%]
@@ -442,7 +442,7 @@ subgraph "Technical Mastery · 95%"
   PY[Python Lover<br/>4+ years<br/>98%]
 end
 
-subgraph "Healthcare AI Expertise · 90%"
+subgraph "Healthcare AI · 90%"
   HC[Clinical AI<br/>EHR · FHIR<br/>90%]
   ET[Ethics & Bias<br/>Fairness Metrics<br/>92%]
   WH[Women's Health<br/>Specialized Models<br/>88%]
