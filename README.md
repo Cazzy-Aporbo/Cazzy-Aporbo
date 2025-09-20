@@ -330,7 +330,7 @@ Data Science [93%]
 Cloud & Infrastructure [88%]
 █████████████████░░░░ AWS, GCP, Kubernetes, Docker
 
-Healthcare Expertise [90%]
+Healthcare AI Expertise [90%]
 ██████████████████░░░ Clinical AI, FHIR, Ethics
 
 Python Mastery [98%]
@@ -342,33 +342,56 @@ Innovation Index [97%]
 
 <br>
 
-<!-- Skills Proficiency Chart -->
+<!-- START — Pastel + Amber Gantt (centered, GitHub-safe) -->
 <table align="center" width="88%">
-<tr><td style="background: linear-gradient(135deg, #FFCCE5 0%, #93C5FD 50%, #D4FFE4 100%); padding: 30px; border-radius: 25px;">
-
+<tr>
+<td style="
+  padding:30px;
+  border-radius:25px;
+  border:3px solid transparent;
+  background:
+    linear-gradient(#FFFFFF,#FFFFFF) padding-box,
+    linear-gradient(135deg,#FFFBEB 0%,#FEF3C7 45%,#E0F2FE 80%,#FCE7F3 100%) border-box;
+">
+  
 ```mermaid
-%%{init: {'theme': 'base'}}%%
+%%{init: {'theme':'base','themeVariables': {
+  'fontSize':'14px',
+  'textColor':'#374151',
+  'lineColor':'#F59E0B',          /* amber line accents */
+  'background':'#FFFBEB',         /* soft amber-50 */
+  'primaryColor':'#FEF3C7',       /* amber-100 */
+  'secondaryColor':'#E0F2FE',     /* sky-100 */
+  'tertiaryColor':'#FCE7F3',      /* pink-100 */
+  'ganttSectionBkgColor':'#FFFBEB',
+  'ganttSectionBkgColor2':'#FEFCE8',
+  'ganttTaskBkgColor':'#FDE68A',  /* amber-300 */
+  'ganttTaskBorderColor':'#F59E0B',
+  'ganttTaskTextColor':'#1F2937',
+  'ganttAxisTextColor':'#6B7280'
+}}}%%
 gantt
-    title Skill Proficiency Timeline
+    title Skill Proficiency Timeline (Pastel Amber)
     dateFormat YYYY
     axisFormat %Y
-    
+
     section Languages
-    Python (4+ years)           :done, 2022, 2025
-    R (5 years)                 :done, 2020, 2025
-    SQL (4 years)               :done, 2022, 2025
-    JavaScript (8 years)        :active, 2017, 2025
-    
+    Python (4+ years)      :done, 2022, 2025
+    R (5 years)            :done, 2020, 2025
+    SQL (4 years)          :done, 2022, 2025
+    JavaScript (8 years)   :active, 2017, 2025
+
     section ML/AI
-    Classical ML                :done, 2018, 2025
-    Deep Learning              :done, 2020, 2025
-    NLP                        :active, 2021, 2025
-    Computer Vision            :active, 2022, 2025
-    
+    Classical ML           :done, 2018, 2025
+    Deep Learning          :done, 2020, 2025
+    NLP                    :active, 2021, 2025
+    Computer Vision        :active, 2022, 2025
+
     section Healthcare
-    Ethical AI                :active, 2023, 2025
-    Bias Detection            :crit, active, 2023, 2025
-    Fairness Metrics          :crit, active, 2024, 2025
+    Ethical AI             :active, 2023, 2025
+    Bias Detection         :crit, active, 2023, 2025
+    Fairness Metrics       :crit, active, 2024, 2025
+
 ```
 
 </td></tr>
@@ -378,32 +401,56 @@ gantt
 
 <!-- Technical Competency Matrix -->
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#FFE0F5', 'primaryBorderColor': '#E6E0FF', 'primaryTextColor': '#8B5CF6', 'lineColor': '#FFB5CC', 'secondaryColor': '#D4FFE4', 'tertiaryColor': '#FFE5CC', 'background': '#FFF8FD', 'mainBkg': '#FFE0F5', 'fontSize': '16px'}}}%%
+%%{init: {'theme':'base',
+  'flowchart': {'curve':'basis'},
+  'themeVariables': {
+    'fontSize':'14px',
+    'textColor':'#64748B',          /* slate-500 */
+    'lineColor':'#E9D5FF',          /* violet-200 */
+    'background':'#FFFAFE',         /* blush-50 */
+    'mainBkg':'#FFFFFF',
+    'primaryColor':'#FDF2F8',       /* pink-100 */
+    'primaryBorderColor':'#E9D5FF', /* violet-200 */
+    'tertiaryColor':'#ECFEFF',      /* cyan-50 */
+    'clusterBkg':'#FAF5FF',         /* fuchsia-50 */
+    'clusterBorder':'#E9D5FF',
+    'radius':12
+}}}%%
 graph TB
-    subgraph "Technical Mastery [95%]"
-        ML[Machine Learning<br/>TensorFlow PyTorch<br/>95%] 
-        DS[Data Science<br/>Stats & Analysis<br/>93%]
-        AI[AI Engineering<br/>LLMs & NLP<br/>90%]
-        PY[Python Lover<br/>4+ years<br/>98%]
-    end
-    
-    subgraph "Healthcare Expertise [90%]"
-        HC[Clinical AI<br/>EHR & FHIR<br/>90%]
-        ET[Ethics & Bias<br/>Fairness Metrics<br/>92%]
-        WH[Women's Health<br/>Specialized Models<br/>88%]
-        CO[Compliance<br/>HIPAA GDPR FDA<br/>85%]
-    end
-    
-    subgraph "Cloud & Scale [88%]"
-        CL[Cloud Architecture<br/>AWS GCP Azure<br/>88%]
-        DP[Data Pipelines<br/>Airflow Spark<br/>93%]
-        RT[Real-time Systems<br/>Kafka Redis<br/>91%]
-        SC[Scale Systems<br/>K8s Docker<br/>89%]
-    end
-    
-    style ML fill:#FFE0F5,stroke:#E6E0FF,stroke-width:3px
-    style HC fill:#E6E0FF,stroke:#FFB5CC,stroke-width:3px
-    style CL fill:#D4FFE4,stroke:#B5E5C5,stroke-width:3px
+
+%% pastel classes (mismatched, all very light)
+classDef pink  fill:#FDF2F8,stroke:#FBCFE8,stroke-width:2px,color:#6B7280;
+classDef lilac fill:#F5F3FF,stroke:#DDD6FE,stroke-width:2px,color:#6B7280;
+classDef mint  fill:#ECFDF5,stroke:#BBF7D0,stroke-width:2px,color:#475569;
+classDef sky   fill:#F0F9FF,stroke:#BAE6FD,stroke-width:2px,color:#475569;
+
+subgraph "Technical Mastery · 95%"
+  ML[Machine Learning<br/>TensorFlow · PyTorch<br/>95%]
+  DS[Data Science<br/>Stats & Analysis<br/>93%]
+  AI[AI Engineering<br/>LLMs · NLP<br/>90%]
+  PY[Python Lover<br/>4+ years<br/>98%]
+end
+
+subgraph "Healthcare AI Expertise · 90%"
+  HC[Clinical AI<br/>EHR · FHIR<br/>90%]
+  ET[Ethics & Bias<br/>Fairness Metrics<br/>92%]
+  WH[Women's Health<br/>Specialized Models<br/>88%]
+  CO[Compliance<br/>HIPAA · GDPR · FDA<br/>85%]
+end
+
+subgraph "Cloud & Scale · 88%"
+  CL[Cloud Architecture<br/>AWS · GCP · Azure<br/>88%]
+  DP[Data Pipelines<br/>Airflow · Spark<br/>93%]
+  RT[Real-time Systems<br/>Kafka · Redis<br/>91%]
+  SC[Scale Systems<br/>K8s · Docker<br/>89%]
+end
+
+%% assign cute mismatched pastels
+class ML,ET,CL pink
+class DS,HC,DP lilac
+class AI,WH,RT mint
+class PY,CO,SC sky
+
 ```
 
 </div>
