@@ -949,6 +949,16 @@ P(Success) = 1 - P(Giving Up)  // Always positive
 Now let's go find some patterns in the noise.
 </p>
 
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let%27s+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
+</picture>
+
+<p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;">
+  …
+</p>
+
+<!-- START: paste outside any ``` fences --> <div align="center"> <picture> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=93C5FD&center=true&vCenter=true&width=520&lines=Soft+palette%2C+hard+science;Bias+is+a+bug%2C+not+a+feature;Make+it+work.+Make+it+fair.+Ship+it." alt="Pastel Blue Motto" /> </picture> </div> <!-- END: paste outside any ``` fences -->
+
 <br>
 
 <!-- Profile Stats with Mismatched Colors -->
@@ -956,5 +966,18 @@ Now let's go find some patterns in the noise.
 <img src="https://img.shields.io/github/last-commit/Cazzy-Aporbo/Cazzy-Aporbo?style=for-the-badge&color=D4FFE4&labelColor=E6E0FF" alt="Updated"/>
 
 </div>
+
+<p align="left" style="font-size:16px; line-height:1.8; color:#374151; margin:0 0 16px;">
+  …
+</p>
+
+<!-- Centered typing line -->
+<div align="center">
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=D8B5D8&center=true&vCenter=true&width=500&lines=Outlier+by+design%2C+not+by+accident;Finding+signal+where+others+see+noise;The+edge+cases+are+the+interesting+cases" alt="Mathematical Philosophy" />
+  </picture>
+</div>
+
+
 
 </div>
