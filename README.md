@@ -537,6 +537,113 @@ CNN accuracy: 95% | NLP F1: 0.92 | Deployment success rate: 100% (so far)
 </td></tr>
 </table>
 
+
+<br>
+
+<!-- Data Science & Visualization -->
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(180deg, #FFF8FD 0%, #DDEBFF 25%, #E6E0FF 50%, #FFCCE5 75%, #D4FFE4 100%); padding: 35px; border-radius: 30px;">
+
+<h3 align="center" style="color: #6366F1;">Data Science & Visualization</h3>
+<p align="center" style="color: #7C3AED; font-size: 14px;">Where math meets aesthetics</p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-Advanced-C7CEFA?style=for-the-badge&labelColor=FFCCE5" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Advanced-FFE0F5?style=for-the-badge&labelColor=93C5FD" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Advanced-FFCCE5?style=for-the-badge&labelColor=DDEBFF" alt="Matplotlib"/>
+<br><br>
+<img src="https://img.shields.io/badge/Seaborn-Advanced-B5C7F2?style=for-the-badge&labelColor=FFD6E8" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-Advanced-DDEBFF?style=for-the-badge&labelColor=F0E6FF" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Statsmodels-Intermediate-FFD6E8?style=for-the-badge&labelColor=C7CEFA" alt="Statsmodels"/>
+<img src="https://img.shields.io/badge/Excel-Advanced-D4FFE4?style=for-the-badge&labelColor=FFE4F2" alt="Excel"/>
+<br><br>
+<img src="https://img.shields.io/badge/Tableau-Intermediate-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power%20BI-Intermediate-E6E0FF?style=for-the-badge&labelColor=D4FFE4" alt="Power BI"/>
+<img src="https://img.shields.io/badge/R%20Language-Intermediate-DDEBFF?style=for-the-badge&labelColor=FFCCE5" alt="R"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-B5C7F2?style=for-the-badge&labelColor=FFE0F5" alt="SQL"/>
+</div>
+
+<br>
+
+<p align="center" style="font-size: 14px; color: #6366F1;">
+EDA speed runs | Interactive dashboards | Stats that sparkle 
+</p>
+
+</td></tr>
+</table>
+
+<br>
+
+<!-- Additional Programming & Explorations -->
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #FFCCE5 0%, #E6E0FF 30%, #D4FFE4 60%, #DDEBFF 100%); padding: 35px; border-radius: 30px;">
+
+<h3 align="center" style="color: #A855F7;">Programming Explorations</h3>
+<p align="center" style="color: #9333EA; font-size: 14px;">Because learning new languages keeps me curious </p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Swift-Basic-FFCCE5?style=for-the-badge&labelColor=DDEBFF" alt="Swift"/>
+<img src="https://img.shields.io/badge/C-Intermediate-B5C7F2?style=for-the-badge&labelColor=FFE0F5" alt="C"/>
+<img src="https://img.shields.io/badge/Rust-Basic-D4FFE4?style=for-the-badge&labelColor=F0E6FF" alt="Rust"/>
+<img src="https://img.shields.io/badge/Cassanda-Basic-FFD6E8?style=for-the-badge&labelColor=93C5FD" alt="Cassandra"/>
+<br><br>
+<img src="https://img.shields.io/badge/Fortran-Basic-E6E0FF?style=for-the-badge&labelColor=FFCCE5" alt="Fortran"/>
+<img src="https://img.shields.io/badge/COBOL-Basic-93C5FD?style=for-the-badge&labelColor=FFE4F2" alt="COBOL"/>
+<img src="https://img.shields.io/badge/Lisp-Basic-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="Lisp"/>
+<img src="https://img.shields.io/badge/TypeScript-Intermediate-C7CEFA?style=for-the-badge&labelColor=FFD1DC" alt="TypeScript"/>
+</div>
+
+<br>
+
+<p align="center" style="font-size: 14px; color: #A855F7;">
+Expanding horizons with classics, systems, and modern stacks
+</p>
+
+</td></tr>
+</table>
+
+
+<br>
+<!-- Transferrable Skills (Science ➝ Data) -->
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #DDEBFF 35%, #E6E0FF 70%, #FFECF5 100%); padding: 35px; border-radius: 30px;">
+
+<h3 align="center" style="color: #14B8A6;">Transferrable Skills</h3>
+<p align="center" style="color: #0E7490; font-size: 14px;">Where all skills come together </p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Integrative%20Biology-Advanced-C7CEFA?style=for-the-badge&labelColor=FFCCE5" alt="Integrative Biology"/>
+<img src="https://img.shields.io/badge/Chemical%20Analysis-Advanced-DAE8FC?style=for-the-badge&labelColor=FFE0F5" alt="Chem Analysis"/>
+<img src="https://img.shields.io/badge/Research%20Design-Advanced-B5C7F2?style=for-the-badge&labelColor=FFD6E8" alt="Research"/>
+<img src="https://img.shields.io/badge/Data%20Collection-Advanced-FFECF5?style=for-the-badge&labelColor=E6E0FF" alt="Data Collection"/>
+<br><br>
+<img src="https://img.shields.io/badge/GMP%20%26%20GDP-Advanced-D4FFE4?style=for-the-badge&labelColor=F0E6FF" alt="GMP/GDP"/>
+<img src="https://img.shields.io/badge/Quality%20Control-Advanced-DAE8FC?style=for-the-badge&labelColor=FFCCE5" alt="QC"/>
+<img src="https://img.shields.io/badge/Statistical%20Testing-Intermediate-AEC6EB?style=for-the-badge&labelColor=FFE4F2" alt="Stats"/>
+<img src="https://img.shields.io/badge/Lab%20Validation-Advanced-D6E0FF?style=for-the-badge&labelColor=D4FFE4" alt="Validation"/>
+<br><br>
+<img src="https://img.shields.io/badge/Project%20Management-Advanced-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="PM"/>
+<img src="https://img.shields.io/badge/Grant%20Writing-Intermediate-DAE8FC?style=for-the-badge&labelColor=C7CEFA" alt="Grants"/>
+<img src="https://img.shields.io/badge/Regulatory%20Compliance-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="Compliance"/>
+<img src="https://img.shields.io/badge/Admin%20Operations-Advanced-B5C7F2?style=for-the-badge&labelColor=FFDEE9" alt="Admin"/>
+</div>
+
+<br>
+
+<p align="center" style="font-size: 14px; color: #14B8A6;">
+from GMP checklists ➝ to data quality checks • from lab notebooks ➝ to reproducible pipelines
+</p>
+
+</td></tr>
+</table>
+
 </div>
 
 <br>
