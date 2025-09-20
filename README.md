@@ -230,8 +230,6 @@ timeline
 <!-- GITHUB ACTIVITY WITH VISUAL ELEMENTS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-copy-paste as-is:
-
 <!-- START — Periwinkle cute saying -->
 
 <div align="center">
