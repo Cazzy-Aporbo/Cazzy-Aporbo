@@ -634,6 +634,73 @@ Expanding horizons with classics, systems, and modern stacks
 <img src="https://img.shields.io/badge/Regulatory%20Compliance-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="Compliance"/>
 <img src="https://img.shields.io/badge/Admin%20Operations-Advanced-B5C7F2?style=for-the-badge&labelColor=FFDEE9" alt="Admin"/>
 </div>
+<br>
+<div style="height: 30px;"></div>
+
+  </table>
+
+</div>
+
+<br>
+<!-- Quantitative Edge (Stats & QC) -->
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #DDEBFF 33%, #E6E0FF 66%, #FFF8E7 100%); padding: 35px; border-radius: 30px;">
+
+<h3 align="center" style="color: #0EA5E9;">Quantitative Edge — Stats & QC</h3>
+<p align="center" style="color: #2563EB; font-size: 14px;">Intermediate → Advanced methods • from pipettes to p-values </p>
+
+<br>
+
+<div align="center">
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-Advanced-DDEBFF?style=for-the-badge&labelColor=B5C7F2" alt="Hypothesis Testing"/>
+<img src="https://img.shields.io/badge/Power%20Analysis-Advanced-D4FFE4?style=for-the-badge&labelColor-C7CEFA" alt="Power Analysis"/>
+<img src="https://img.shields.io/badge/Confidence%20Intervals-Advanced-E6E0FF?style=for-the-badge&labelColor-AEC6EB" alt="Confidence Intervals"/>
+<img src="https://img.shields.io/badge/Bootstrapping-Advanced-CCE5FF?style=for-the-badge&labelColor-D6E0FF" alt="Bootstrapping"/>
+
+<br><br>
+
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/ANOVA%20%2F%20ANCOVA-Advanced-AEC6EB?style=for-the-badge&labelColor-D4FFE4" alt="ANOVA/ANCOVA"/>
+<img src="https://img.shields.io/badge/Regression%20(Linear%2C%20Logistic)-Advanced-DAE8FC?style=for-the-badge&labelColor-B5C7F2" alt="Regression"/>
+<img src="https://img.shields.io/badge/Multivariate%20(PCA%2C%20FA)-Advanced-C7CEFA?style=for-the-badge&labelColor-E0F0FF" alt="PCA/FA"/>
+<img src="https://img.shields.io/badge/Causal%20Inference-Intermediate-D4FFE4?style=for-the-badge&labelColor-F0E6FF" alt="Causal Inference"/>
+
+<br><br>
+
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/Design%20of%20Experiments%20(DOE)-Advanced-E0F0FF?style=for-the-badge&labelColor-AEC6EB" alt="DOE"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-Advanced-BFD7ED?style=for-the-badge&labelColor-DDEBFF" alt="AB Testing"/>
+<img src="https://img.shields.io/badge/Nonparametric%20Tests-Advanced-D6E0FF?style=for-the-badge&labelColor-CCE5FF" alt="Nonparametrics"/>
+<img src="https://img.shields.io/badge/Time%20Series%20(ARIMA%2FProphet)-Intermediate-CDE7F0?style=for-the-badge&labelColor-B5C7F2" alt="Time Series"/>
+
+<br><br>
+
+<!-- Row 4 (QC / Chem) -->
+<img src="https://img.shields.io/badge/GMP%20%26%20GDP-Advanced-D4FFE4?style=for-the-badge&labelColor-E6E0FF" alt="GMP/GDP"/>
+<img src="https://img.shields.io/badge/Statistical%20Process%20Control%20(SPC)-Advanced-DDEBFF?style=for-the-badge&labelColor-AEC6EB" alt="SPC"/>
+<img src="https://img.shields.io/badge/Control%20Charts%20(X̄%2FR%2C%20p%2C%20c)-Advanced-E6E0FF?style=for-the-badge&labelColor-C7CEFA" alt="Control Charts"/>
+<img src="https://img.shields.io/badge/Process%20Capability%20(Cp%2FCpk)-Advanced-B5C7F2?style=for-the-badge&labelColor-D4FFE4" alt="Cp/Cpk"/>
+
+<br><br>
+
+<!-- Row 5 -->
+<img src="https://img.shields.io/badge/MSA%20(Gage%20R%26R)-Intermediate-CCE5FF?style=for-the-badge&labelColor-D6E0FF" alt="MSA Gage R&R"/>
+<img src="https://img.shields.io/badge/Monte%20Carlo%20Simulation-Intermediate-E0F0FF?style=for-the-badge&labelColor-DDEBFF" alt="Monte Carlo"/>
+<img src="https://img.shields.io/badge/Survival%20Analysis-Intermediate-AEC6EB?style=for-the-badge&labelColor-F0E6FF" alt="Survival"/>
+<img src="https://img.shields.io/badge/Sample%20Size%20Estimation-Advanced-D4FFE4?style=for-the-badge&labelColor-DAE8FC" alt="Sample Size"/>
+</div>
+
+<br>
+</p>
+
+<p align="center" style="font-size: 14px; color: #0EA5E9;">
+Turning good manufacturing practice into good modeling
+</p>
+
+</td></tr>
+</table>
+
 
 <br>
 
