@@ -224,6 +224,17 @@ timeline
 <!-- GITHUB ACTIVITY WITH VISUAL ELEMENTS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
+copy-paste as-is:
+
+<!-- START — Periwinkle cute saying -->
+
+<div align="center">
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4200&pause=2200&color=C7D2FE&center=true&vCenter=true&width=860&lines=Soft+periwinkle+gradients%2C+strong+guarantees;I+coax+signal+from+the+weird+corners+and+make+it+readable;Fair%2C+calm%2C+production%E2%80%91ready+%E2%80%94+that%E2%80%99s+the+vibe" alt="Periwinkle Saying" />
+  </picture>
+</div>
+<!-- END -->
+
 <div align="center">
 
 <table align="center" width="85%">
@@ -252,18 +263,31 @@ I write code like I used to write lab reports: obsessively documented, thoroughl
 </p>
 
 <!-- GitHub Stats Cards -->
+<!-- START — vibrant pastel vibe -->
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&icon_color=FFB5CC&ring_color=D4FFE4&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="185em"
+       src="https://github-readme-stats.vercel.app/api?username=Cazzy-Aporbo&show_icons=true&hide_border=true&border_radius=14&bg_color=45,FFF0F6,EFF6FF,ECFEFF,F0F9FF&title_color=F472B6&text_color=475569&icon_color=10B981&ring_color=A78BFA&include_all_commits=true&count_private=true&cache_seconds=86400"
+       alt="GitHub Stats — Pastel Pop"/>
   &nbsp;&nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazzy-Aporbo&layout=compact&hide_border=true&bg_color=FFF8FD&title_color=D8B5D8&text_color=C8A8C8&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img height="185em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazzy-Aporbo&layout=compact&hide_border=true&border_radius=14&bg_color=45,FEF3C7,EDE9FE,FCE7F3,E0F2FE&title_color=6366F1&text_color=334155&icon_color=F472B6&cache_seconds=86400"
+       alt="Top Languages — Pastel Pop"/>
 </div>
+<!-- END -->
+
 
 <br>
 
 <!-- Activity Graph -->
+<!-- START — vibrant pastel vibe for activity graph -->
 <picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cazzy-Aporbo&bg_color=FFF8FD&color=D8B5D8&line=FFB5CC&point=E6E0FF&area=true&hide_border=true&area_color=FFE0F5&title_color=D8B5D8" alt="Activity Graph" width="98%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cazzy-Aporbo&bg_color=FFF0F6&color=64748B&line=F472B6&point=93C5FD&area=true&area_color=E0F2FE&title_color=A78BFA&hide_border=true"
+    alt="Activity Graph — Pastel Pop"
+    width="98%"
+  />
 </picture>
+<!-- END -->
 
 </div>
 
