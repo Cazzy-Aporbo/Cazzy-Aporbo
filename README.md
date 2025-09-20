@@ -7,7 +7,7 @@
 
 <!-- Profile Stats with Mismatched Colors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cazzy-Aporbo&color=FFE0F5&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Cazzy-Aporbo&color=F2F6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Cazzy-Aporbo?color=D4FFE4&style=for-the-badge&labelColor=E6E0FF&label=Followers" alt="Followers">
   <img src="https://img.shields.io/github/stars/Cazzy-Aporbo?color=93C5FD&style=for-the-badge&labelColor=FFCCE5&label=Total+Stars" alt="Stars">
 </p>
