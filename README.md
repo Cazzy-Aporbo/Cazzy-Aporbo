@@ -32,10 +32,9 @@
 
 ---
 
-## ░░░░░░░░ LAYER 0: WHISPER PHASE [SOFTEST MISMATCHES] ░░░░░░░░
 
 <div align="center">
-
+ ░░░░░░░░ LAYER 0: WHISPER PHASE [SOFTEST MISMATCHES] ░░░░░░░░
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FFE0F5,EDE9FE,D4FFE4,FFCCE5,93C5FD,E6E0FF,B5E5C5,FEF3C7&height=200&section=header&text=About%20Me&fontSize=72&animation=twinkling&fontAlignY=40&desc=Who%20I%20Am%20and%20What%20I%20Do&descAlignY=65&descSize=22&fontColor=FFE0F5" alt="About Header"/>
 </picture>
@@ -80,10 +79,10 @@ If you care less about hype and more about calibration curves, we’ll get along
 
 ---
 
-## ▒▒▒▒▒▒▒▒ LAYER 1: GERMINATION [THE MISMATCHED ERA] ▒▒▒▒▒▒▒▒
+
 
 <div align="center">
-
+   ▒▒▒▒▒▒▒▒ LAYER 1: GERMINATION [THE MISMATCHED ERA] ▒▒▒▒▒▒▒▒
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D4FFE4,FFE0F5,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8&height=180&section=header&text=Professional%20Journey&fontSize=68&animation=fadeIn&fontAlignY=42&desc=From%20Lab%20Coat%20to%20Data%20Science%20Leadership&descAlignY=70&descSize=22&fontColor=E6E0FF" alt="Career Header"/>
 </picture>
@@ -123,10 +122,10 @@ FFCCE5 ▒▒▒▒▒▒▒▒ 30% reduction in errors ▒▒▒▒▒▒▒▒
 
 ---
 
-## ▓▓▓▓▓▓▓▓ LAYER 2: GROWTH [CONFIDENT MISMATCHES] ▓▓▓▓▓▓▓▓
+
 
 <div align="center">
-
+   ▓▓▓▓▓▓▓▓ LAYER 2: GROWTH [CONFIDENT MISMATCHES] ▓▓▓▓▓▓▓▓
 
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Growth%20Minded&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
@@ -165,19 +164,20 @@ def career_acceleration():
 
 ---
 
-## ░▒▓█ MY PROJECTS [MISMATCHED MASTERPIECES] █▓▒░
+
 
 <div align="center">
-
+   ░▒▓█ MY PROJECTS [MISMATCHED MASTERPIECES] █▓▒░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,A7F3D0&height=140&section=header&text=My%20Recent%20Projects&fontSize=46&animation=fadeIn&fontColor=D8B5D8" />
 </picture>
 
 </div>
 
-### SERENDIPITY FINDER [MY SIGNATURE]
+
 
 <table align="center" width="95%">
+SERENDIPITY FINDER [MY SIGNATURE]
 <tr><td style="background: linear-gradient(135deg, #E6E0FF 0%, #FFE0F5 50%, #FFE5CC 100%); padding: 40px; border-radius: 30px;">
 
 ```mermaid
@@ -229,6 +229,12 @@ Coverage in pastels:
 █████ 94% (lavender)
 ```
 <p align="center" style="font-size: 13px;">Bridging the gap between "Hello World" and production code.<br/>Every pattern benchmarked.</p>
+<img src="https://img.shields.io/badge/Python-Advanced-FFE0F5?style=flat-square&labelColor=D8B5D8"/>
+<img src="https://img.shields.io/badge/D3.js-Interactive-D4FFE4?style=flat-square&labelColor=B5E5C5"/>
+<img src="https://img.shields.io/badge/Statistics-Novel-FFCCE5?style=flat-square&labelColor=FFB5CC"/>
+
+</div>
+</td>
 </td>
 
 
@@ -248,6 +254,12 @@ Coverage in pastels:
 ```
 
 <p align="center" style="font-size: 13px;">An AI assistant that adapts its thinking style.<br/>Built with 147 shades of pastel.</p>
+<img src="https://img.shields.io/badge/AsyncIO-Fast-D4FFE4?style=flat-square&labelColor=B5E5C5"/>
+<img src="https://img.shields.io/badge/NumPy-Optimized-E0F5FF?style=flat-square&labelColor=93C5FD"/>
+<img src="https://img.shields.io/badge/Tests-200+-FFCCE5?style=flat-square&labelColor=FFB5CC"/>
+
+</div>
+</td>
 </td>
 
 <td width="33%" style="background: linear-gradient(135deg, #93C5FD 0%, #D4FFE4 100%); padding: 25px; border-radius: 20px;">
@@ -266,6 +278,12 @@ Infrastructure softness:
 ```
 
 <p align="center" style="font-size: 13px;">Infrastructure that composes itself.<br/>In mismatched pastels.</p>
+<img src="https://img.shields.io/badge/Opensource-100%25-E0F5FF?style=flat-square&labelColor=93C5FD"/>
+<img src="https://img.shields.io/badge/Foresight-20steps-93C5FD?style=flat-square&labelColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/Entropy-Maximal-C4B5FD?style=flat-square&labelColor=E0F5FF"/>
+
+</div>
+</td>
 </td>
 
 </tr>
@@ -273,10 +291,10 @@ Infrastructure softness:
 
 ---
 
-## ░▒▓█ TECHNICAL STACK [THE MISMATCHED COLLECTION] █▓▒░
+
 
 <div align="center">
-
+   ░▒▓█ TECHNICAL STACK [THE MISMATCHED COLLECTION] █▓▒░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,DDEBFF,F0E6FF,FFE4F2,B5C7F2&height=200&section=header&text=Tech%20Stack&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Skills%20That%20Power%20Innovation&descAlignY=70&descSize=22&fontColor=D4FFE4" alt="Skills Header"/>
 </picture>
@@ -399,10 +417,10 @@ Infrastructure softness:
 
 ---
 
-## ░▓░ STATISTICAL MASTERY [MISMATCHED METHODS] ░▓░
+
 
 <div align="center">
-
+   ░▓░ STATISTICAL MASTERY [MISMATCHED METHODS] ░▓░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Quantitative%20Skills&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
@@ -444,10 +462,10 @@ The lab coat is gone but the hypothesis testing remains.
 
 ---
 
-## ██░░ HEALTHCARE: WHERE MISMATCHES MATTER ░░██
+
 
 <div align="center">
-
+   ██░░ HEALTHCARE: WHERE MISMATCHES MATTER ░░██
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,93C5FD,D4FFE4,FFCCE5,E6E0FF,B5E5C5,FFD6E8,A7F3D0&height=160&section=header&text=Why%20Healthcare%20AI%20Matters&fontSize=52&animation=twinkling&fontAlignY=45&fontColor=FFCCE5" />
 </picture>
@@ -488,10 +506,10 @@ Shipping models that don't exclude<br/>
 
 ---
 
-## ░▒▓ THE MISMATCHED PHILOSOPHY ▓▒░
 
 <div align="center">
-
+ 
+   ░▒▓ THE MISMATCHED PHILOSOPHY ▓▒░
 <table align="center" width="80%">
 <tr><td style="background: linear-gradient(45deg, #FFE0F5 0%, #D4FFE4 14%, #93C5FD 28%, #FFCCE5 42%, #E6E0FF 56%, #B5E5C5 70%, #C7CEFA 84%, #FFD6E8 100%); padding: 40px; border-radius: 30px;">
 
@@ -516,10 +534,9 @@ Soft but never weak.
 
 ---
 
-## ████ CONTACT [WHERE MISMATCHES CONVERGE] ████
 
 <div align="center">
-
+   ████ CONTACT [WHERE MISMATCHES CONVERGE] ████
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
