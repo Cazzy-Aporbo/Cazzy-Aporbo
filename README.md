@@ -641,6 +641,28 @@ Soft but never weak.
 
 <br>
 
+<div align="center">
+
+<table align="center" width="85%">
+<tr><td style="background: linear-gradient(135deg, #E6E0FF 0%, #FFE5CC 50%, #93C5FD 100%); padding: 25px; border-radius: 20px;">
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor':'#FFE0F5','fontSize':'14px'}}}%%
+pie title Where My Code Lives
+    "Python (Data Science)" : 45
+    "Python (ML/AI)" : 30
+    "JavaScript (Viz)" : 15
+    "R (Stats)" : 8
+    "Shell (Automation)" : 2
+```
+
+<p align="center" style="font-size: 15px; color: #7C3AED;">
+I write code like I used to write lab reports: obsessively documented, thoroughly tested, and with enough comments that future-me won't hate past-me.
+</p>
+
+</td></tr>
+</table>
+
 <div align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #E6E0FF 25%, #FFE5CC 50%, #D4FFE4 75%, #E0F5FF 100%); padding: 30px; border-radius: 30px; width: 70%; box-shadow: 0 20px 40px rgba(230, 224, 255, 0.2);">
 
 <h3 style="color: #D8B5D8;">As a statistician specializing in outliers</h3>
