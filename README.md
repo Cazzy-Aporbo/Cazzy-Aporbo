@@ -1,7 +1,3 @@
-
-<div align="center">
- ░░▒▒▓▓██ WELCOME ██▓▓▒▒░░
-
 <div align="center">
 
 <picture>
@@ -32,9 +28,6 @@
 
 ---
 
-
-<div align="center">
- ░░░░░░░░ LAYER 0: WHISPER PHASE [SOFTEST MISMATCHES] ░░░░░░░░
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FDF2F8,FFE0F5,EDE9FE,D4FFE4,FFCCE5,93C5FD,E6E0FF,B5E5C5,FEF3C7&height=200&section=header&text=About%20Me&fontSize=72&animation=twinkling&fontAlignY=40&desc=Who%20I%20Am%20and%20What%20I%20Do&descAlignY=65&descSize=22&fontColor=FFE0F5" alt="About Header"/>
 </picture>
@@ -79,10 +72,6 @@ If you care less about hype and more about calibration curves, we’ll get along
 
 ---
 
-
-
-<div align="center">
-   ▒▒▒▒▒▒▒▒ LAYER 1: GERMINATION [THE MISMATCHED ERA] ▒▒▒▒▒▒▒▒
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D4FFE4,FFE0F5,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8&height=180&section=header&text=Professional%20Journey&fontSize=68&animation=fadeIn&fontAlignY=42&desc=From%20Lab%20Coat%20to%20Data%20Science%20Leadership&descAlignY=70&descSize=22&fontColor=E6E0FF" alt="Career Header"/>
 </picture>
@@ -122,11 +111,6 @@ FFCCE5 ▒▒▒▒▒▒▒▒ 30% reduction in errors ▒▒▒▒▒▒▒▒
 
 ---
 
-
-
-<div align="center">
-   ▓▓▓▓▓▓▓▓ LAYER 2: GROWTH [CONFIDENT MISMATCHES] ▓▓▓▓▓▓▓▓
-
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Growth%20Minded&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
@@ -164,10 +148,6 @@ def career_acceleration():
 
 ---
 
-
-
-<div align="center">
-   ░▒▓█ MY PROJECTS [MISMATCHED MASTERPIECES] █▓▒░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,A7F3D0&height=140&section=header&text=My%20Recent%20Projects&fontSize=46&animation=fadeIn&fontColor=D8B5D8" />
 </picture>
@@ -209,7 +189,7 @@ graph TD
 </td></tr>
 </table>
 
-### PROJECT MATRIX [COLOR CHAOS]
+### PROJECT MATRIX
 
 <table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
@@ -291,17 +271,13 @@ Infrastructure softness:
 
 ---
 
-
-
-<div align="center">
-   ░▒▓█ TECHNICAL STACK [THE MISMATCHED COLLECTION] █▓▒░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,DDEBFF,F0E6FF,FFE4F2,B5C7F2&height=200&section=header&text=Tech%20Stack&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Skills%20That%20Power%20Innovation&descAlignY=70&descSize=22&fontColor=D4FFE4" alt="Skills Header"/>
 </picture>
 
 </div>
 
-### MACHINE LEARNING & AI [MISMATCHED BY DESIGN]
+### MACHINE LEARNING & AI
 
 <table align="center" width="95%">
 <tr><td style="background: linear-gradient(180deg, #FFF8FD 0%, #FFE0F5 20%, #E6E0FF 40%, #D4FFE4 60%, #FFCCE5 80%, #FFF8FD 100%); padding: 35px; border-radius: 30px;">
@@ -329,7 +305,7 @@ Infrastructure softness:
 </td></tr>
 </table>
 
-### DATA SCIENCE & VISUALIZATION [BEAUTIFUL CHAOS]
+### DATA SCIENCE & VISUALIZATION
 
 <table align="center" width="95%">
 <tr><td style="background: linear-gradient(180deg, #FFF8FD 0%, #DDEBFF 25%, #E6E0FF 50%, #FFCCE5 75%, #D4FFE4 100%); padding: 35px; border-radius: 30px;">
@@ -358,7 +334,7 @@ Infrastructure softness:
 </td></tr>
 </table>
 
-### CLOUD & INFRASTRUCTURE [UNEXPECTED COMBINATIONS]
+### CLOUD & INFRASTRUCTURE
 
 <table align="center" width="95%">
 <tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0F5FF 50%, #FFCCE5 100%); padding: 35px; border-radius: 30px;">
@@ -387,7 +363,7 @@ Infrastructure softness:
 </td></tr>
 </table>
 
-### ADDITIONAL EXPLORATIONS [PASTEL PLAYGROUND]
+### ADDITIONAL EXPLORATIONS
 
 <table align="center" width="95%">
 <tr><td style="background: linear-gradient(135deg, #FFCCE5 0%, #E6E0FF 30%, #D4FFE4 60%, #DDEBFF 100%); padding: 35px; border-radius: 30px;">
@@ -417,10 +393,6 @@ Infrastructure softness:
 
 ---
 
-
-
-<div align="center">
-   ░▓░ STATISTICAL MASTERY [MISMATCHED METHODS] ░▓░
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Quantitative%20Skills&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
@@ -461,8 +433,6 @@ The lab coat is gone but the hypothesis testing remains.
 </div>
 
 ---
-
-
 
 <div align="center">
    ██░░ HEALTHCARE: WHERE MISMATCHES MATTER ░░██
@@ -590,7 +560,7 @@ Soft but never weak.
 
 ---
 
-## THE FINAL COMPRESSION [BEAUTIFULLY MISMATCHED]
+## THE FINAL COMPRESSION
 
 <div align="center">
 
