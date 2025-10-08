@@ -290,8 +290,29 @@ Infrastructure softness:
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,DDEBFF,F0E6FF,FFE4F2,B5C7F2&height=200&section=header&text=Tech%20Stack&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Skills%20That%20Power%20Innovation&descAlignY=70&descSize=22&fontColor=D4FFE4" alt="Skills Header"/>
 </picture>
-
+<div align="center" style="background:#FFF9FD;padding:12px;border-radius:12px;">
+  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino" style="filter:hue-rotate(310deg) saturate(1.3);" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap" style="filter:hue-rotate(280deg) saturate(1.2);" /></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" style="filter:hue-rotate(240deg) saturate(1.2);" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" style="filter:hue-rotate(200deg) saturate(1.3);" /></a>
+  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart" style="filter:hue-rotate(150deg) saturate(1.3);" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django" style="filter:hue-rotate(120deg) saturate(1.3);" /></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter" style="filter:hue-rotate(90deg) saturate(1.2);" /></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" style="filter:hue-rotate(60deg) saturate(1.2);" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" style="filter:hue-rotate(30deg) saturate(1.3);" /></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" style="filter:hue-rotate(350deg) saturate(1.2);" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" style="filter:hue-rotate(300deg) saturate(1.2);" /></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" style="filter:hue-rotate(260deg) saturate(1.2);" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" style="filter:hue-rotate(220deg) saturate(1.3);" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" style="filter:hue-rotate(180deg) saturate(1.2);" /></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch" style="filter:hue-rotate(140deg) saturate(1.2);" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" style="filter:hue-rotate(100deg) saturate(1.3);" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-Learn" style="filter:hue-rotate(60deg) saturate(1.3);" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" style="filter:hue-rotate(30deg) saturate(1.3);" /></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring" style="filter:hue-rotate(0deg) saturate(1.2);" /></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow" style="filter:hue-rotate(330deg) saturate(1.3);" /></a>
 </div>
+
 
 ### MACHINE LEARNING & AI
 
