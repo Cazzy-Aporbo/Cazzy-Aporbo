@@ -1,15 +1,26 @@
 <div align="center">
 
+<div align="center" style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;">
+  <!-- original -->
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:saturate(1.25);" />
+  <!-- hue variants -->
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:hue-rotate(45deg) saturate(1.25);" />
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:hue-rotate(90deg) saturate(1.25);" />
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:hue-rotate(135deg) saturate(1.25);" />
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:hue-rotate(200deg) saturate(1.25);" />
+  <img src="https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif" alt="pc" width="120" style="filter:hue-rotate(280deg) saturate(1.25);" />
+</div>
+
+
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=320&section=header&text=Hi%2C%20I%27m%20Cazzy&fontSize=98&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20x%20%E2%88%88%20Outlier%20%E2%88%A7%20x%20%E2%88%89%20Average%20%E2%87%92%20x%20%3D%20Me%20%E2%80%A2%20Storyteller&descAlignY=62&descSize=23&fontColor=FFF8FD" alt="Header"/>
 </picture>
 
-
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║  A LIFE IN MISMATCHED PASTELS                                                  ║
-║  Where every color combination is intentionally unexpected                     ║
-║  Soft chaos with hard purpose                                                  ║
+║  Every color misaligns just enough to make meaning                             ║
+║  Looks accidental—until you see the pattern                                    ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -688,7 +699,11 @@ P(Success) = 1 - P(Giving Up)  // Always positive
 
 <div align="center">
 
+![Computers](https://img1.picmix.com/output/stamp/normal/4/4/1/3/2613144_8dbe2.gif)
+
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,DDEBFF,F0E6FF,FFE4F2,B5C7F2,A7F3D0,34D399,16A34A&height=200&section=footer&text=Mathematical%20Identity&fontSize=56&animation=fadeIn&fontAlignY=65&desc=x%20%E2%88%88%20Outlier%20%E2%88%A7%20x%20%E2%88%89%20Average%20%E2%87%92%20x%20%3D%20Me&descAlignY=85&descSize=20&fontColor=FFE0F5" alt="Footer"/>
 </picture>
+
+
 </div>
