@@ -94,7 +94,7 @@ If you care less about hype and more about calibration curves, we’ll get along
 
 ```
 D4FFE4 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-93C5FD ▒▒▒▒▒▒▒▒ 2023: Data Science emerges ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+93C5FD ▒▒▒▒▒▒▒▒ 2019: Data Science emerges ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 FFCCE5 ▒▒▒▒▒▒▒▒ 30% reduction in errors ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 ```
 
@@ -451,7 +451,6 @@ The lab coat is gone but the hypothesis testing remains.
 ---
 
 <div align="center">
-   ██░░ HEALTHCARE: WHERE MISMATCHES MATTER ░░██
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,93C5FD,D4FFE4,FFCCE5,E6E0FF,B5E5C5,FFD6E8,A7F3D0&height=160&section=header&text=Why%20Healthcare%20AI%20Matters&fontSize=52&animation=twinkling&fontAlignY=45&fontColor=FFCCE5" />
 </picture>
@@ -494,8 +493,6 @@ Shipping models that don't exclude<br/>
 
 
 <div align="center">
- 
-   ░▒▓ THE MISMATCHED PHILOSOPHY ▓▒░
 <table align="center" width="80%">
 <tr><td style="background: linear-gradient(45deg, #FFE0F5 0%, #D4FFE4 14%, #93C5FD 28%, #FFCCE5 42%, #E6E0FF 56%, #B5E5C5 70%, #C7CEFA 84%, #FFD6E8 100%); padding: 40px; border-radius: 30px;">
 
@@ -522,7 +519,6 @@ Soft but never weak.
 
 
 <div align="center">
-   ████ CONTACT [WHERE MISMATCHES CONVERGE] ████
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
@@ -709,6 +705,5 @@ P(Success) = 1 - P(Giving Up)  // Always positive
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE0F5,D4FFE4,93C5FD,FFCCE5,E6E0FF,B5E5C5,C7CEFA,FFD6E8,DDEBFF,F0E6FF,FFE4F2,B5C7F2,A7F3D0,34D399,16A34A&height=200&section=footer&text=Mathematical%20Identity&fontSize=56&animation=fadeIn&fontAlignY=65&desc=x%20%E2%88%88%20Outlier%20%E2%88%A7%20x%20%E2%88%89%20Average%20%E2%87%92%20x%20%3D%20Me&descAlignY=85&descSize=20&fontColor=FFE0F5" alt="Footer"/>
 </picture>
-
 
 </div>
