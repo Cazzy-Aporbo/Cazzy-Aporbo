@@ -31,9 +31,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=D8B5D8&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=I+find+patterns+where+others+see+noise;Currently+fixing+healthcare's+gender+data+gap;Making+AI+fair+one+model+at+a+time" alt="Typing SVG" />
 </picture>
 
-![](https://img.shields.io/badge/Profile%20Views-Dynamic-F2F6FF?style=for-the-badge&labelColor=B5C7F2)
+<div align="center">
+
+
+<!-- profile views -->
+<img src="https://img.shields.io/badge/Profile_Views-2.7k-F2F6FF?style=for-the-badge&labelColor=B5C7F2&color=D8B5D8" alt="Profile Views"/>
+
 ![](https://img.shields.io/github/followers/Cazzy-Aporbo?color=EDE9FE&style=for-the-badge&labelColor=D8B5D8&label=Followers)
-![](https://img.shields.io/github/stars/Cazzy-Aporbo?color=93C5FD&style=for-the-badge&labelColor=FFCCE5&label=Total+Stars)
+![](https://img.shields.io/github/stars/Cazzy-Aporbo?color=93C5FD&style=for-the-badge&labelColor=B5C7F2&label=Total+Stars)
 
 </div>
 
