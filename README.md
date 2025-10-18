@@ -464,6 +464,16 @@ The lab coat is gone but the hypothesis testing remains.
 
 </div>
 
+<div align="center">
+
+### [View Advanced Technical Portfolio](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/Advanced_multi-modal-AI/blob/main/advanced-technical-portfolio.html)
+<sub>Comprehensive technical portfolio showcasing systems architecture, ML engineering, and infrastructure expertise</sub>
+
+### [View Technical Skills Portfolio](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/Advanced_multi-modal-AI/blob/main/technical-portfolio.html)
+<sub>Full stack engineering excellence with production-grade implementations</sub>
+
+</div>
+
 ---
 
 <div align="center">
