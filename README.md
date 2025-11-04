@@ -74,7 +74,7 @@ Approach: Effectiveness + Attractiveness + Impact = Excellence
 ```
 I started in a lab coat, where I learned that good science means obsessing over validation and reproducibility. Turns out, those habits translate pretty well to machine learning.
 
-I’m here to make sure we are building ethical AI. In women’s health, “good enough” models still fail real people, so my work is bias audits, subgroup calibration, and ruthless validation...and then shipping tools people actually use. I like the weird edges of data: tails, drift, the places fairness breaks. I’m stubborn about ethics and practical about delivery. I’ll trade a headline metric for a safer model every time and, I’ll show you why with evidence, not vibes. Why me? I bridge research and production.  I write the tests, instrument the monitors, and say “no” when the data can’t support the claim. Bring me the messy dataset you’ve been avoiding; I’ll tell you what the tails are saying, and we’ll make it useful together. 
+I’m here to help teams build ethical & sustainable systems. I like the weird edges of data: tails, drift, the places fairness breaks. I bridge research and production. I say “no” when the data can’t support the claim. Bring me the messy dataset you’ve been avoiding; I’ll tell you what the tails are saying, and we’ll make it useful together. 
 
 If you care less about hype and more about calibration curves, we’ll get along. I like turning messy data into useful, fair systems—models that explain themselves, pass their audits, and still look good in a dashboard. If you’re curious about outliers, tail behavior, and pushing code that doesn’t quietly exclude half the population, say hi.
 
