@@ -5,8 +5,8 @@
 
  <div align="center">
 
-### [The Architecture of Tomorrow's Medicine](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/velvet-python/blob/main/scripts/JH_presentation.html)
-<sub>Where Human Wisdom Meets Machine Precision - An Integrated AI Strategy for Healthcare</sub>
+### [Ethical AI in Healthcare](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/velvet-python/blob/main/scripts/JH_presentation.html)
+<sub>My Approach to AI Strategy for Healthcare</sub>
 
 </div>
 </picture>
