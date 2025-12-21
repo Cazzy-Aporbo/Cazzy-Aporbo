@@ -56,7 +56,7 @@ D4FFE4 ░░░░░░░░ Where pink met mint met purpose ░░░░░�
 
 ```yaml
 Name: Cazzy A.
-Current Role: Head of Data @ FoXX Health
+Current Role: Head of Innovation @ LOOPCHII
 Background: Quality Control Scientist → Ethical AI
 Trajectory: Former lab scientist who traded pipettes for Python
 
