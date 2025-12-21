@@ -502,7 +502,7 @@ MY INTERVENTION (IN MISMATCHED PASTELS):
 
 <div align="center">
 
-<h3>Head of Data @ FoXX Health</h3>
+<h3>Head of Innovation @ LOOPCHII</h3>
 
 Leading healthcare equity initiatives<br/>
 Building bias detection frameworks<br/>
