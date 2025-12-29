@@ -38,10 +38,10 @@ I'm the **Chief Data & AI Officer** at [Loopchii](https://loopchii.com), where I
 
 ```
 2025  ████████████████████████████████  Chief Data & AI Officer @ Loopchii
-2024  ██████████████████████████        Head of Data Science @ FoXX Health  
-2023  ████████████████████              Lead Data Scientist
-2022  ██████████████                    Data Scientist
-2019  ██████████                        Quality Control Scientist @ Thermo Fisher
+2025  ██████████████████████████        Head of Data Science @ FoXX Health  
+2024  ████████████████████              Lead Data Scientist
+2023  ██████████████                    Data Scientist
+2022  ██████████                        Quality Control Scientist @ Thermo Fisher
 ```
 
 ---
