@@ -14,11 +14,11 @@
 
 I'm the **Chief Data & AI Officer** at [Loopchii](https://loopchii.com), where I lead the development of human-centered AI systems built for real-world impact. My work focuses on closing the gap between what algorithms promise and what they actually deliver for underserved populations.
 
-**Background:** Lab scientist turned data leader. I spent years in quality control at Thermo Fisher Scientific before transitioning to data science, where I learned that the rigor of laboratory work—validation, reproducibility, documentation—translates directly to building trustworthy ML systems.
+**Background:** I started as a lab scientist in quality control, long before I ever trained a model. That experience shaped how I think about AI: systems should be validated, reproducible, and documented as carefully as any clinical assay. Now, I build AI where failure is expensive, bias is measurable, and the long tail actually matters.
 
 **Focus Areas:**
-- Healthcare AI built for real-world equity and performance
-- Bias detection and fairness in clinical algorithms  
+- Human-centered AI systems across high-impact domains
+- Bias detection and fairness in real-world algorithms  
 - Bias governance, compliance, and responsible AI regulation
 - Pattern discovery in distribution tails (my [Serendipity Finder](https://github.com/Cazzy-Aporbo/Serendipity-Finder) work)
 - Bridging research and production
