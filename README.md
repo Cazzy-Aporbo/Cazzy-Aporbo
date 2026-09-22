@@ -1,189 +1,69 @@
-<div align="center">
+<a href="https://cazzy-aporbo.github.io/Cazzy-Aporbo/"><img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/introduction.svg" alt="Cazandra Aporbo — Cazzy. CEO, LOOPCHii. Curiosity, with consequences." width="100%"></a>
 
-<br>
+I'm **Cazzy**. I lead [<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/wordmark.svg" alt="LOOPCHii" width="86" height="23">](https://github.com/loopchii), where research, software and design meet questions that matter beyond a screen.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B8DFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cazandra-aporbo)
-[![Email](https://img.shields.io/badge/Email-Contact-FF9F68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loopchii.tech@gmail.com)
-[![Loopchii](https://img.shields.io/badge/Loopchii-Visit-050510?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjN0I4REZGIi8+PHRleHQgeD0iNyIgeT0iMTciIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwNTA1MTAiPkw8L3RleHQ+PC9zdmc+&logoColor=white)](https://loopchii.com)
+My starting point was laboratory quality control. It left me with a useful habit: ask what a result can actually support before deciding what to do with it. That question still follows me into data science, AI governance and the things I build.
 
-</div>
+**Consequential AI** is how I describe that focus: intelligence considered alongside the people, places and decisions it affects. I care about what a system can do—and what happens when someone has to live with its answer.
 
----
+<a href="https://cazzy-aporbo.github.io/Cazzy-Aporbo/#experiment"><img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/enter-notebook.svg" alt="Open the living notebook: a small experiment and a closer look at the work" width="100%"></a>
 
-### About
+<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/section-01.svg" alt="" width="100%">
 
-I'm the **Chief Data & AI Officer** at [Loopchii](https://loopchii.com), where I lead the development of human-centered AI systems built for real-world impact. My work focuses on closing the gap between what algorithms promise and what they actually deliver for underserved populations.
+## A few things you can look inside
 
-**Background:** I started as a lab scientist in quality control, long before I ever trained a model. That experience shaped how I think about AI: systems should be validated, reproducible, and documented as carefully as any clinical assay. Now, I build AI where failure is expensive, bias is measurable, and the long tail actually matters.
+<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/threads.svg" alt="Three connected interests: examine data and evidence; build software and models; make ideas tangible through graphics, interaction and play. A conceptual map, not measured data." width="100%">
 
-**Focus Areas:**
-- Human-centered AI systems across high-impact domains
-- Bias detection and fairness in real-world algorithms  
-- Bias governance, compliance, and responsible AI regulation
-- Pattern discovery in distribution tails (my [Serendipity Finder](https://github.com/Cazzy-Aporbo/Serendipity-Finder) work)
-- Bridging research and production
+| A question I follow | A public place to explore it |
+| :--- | :--- |
+| **Can another person retrace the result?** | [Velvet Python](https://github.com/Cazzy-Aporbo/velvet-python) — Python experiments with [data validation and dataset signatures](https://github.com/Cazzy-Aporbo/velvet-python/blob/main/src/data_utils.py), alongside [tests](https://github.com/Cazzy-Aporbo/velvet-python/tree/main/tests). |
+| **What changes when different signals meet?** | [Multimodal AI experiments](https://github.com/Cazzy-Aporbo/Advanced_multi-modal-AI) — a public exploration of models and fusion, including [PyTorch attention implementations](https://github.com/Cazzy-Aporbo/Advanced_multi-modal-AI/blob/main/core/attention_mechanisms.py). |
+| **What happens when a plausible answer travels?** | [AI hallucination analysis](https://github.com/Cazzy-Aporbo/AI-hallucination-analysis/blob/main/ai_hallucinate.ipynb) — a notebook exploring documented legal hallucination cases, missing data and patterns over time. |
+| **Can a picture make a difficult idea easier to question?** | [Pretty Vizuals](https://github.com/Cazzy-Aporbo/pretty-vizuals) — scientific and exploratory graphics, with Python, Matplotlib, Plotly and geospatial work. |
 
----
+These are public studies and experiments, with different scopes and levels of maturity. The source and its limitations are part of the work.
 
-### Education & Credentials
+<details>
+<summary><strong>A small question before you go: what does an average leave out?</strong></summary>
 
-| Degree | Institution | Focus |
-|--------|-------------|-------|
-| **MS Data Science** | University of Denver | Machine Learning, Statistical Methods |
-| **BS Integrative Biology** | Oregon State University | Chemistry Minor |
-| **AI in Healthcare Certificate** | Johns Hopkins University | Clinical AI Applications (2025) |
+For these twelve invented values, the mean is **6**:
 
----
+`2, 3, 4, 4, 5, 5, 5, 6, 6, 7, 8, 17`
 
-### Career Trajectory
+The arithmetic is correct. The value **17** is still there. A useful summary and a complete account are different things.
 
-```
-2025  ████████████████████████████████  Chief Data & AI Officer @ Loopchii
-2025  ██████████████████████████        Head of Data Science @ FoXX Health  
-2024  ████████████████████              Lead Data Scientist
-2023  ██████████████                    Data Scientist
-2022  ██████████                        Quality Control Scientist @ Thermo Fisher
-```
+[Change the view in the interactive notebook →](https://cazzy-aporbo.github.io/Cazzy-Aporbo/#experiment)
 
----
+</details>
 
-### Featured Work
+<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/section-02.svg" alt="" width="100%">
 
-<table>
-<tr>
-<td width="50%">
+## The background, without the badge wall
 
-#### [Serendipity Finder](https://github.com/Cazzy-Aporbo/Serendipity-Finder)
-Advanced framework for detecting extreme-value correlations in distribution tails. Standard regression shows r=0.06; tail analysis reveals r=0.85.
+I work across **Python, statistical analysis, machine learning, data visualization and interactive design**. My interests in healthcare and biology keep the human stakes close; building software makes the questions concrete.
 
-![Python](https://img.shields.io/badge/Python-7B8DFF?style=flat-square&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-FF9F68?style=flat-square)
-![Novel Algorithm](https://img.shields.io/badge/Novel-050510?style=flat-square)
+<details>
+<summary><strong>Education &amp; earlier work</strong></summary>
 
-</td>
-<td width="50%">
+- **MS, Data Science** — University of Denver.
+- **BS, Integrative Biology; Chemistry minor** — Oregon State University.
+- **AI in Healthcare certificate** — Johns Hopkins University, 2025.
+- Earlier work spans laboratory quality control and data science leadership.
 
-#### [Wearable Health Equity](https://github.com/Cazzy-Aporbo/Wearable-Health-Data)
-Analysis frameworks for understanding how consumer health technology serves—and underserves—different populations. Quantifying the gap between marketing claims and clinical reality.
+[Professional background on LinkedIn →](https://www.linkedin.com/in/cazandra-aporbo)
 
-![Healthcare](https://img.shields.io/badge/Healthcare-7B8DFF?style=flat-square)
-![Equity](https://img.shields.io/badge/Equity-FF9F68?style=flat-square)
-![Research](https://img.shields.io/badge/Research-050510?style=flat-square)
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/section-03.svg" alt="" width="100%">
 
-#### [StreamLens Analytics](https://github.com/Cazzy-Aporbo/StreamLens-Analytics)
-Quantifying media representation by detecting subtle bias patterns in streaming platforms. Interactive dashboards that reveal what content catalogs actually contain.
+## Where the work goes next
 
-![Bias Detection](https://img.shields.io/badge/Bias%20Detection-7B8DFF?style=flat-square)
-![Visualization](https://img.shields.io/badge/D3.js-FF9F68?style=flat-square)
+At [<img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/wordmark.svg" alt="LOOPCHii" width="86" height="23">](https://github.com/loopchii), I bring these interests into one longer undertaking: research and software for a world where technical decisions have human consequences. Ethics belongs in the questions we ask, the evidence we keep, and the choices we leave people.
 
-</td>
-<td width="50%">
+There is room for delight, too. **[Ouchii Mori](https://www.loopchii.games/)** is our upcoming little world of monsters, small steps and large feelings. Absolutely no obligation to be normal.
 
-#### [Velvet Python](https://github.com/Cazzy-Aporbo/velvet-python)
-Production-grade Python patterns with comprehensive testing. Bridging the gap between tutorials and real-world code.
+<a href="https://github.com/loopchii"><img src="https://raw.githubusercontent.com/Cazzy-Aporbo/Cazzy-Aporbo/main/docs/assets/enter-loopchii.svg" alt="Meet LOOPCHii: the questions become a company. Explore the organization and its public worlds." width="100%"></a>
 
-![Python](https://img.shields.io/badge/Python-7B8DFF?style=flat-square&logo=python&logoColor=white)
-![Testing](https://img.shields.io/badge/94%25%20Coverage-FF9F68?style=flat-square)
+[Company](https://www.loopchii.com/) · [Public worlds](https://github.com/loopchii#find-the-part-that-draws-you-in) · [Personal notebook](https://cazzy-aporbo.github.io/Cazzy-Aporbo/) · [LinkedIn](https://www.linkedin.com/in/cazandra-aporbo) · [Start a conversation](https://www.loopchii.com/contact/)
 
-</td>
-</tr>
-</table>
-
----
-
-### Technical Expertise
-
-<div align="center">
-
-**Machine Learning & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-7B8DFF?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-Advanced-7B8DFF?style=flat-square&logo=huggingface&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Advanced-FF9F68?style=flat-square&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Advanced-FF9F68?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-050510?style=flat-square&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-Advanced-050510?style=flat-square&logo=mlflow&logoColor=white)
-
-**Data Science & Statistics**
-
-![Python](https://img.shields.io/badge/Python-Advanced-7B8DFF?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-7B8DFF?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-FF9F68?style=flat-square&logo=numpy&logoColor=white)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-Advanced-FF9F68?style=flat-square)
-![Causal Inference](https://img.shields.io/badge/Causal_Inference-Intermediate-050510?style=flat-square)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Advanced-050510?style=flat-square)
-
-**Infrastructure & Engineering**
-
-![Docker](https://img.shields.io/badge/Docker-Advanced-7B8DFF?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-7B8DFF?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9F68?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-FF9F68?style=flat-square&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-Intermediate-050510?style=flat-square&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-Advanced-050510?style=flat-square&logo=apache-spark&logoColor=white)
-
-</div>
-
----
-
-### What I'm Building at Loopchii
-
-**The Problem:** Most AI fails not because algorithms are wrong, but because human intent gets lost in translation. Goals are messy. Requirements are incomplete. Context is assumed.
-
-**Our Approach:** We start with intent—the raw, unstructured human need—and loop it through rigorous methodology until it becomes measurable, responsible, and real.
-
-**Current Products:**
-- **AuthLoop** — Prior authorization AI reducing administrative burden
-- **WearableLoop** — Translating consumer wearable data into clinical insights
-- **SymptomLoop** — Correlating symptoms with biometrics for pattern discovery
-
-[Learn more at loopchii.com →](https://loopchii.com)
-
----
-
-### Recognition
-
-Oscar Humberto Montemayor Award · Oregon State University · 2022
-
-### Research 
-
-- **AI Ethics Framework** — Comprehensive framework covering bias sources, fairness metrics, and policy landscape for healthcare AI
-- **Biomimicry Compendium** — Research synthesis on nature-inspired design across architecture, materials, and systems (39 academic citations)
-- **Ethical AI in Healthcare** — [Presentation](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/velvet-python/blob/main/scripts/JH_presentation.html) on AI strategy for healthcare equity
-
----
-
-### Let's Connect
-
-I'm interested in conversations about:
-- Healthcare AI and equity
-- Bias detection in clinical algorithms
-- Pattern discovery in complex data
-- Building responsible AI systems
-
-The best way to reach me is [LinkedIn](https://linkedin.com/in/cazandra-aporbo) or [email](mailto:loopchii.tech@gmail.com).
-
----
-
-<div align="center">
-
-![](https://img.shields.io/badge/━━━━━━━━━━-050510?style=flat-square)
-![](https://img.shields.io/badge/━━━━━━━━━━-7B8DFF?style=flat-square)
-![](https://img.shields.io/badge/━━━━━━━━━━-FF9F68?style=flat-square)
-![](https://img.shields.io/badge/━━━━━━━━━━-7B8DFF?style=flat-square)
-![](https://img.shields.io/badge/━━━━━━━━━━-050510?style=flat-square)
-
-</div>
-<div align="center">
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9F68,50:7B8DFF,100:050510&height=120&section=footer)
-
-<div align="center">
-
-</div>
+*An interesting question is a perfectly good introduction.*

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /Cazzy-Aporbo/
+Sitemap: https://cazzy-aporbo.github.io/Cazzy-Aporbo/sitemap.xml
